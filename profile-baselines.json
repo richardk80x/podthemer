@@ -1,0 +1,212 @@
+{
+  "ipod1g2g-1.5": {
+    "clear": {
+      "payload_sha256": "5efde9b7a6aa35cd1eb6b0c148a203a834afc1a5d508c7023dfbfe8a01c05018",
+      "font_sizes": [
+        12,
+        11,
+        10,
+        11
+      ],
+      "icon_count": 0
+    },
+    "focus": {
+      "payload_sha256": "abc9a21c9379e1a792f1060cc83047f81aff53c6929e1e1a6581cfa92c390c8a",
+      "font_sizes": [
+        14,
+        11,
+        10,
+        11
+      ],
+      "icon_count": 0
+    },
+    "compact": {
+      "payload_sha256": "5e4ff19d2b7b017d59055655bd4029cfbb29b9fded1fcfa973d8a83dc7857d6f",
+      "font_sizes": [
+        12,
+        10,
+        9,
+        10
+      ],
+      "icon_count": 0
+    },
+    "enlarge": {
+      "payload_sha256": "9d7e93bbfb65b23a3ff4ca8f808fab7b6068a4b2a8d64e95e874e7b682740461",
+      "font_sizes": [
+        13,
+        11,
+        10,
+        11
+      ],
+      "icon_count": 0
+    }
+  },
+  "ipod3g-2.3": {
+    "clear": {
+      "payload_sha256": "b9175f5a5ff3f2bd8943d2c8741459010f54d4de7fb4c6ad6c3136ecd1295c28",
+      "font_sizes": [
+        12,
+        11,
+        10,
+        11
+      ],
+      "icon_count": 0
+    },
+    "focus": {
+      "payload_sha256": "53fd83e4587d968b6a0c7b3de63f8e1a327342f35e7652e04ef1c2cef292ffd2",
+      "font_sizes": [
+        14,
+        11,
+        10,
+        11
+      ],
+      "icon_count": 0
+    },
+    "compact": {
+      "payload_sha256": "926e1a925b7c9f5dc0e0754e763e78251a63799bf94daf75bdee4ffd25515774",
+      "font_sizes": [
+        12,
+        10,
+        9,
+        10
+      ],
+      "icon_count": 0
+    },
+    "enlarge": {
+      "payload_sha256": "b9ea816aa512e05e18e5cf9eb6966878aab5a840fc396299d161dd1fe7bdec07",
+      "font_sizes": [
+        13,
+        11,
+        10,
+        11
+      ],
+      "icon_count": 0
+    }
+  },
+  "ipod4g-monochrome-3.1.1": {
+    "clear": {
+      "payload_sha256": "dbe195a3ce819d20600f916cd7e1f3c3e3f185d81c296a2b674bf974b985b07d",
+      "font_sizes": [
+        12,
+        11,
+        10,
+        11
+      ],
+      "icon_count": 0
+    },
+    "focus": {
+      "payload_sha256": "9325c11b38c29fb9a780295f07e26f492e71f01ed1783d94324224c170320b47",
+      "font_sizes": [
+        14,
+        11,
+        10,
+        11
+      ],
+      "icon_count": 0
+    },
+    "compact": {
+      "payload_sha256": "cc5c053e6ce596ade35ec5b61462d3f15b06ea07062cdba62a1529b08f1bfde1",
+      "font_sizes": [
+        12,
+        10,
+        9,
+        10
+      ],
+      "icon_count": 0
+    },
+    "enlarge": {
+      "payload_sha256": "1dd9db928b0ba16a2ec19adbb40e2dd1c9ae7a4527640725ed88b0bd3ed6c0ab",
+      "font_sizes": [
+        13,
+        11,
+        10,
+        11
+      ],
+      "icon_count": 0
+    }
+  },
+  "ipodmini1g-1.4.1": {
+    "clear": {
+      "payload_sha256": "77b4d0ce2d3f6c82721854d4780c1d852f140a674cf5b1e0f4da7ae69476ef8d",
+      "font_sizes": [
+        12,
+        11,
+        10,
+        11
+      ],
+      "icon_count": 0
+    },
+    "focus": {
+      "payload_sha256": "b69ca601d7a448a2fc41371a4b3a37ed4f2279738b2da42d77b97ca2ec8fec0d",
+      "font_sizes": [
+        14,
+        11,
+        10,
+        11
+      ],
+      "icon_count": 0
+    },
+    "compact": {
+      "payload_sha256": "cfe1eb24866c59a7bbecf3e578da49dd30f977a72d6e795f84b8bd713f9c2538",
+      "font_sizes": [
+        12,
+        10,
+        9,
+        10
+      ],
+      "icon_count": 0
+    },
+    "enlarge": {
+      "payload_sha256": "b574100d0c881207446123593bc44b9236820ac894b506cca2329f0238735e61",
+      "font_sizes": [
+        13,
+        11,
+        10,
+        11
+      ],
+      "icon_count": 0
+    }
+  },
+  "ipodmini2g-1.4.1": {
+    "clear": {
+      "payload_sha256": "ce9502900b427910ad0e55a24d3560335a7712588b1547bd47e91090da0ba0c8",
+      "font_sizes": [
+        12,
+        11,
+        10,
+        11
+      ],
+      "icon_count": 0
+    },
+    "focus": {
+      "payload_sha256": "d44e4a217c5cabe31aba9d069b69c49e40f3d21603773327c09da5dbd85aeb89",
+      "font_sizes": [
+        14,
+        11,
+        10,
+        11
+      ],
+      "icon_count": 0
+    },
+    "compact": {
+      "payload_sha256": "301b897f89f8102180665f39a4b53391f0b599521ffbd03abaad651841f4e4c7",
+      "font_sizes": [
+        12,
+        10,
+        9,
+        10
+      ],
+      "icon_count": 0
+    },
+    "enlarge": {
+      "payload_sha256": "6ae679b2c2e933dc899d73319f88896382d23871356af9aef75de7456e3be72d",
+      "font_sizes": [
+        13,
+        11,
+        10,
+        11
+      ],
+      "icon_count": 0
+    }
+  }
+}

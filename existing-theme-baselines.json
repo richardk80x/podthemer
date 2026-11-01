@@ -1,0 +1,62 @@
+{
+  "clear": {
+    "config": {
+      "id": "clear",
+      "name": "Clear",
+      "description": "Clean sans-serif text and airy menus with original iPod icons.",
+      "font": "inter",
+      "weight": 500,
+      "main_size": 12,
+      "secondary_size": 11,
+      "row_height": 24,
+      "inset": 8,
+      "icons": "stock"
+    },
+    "payload_sha256": "dbe195a3ce819d20600f916cd7e1f3c3e3f185d81c296a2b674bf974b985b07d"
+  },
+  "focus": {
+    "config": {
+      "id": "focus",
+      "name": "Focus",
+      "description": "Distinct letterforms and bold text with the most breathing room.",
+      "font": "roboto",
+      "weight": 700,
+      "main_size": 14,
+      "secondary_size": 11,
+      "row_height": 26,
+      "inset": 10,
+      "icons": "stock"
+    },
+    "payload_sha256": "9325c11b38c29fb9a780295f07e26f492e71f01ed1783d94324224c170320b47"
+  },
+  "compact": {
+    "config": {
+      "id": "compact",
+      "name": "Compact",
+      "description": "Modern lettering with more of your library on screen.",
+      "font": "inter",
+      "weight": 400,
+      "main_size": 12,
+      "secondary_size": 10,
+      "row_height": 20,
+      "inset": 7,
+      "icons": "stock"
+    },
+    "payload_sha256": "cc5c053e6ce596ade35ec5b61462d3f15b06ea07062cdba62a1529b08f1bfde1"
+  },
+  "enlarge": {
+    "config": {
+      "id": "enlarge",
+      "name": "Enlarge",
+      "description": "Larger 13px semibold lettering and roomy menus with original iPod icons.",
+      "font": "inter-tight",
+      "weight": 600,
+      "main_size": 13,
+      "secondary_size": 11,
+      "row_height": 24,
+      "inset": 8,
+      "icons": "stock"
+    },
+    "payload_sha256": "1dd9db928b0ba16a2ec19adbb40e2dd1c9ae7a4527640725ed88b0bd3ed6c0ab"
+  }
+}

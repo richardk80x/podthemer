@@ -1,0 +1,109 @@
+[
+  {
+    "id": "ipod1g2g-1.5",
+    "display_name": "iPod 1st / 2nd generation",
+    "firmware_version": "1.5",
+    "payload_name": "Firmware-1.1.5",
+    "payload_sha256": "af3950c2253dfd0a9f743440f01634ddb8ce018115c05d9ca0e675912202a3df",
+    "lcd_width": 160,
+    "lcd_height": 128,
+    "preview_style": "scroll-wheel-1g2g",
+    "identification": "Exact verified firmware payload SHA-256 and manifest family",
+    "supported": true,
+    "resource_map": "profiles/ipod1g2g-1.5.json",
+    "manifest_family_id": 1,
+    "manifest_updater_family_id": 1,
+    "hardware_tested": false,
+    "menu_counts": {
+      "main": 6,
+      "music": 7,
+      "settings": 16
+    }
+  },
+  {
+    "id": "ipod3g-2.3",
+    "display_name": "iPod 3rd generation",
+    "firmware_version": "2.3",
+    "payload_name": "Firmware-2.2.3",
+    "payload_sha256": "73817276159e53cbe3d988a76843c663706a621a19cccc6af4eb957d735f63c3",
+    "lcd_width": 160,
+    "lcd_height": 128,
+    "preview_style": "touch-wheel-3g",
+    "identification": "Exact verified firmware payload SHA-256 and manifest family",
+    "supported": true,
+    "resource_map": "profiles/ipod3g-2.3.json",
+    "manifest_family_id": 2,
+    "manifest_updater_family_id": 2,
+    "hardware_tested": false,
+    "menu_counts": {
+      "main": 6,
+      "music": 7,
+      "settings": 14
+    }
+  },
+  {
+    "id": "ipod4g-monochrome-3.1.1",
+    "display_name": "iPod 4th generation \u00b7 monochrome",
+    "model_family": "iPod",
+    "generation": 4,
+    "firmware_version": "3.1.1",
+    "payload_name": "Firmware-4.3.1.1",
+    "payload_sha256": "5b5ce4e560ce03859a2ec30ca7f36ada01dd68e15ce0ca62b3bf847158378d58",
+    "lcd_width": 160,
+    "lcd_height": 128,
+    "preview_style": "click-wheel-4g",
+    "identification": "Exact verified firmware payload SHA-256",
+    "supported": true,
+    "resource_map": "resource-map.json",
+    "manifest_family_id": 4,
+    "manifest_updater_family_id": 4,
+    "hardware_tested": false,
+    "menu_counts": {
+      "main": 6,
+      "music": 8,
+      "settings": 15
+    }
+  },
+  {
+    "id": "ipodmini1g-1.4.1",
+    "display_name": "iPod mini 1st generation",
+    "firmware_version": "1.4.1",
+    "payload_name": "Firmware-3.2.6.1",
+    "payload_sha256": "6e092b42101cf4f246cd3cf79972e47d38a4e8a268cf751238a7a515cca65fcc",
+    "lcd_width": 138,
+    "lcd_height": 110,
+    "preview_style": "click-wheel-mini",
+    "identification": "Exact verified firmware payload SHA-256 and manifest family",
+    "supported": true,
+    "resource_map": "profiles/ipodmini1g-1.4.1.json",
+    "manifest_family_id": 3,
+    "manifest_updater_family_id": 3,
+    "hardware_tested": false,
+    "menu_counts": {
+      "main": 6,
+      "music": 8,
+      "settings": 15
+    }
+  },
+  {
+    "id": "ipodmini2g-1.4.1",
+    "display_name": "iPod mini 2nd generation",
+    "firmware_version": "1.4.1",
+    "payload_name": "Firmware-7.2.6.1",
+    "payload_sha256": "752118f56366d8993cf5920629763f07b82564456cb91881f0b7ae9a219babcd",
+    "lcd_width": 138,
+    "lcd_height": 110,
+    "preview_style": "click-wheel-mini",
+    "identification": "Exact verified firmware payload SHA-256 and manifest family",
+    "supported": true,
+    "resource_map": "profiles/ipodmini2g-1.4.1.json",
+    "manifest_family_id": 3,
+    "manifest_updater_family_id": 7,
+    "hardware_tested": false,
+    "menu_counts": {
+      "main": 6,
+      "music": 8,
+      "settings": 15
+    }
+  }
+]

@@ -1,0 +1,26 @@
+test_all_screen_previews_and_later_menu_pages_render (test_engine.ThemeEngineTests.test_all_screen_previews_and_later_menu_pages_render) ... ok
+test_checksums_are_valid_after_modification (test_engine.ThemeEngineTests.test_checksums_are_valid_after_modification) ... ok
+test_current_themes_match_approved_release_baselines (test_engine.ThemeEngineTests.test_current_themes_match_approved_release_baselines) ... ok
+test_enlarge_cannot_silently_fall_back_to_small_text (test_engine.ThemeEngineTests.test_enlarge_cannot_silently_fall_back_to_small_text) ... ok
+test_enlarge_keeps_enlarged_sizes_with_open_semibold_and_stock_icons (test_engine.ThemeEngineTests.test_enlarge_keeps_enlarged_sizes_with_open_semibold_and_stock_icons) ... ok
+test_every_original_picture_is_preserved_in_every_theme (test_engine.ThemeEngineTests.test_every_original_picture_is_preserved_in_every_theme) ... ok
+test_existing_outputs_are_never_overwritten (test_engine.ThemeEngineTests.test_existing_outputs_are_never_overwritten) ... ok
+test_export_round_trip_preserves_manifest (test_engine.ThemeEngineTests.test_export_round_trip_preserves_manifest) ... ok
+test_firmware_identification_uses_contents_not_filename (test_engine.ThemeEngineTests.test_firmware_identification_uses_contents_not_filename) ... ok
+test_focus_has_larger_text_and_every_preset_fits_font_allocations (test_engine.ThemeEngineTests.test_focus_has_larger_text_and_every_preset_fits_font_allocations) ... ok
+test_inspect_reports_model_without_creating_firmware (test_engine.ThemeEngineTests.test_inspect_reports_model_without_creating_firmware) ... ok
+test_menus_commands_text_and_manifests_survive_all_themes (test_engine.ThemeEngineTests.test_menus_commands_text_and_manifests_survive_all_themes) ... ok
+test_modified_input_is_rejected (test_engine.ThemeEngineTests.test_modified_input_is_rejected) ... ok
+test_original_comparison_is_byte_identical (test_engine.ThemeEngineTests.test_original_comparison_is_byte_identical) ... ok
+test_presets_are_distinct_and_do_not_include_original (test_engine.ThemeEngineTests.test_presets_are_distinct_and_do_not_include_original) ... ok
+test_release_rasters_contain_no_icon_payloads (test_engine.ThemeEngineTests.test_release_rasters_contain_no_icon_payloads) ... ok
+test_retired_zune_theme_is_not_selectable (test_engine.ThemeEngineTests.test_retired_zune_theme_is_not_selectable) ... ok
+test_unsupported_theme_geometry_is_rejected (test_engine.ThemeEngineTests.test_unsupported_theme_geometry_is_rejected) ... ok
+test_all_20_exports_and_80_previews_match_profiles (test_profiles.MultiDeviceTests.test_all_20_exports_and_80_previews_match_profiles) ... ok
+test_every_family_retains_commands_strings_headers_and_updater (test_profiles.MultiDeviceTests.test_every_family_retains_commands_strings_headers_and_updater) ... ok
+test_mini_payload_names_and_manifest_families_are_checked (test_profiles.MultiDeviceTests.test_mini_payload_names_and_manifest_families_are_checked) ... ok
+
+----------------------------------------------------------------------
+Ran 21 tests in 16.386s
+
+OK

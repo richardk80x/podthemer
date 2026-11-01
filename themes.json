@@ -1,0 +1,50 @@
+[
+  {
+    "id": "clear",
+    "name": "Clear",
+    "description": "Clean sans-serif text and airy menus with original iPod icons.",
+    "font": "inter",
+    "weight": 500,
+    "main_size": 12,
+    "secondary_size": 11,
+    "row_height": 24,
+    "inset": 8,
+    "icons": "stock"
+  },
+  {
+    "id": "focus",
+    "name": "Focus",
+    "description": "Distinct letterforms and bold text with the most breathing room.",
+    "font": "roboto",
+    "weight": 700,
+    "main_size": 14,
+    "secondary_size": 11,
+    "row_height": 26,
+    "inset": 10,
+    "icons": "stock"
+  },
+  {
+    "id": "compact",
+    "name": "Compact",
+    "description": "Modern lettering with more of your library on screen.",
+    "font": "inter",
+    "weight": 400,
+    "main_size": 12,
+    "secondary_size": 10,
+    "row_height": 20,
+    "inset": 7,
+    "icons": "stock"
+  },
+  {
+    "id": "enlarge",
+    "name": "Enlarge",
+    "description": "Larger 13px semibold lettering and roomy menus with original iPod icons.",
+    "font": "inter-tight",
+    "weight": 600,
+    "main_size": 13,
+    "secondary_size": 11,
+    "row_height": 24,
+    "inset": 8,
+    "icons": "stock"
+  }
+]

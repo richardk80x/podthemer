@@ -1,0 +1,350 @@
+{
+  "version": "0.4.0",
+  "scope": "Restore supplied-firmware pictures for all themes; change Enlarge to Inter Tight Semibold with lossless column sharing",
+  "records": {
+    "ipod1g2g-1.5": {
+      "clear": {
+        "previous_payload_sha256": "b7665c6e65b1f2a965b406b1f7ff59f5cb38b0f0a8e90f3d4f27d961801217fc",
+        "payload_sha256": "5efde9b7a6aa35cd1eb6b0c148a203a834afc1a5d508c7023dfbfe8a01c05018",
+        "changed_bytes_from_previous": 726,
+        "original_picture_resources_preserved": 53,
+        "font_sizes": [
+          12,
+          11,
+          10,
+          11
+        ],
+        "enlarge_font_changed": false,
+        "other_theme_font_bytes_identical": true,
+        "hardware_tested": false
+      },
+      "focus": {
+        "previous_payload_sha256": "722b7406ea91325855169e9112cddef30845c4de876224436a3f32c70d9f6b91",
+        "payload_sha256": "abc9a21c9379e1a792f1060cc83047f81aff53c6929e1e1a6581cfa92c390c8a",
+        "changed_bytes_from_previous": 713,
+        "original_picture_resources_preserved": 53,
+        "font_sizes": [
+          14,
+          11,
+          10,
+          11
+        ],
+        "enlarge_font_changed": false,
+        "other_theme_font_bytes_identical": true,
+        "hardware_tested": false
+      },
+      "compact": {
+        "previous_payload_sha256": "91f996c6977e174204632cc454436742718bc94c4b1652ac20d179efc64769a0",
+        "payload_sha256": "5e4ff19d2b7b017d59055655bd4029cfbb29b9fded1fcfa973d8a83dc7857d6f",
+        "changed_bytes_from_previous": 713,
+        "original_picture_resources_preserved": 53,
+        "font_sizes": [
+          12,
+          10,
+          9,
+          10
+        ],
+        "enlarge_font_changed": false,
+        "other_theme_font_bytes_identical": true,
+        "hardware_tested": false
+      },
+      "enlarge": {
+        "previous_payload_sha256": "581a5bfb01a771817d088f90755bfa175e55f6e5537016ec68ac118f7e835f21",
+        "payload_sha256": "9d7e93bbfb65b23a3ff4ca8f808fab7b6068a4b2a8d64e95e874e7b682740461",
+        "changed_bytes_from_previous": 9332,
+        "original_picture_resources_preserved": 53,
+        "font_sizes": [
+          13,
+          11,
+          10,
+          11
+        ],
+        "enlarge_font_changed": true,
+        "other_theme_font_bytes_identical": false,
+        "hardware_tested": false
+      }
+    },
+    "ipod3g-2.3": {
+      "clear": {
+        "previous_payload_sha256": "dfa162322678c72d093acf0547d489953e871cb0881e1cda9c97c6f3a5d4cd87",
+        "payload_sha256": "b9175f5a5ff3f2bd8943d2c8741459010f54d4de7fb4c6ad6c3136ecd1295c28",
+        "changed_bytes_from_previous": 1158,
+        "original_picture_resources_preserved": 94,
+        "font_sizes": [
+          12,
+          11,
+          10,
+          11
+        ],
+        "enlarge_font_changed": false,
+        "other_theme_font_bytes_identical": true,
+        "hardware_tested": false
+      },
+      "focus": {
+        "previous_payload_sha256": "f64f09dc07ad7f5ae6c6e37f52f2ed23f8a6e5077c736e451f784a0512d61145",
+        "payload_sha256": "53fd83e4587d968b6a0c7b3de63f8e1a327342f35e7652e04ef1c2cef292ffd2",
+        "changed_bytes_from_previous": 1125,
+        "original_picture_resources_preserved": 94,
+        "font_sizes": [
+          14,
+          11,
+          10,
+          11
+        ],
+        "enlarge_font_changed": false,
+        "other_theme_font_bytes_identical": true,
+        "hardware_tested": false
+      },
+      "compact": {
+        "previous_payload_sha256": "d3fbfd10b4f370ac8bd22232634f6b6b83365d211ac2cbf88571872b70fa6857",
+        "payload_sha256": "926e1a925b7c9f5dc0e0754e763e78251a63799bf94daf75bdee4ffd25515774",
+        "changed_bytes_from_previous": 1125,
+        "original_picture_resources_preserved": 94,
+        "font_sizes": [
+          12,
+          10,
+          9,
+          10
+        ],
+        "enlarge_font_changed": false,
+        "other_theme_font_bytes_identical": true,
+        "hardware_tested": false
+      },
+      "enlarge": {
+        "previous_payload_sha256": "9f577f7d5e1ec9b8236cb1ea4cb36c7e551b91987a288d1377cd386318719e13",
+        "payload_sha256": "b9ea816aa512e05e18e5cf9eb6966878aab5a840fc396299d161dd1fe7bdec07",
+        "changed_bytes_from_previous": 9745,
+        "original_picture_resources_preserved": 94,
+        "font_sizes": [
+          13,
+          11,
+          10,
+          11
+        ],
+        "enlarge_font_changed": true,
+        "other_theme_font_bytes_identical": false,
+        "hardware_tested": false
+      }
+    },
+    "ipod4g-monochrome-3.1.1": {
+      "clear": {
+        "previous_payload_sha256": "aad128fa8835658bcd44f41cf6f7045eac6ad87639ffee9abe6ebe7635aa9320",
+        "payload_sha256": "dbe195a3ce819d20600f916cd7e1f3c3e3f185d81c296a2b674bf974b985b07d",
+        "changed_bytes_from_previous": 1860,
+        "original_picture_resources_preserved": 94,
+        "font_sizes": [
+          12,
+          11,
+          10,
+          11
+        ],
+        "enlarge_font_changed": false,
+        "other_theme_font_bytes_identical": true,
+        "hardware_tested": false
+      },
+      "focus": {
+        "previous_payload_sha256": "5d76c00308a0f2730fdcade247ca287d94107d577c2c98e74acd4d3e98a5db82",
+        "payload_sha256": "9325c11b38c29fb9a780295f07e26f492e71f01ed1783d94324224c170320b47",
+        "changed_bytes_from_previous": 1836,
+        "original_picture_resources_preserved": 94,
+        "font_sizes": [
+          14,
+          11,
+          10,
+          11
+        ],
+        "enlarge_font_changed": false,
+        "other_theme_font_bytes_identical": true,
+        "hardware_tested": false
+      },
+      "compact": {
+        "previous_payload_sha256": "4d5bd7567b74738509a74f65e2255798b1a64e3867c5eb5454ebafb1459da1da",
+        "payload_sha256": "cc5c053e6ce596ade35ec5b61462d3f15b06ea07062cdba62a1529b08f1bfde1",
+        "changed_bytes_from_previous": 1836,
+        "original_picture_resources_preserved": 94,
+        "font_sizes": [
+          12,
+          10,
+          9,
+          10
+        ],
+        "enlarge_font_changed": false,
+        "other_theme_font_bytes_identical": true,
+        "hardware_tested": false
+      },
+      "enlarge": {
+        "previous_payload_sha256": "2fd1915dba0d71439354e33529ca189f7f22aa0b1f8ecd822817c71721d382c0",
+        "payload_sha256": "1dd9db928b0ba16a2ec19adbb40e2dd1c9ae7a4527640725ed88b0bd3ed6c0ab",
+        "changed_bytes_from_previous": 16804,
+        "original_picture_resources_preserved": 94,
+        "font_sizes": [
+          13,
+          11,
+          10,
+          11
+        ],
+        "enlarge_font_changed": true,
+        "other_theme_font_bytes_identical": false,
+        "hardware_tested": false
+      }
+    },
+    "ipodmini1g-1.4.1": {
+      "clear": {
+        "previous_payload_sha256": "a3ed641482a988ffcb23c9d68552e1c24671d7565b3400fd17961c2d649aa8c9",
+        "payload_sha256": "77b4d0ce2d3f6c82721854d4780c1d852f140a674cf5b1e0f4da7ae69476ef8d",
+        "changed_bytes_from_previous": 1514,
+        "original_picture_resources_preserved": 94,
+        "font_sizes": [
+          12,
+          11,
+          10,
+          11
+        ],
+        "enlarge_font_changed": false,
+        "other_theme_font_bytes_identical": true,
+        "hardware_tested": false
+      },
+      "focus": {
+        "previous_payload_sha256": "1e17b8f5520534da71dc3abbe90349264b160a36102dc43938e9e1eed2237699",
+        "payload_sha256": "b69ca601d7a448a2fc41371a4b3a37ed4f2279738b2da42d77b97ca2ec8fec0d",
+        "changed_bytes_from_previous": 1490,
+        "original_picture_resources_preserved": 94,
+        "font_sizes": [
+          14,
+          11,
+          10,
+          11
+        ],
+        "enlarge_font_changed": false,
+        "other_theme_font_bytes_identical": true,
+        "hardware_tested": false
+      },
+      "compact": {
+        "previous_payload_sha256": "aef586f4a56f1f1701f5c24922532c136d5713f05fa4a067f5f6dce4884d529f",
+        "payload_sha256": "cfe1eb24866c59a7bbecf3e578da49dd30f977a72d6e795f84b8bd713f9c2538",
+        "changed_bytes_from_previous": 1490,
+        "original_picture_resources_preserved": 94,
+        "font_sizes": [
+          12,
+          10,
+          9,
+          10
+        ],
+        "enlarge_font_changed": false,
+        "other_theme_font_bytes_identical": true,
+        "hardware_tested": false
+      },
+      "enlarge": {
+        "previous_payload_sha256": "a65c23a2b5679b67163e6aa5cabf6ac85c56a81d4dd33e37aa0303e38f5b266a",
+        "payload_sha256": "b574100d0c881207446123593bc44b9236820ac894b506cca2329f0238735e61",
+        "changed_bytes_from_previous": 16458,
+        "original_picture_resources_preserved": 94,
+        "font_sizes": [
+          13,
+          11,
+          10,
+          11
+        ],
+        "enlarge_font_changed": true,
+        "other_theme_font_bytes_identical": false,
+        "hardware_tested": false
+      }
+    },
+    "ipodmini2g-1.4.1": {
+      "clear": {
+        "previous_payload_sha256": "9828b6bf4e1a659dbfcf6936d1f7cb4f6c105f83ab9d29c859da658204fb8fab",
+        "payload_sha256": "ce9502900b427910ad0e55a24d3560335a7712588b1547bd47e91090da0ba0c8",
+        "changed_bytes_from_previous": 1514,
+        "original_picture_resources_preserved": 94,
+        "font_sizes": [
+          12,
+          11,
+          10,
+          11
+        ],
+        "enlarge_font_changed": false,
+        "other_theme_font_bytes_identical": true,
+        "hardware_tested": false
+      },
+      "focus": {
+        "previous_payload_sha256": "541ec08cd019c1ae4951f72f94dbf3c6b1545ac2d09cf8b95314b63a27047b23",
+        "payload_sha256": "d44e4a217c5cabe31aba9d069b69c49e40f3d21603773327c09da5dbd85aeb89",
+        "changed_bytes_from_previous": 1490,
+        "original_picture_resources_preserved": 94,
+        "font_sizes": [
+          14,
+          11,
+          10,
+          11
+        ],
+        "enlarge_font_changed": false,
+        "other_theme_font_bytes_identical": true,
+        "hardware_tested": false
+      },
+      "compact": {
+        "previous_payload_sha256": "6ddea02b127e487402f026d7c5658ae6c4632b9d6d2fc159d71844733a9213ea",
+        "payload_sha256": "301b897f89f8102180665f39a4b53391f0b599521ffbd03abaad651841f4e4c7",
+        "changed_bytes_from_previous": 1490,
+        "original_picture_resources_preserved": 94,
+        "font_sizes": [
+          12,
+          10,
+          9,
+          10
+        ],
+        "enlarge_font_changed": false,
+        "other_theme_font_bytes_identical": true,
+        "hardware_tested": false
+      },
+      "enlarge": {
+        "previous_payload_sha256": "4587124572b3c65b8516acc3eb9edfe436280f14cb6ba7dedfa983c21d24ffef",
+        "payload_sha256": "6ae679b2c2e933dc899d73319f88896382d23871356af9aef75de7456e3be72d",
+        "changed_bytes_from_previous": 16458,
+        "original_picture_resources_preserved": 94,
+        "font_sizes": [
+          13,
+          11,
+          10,
+          11
+        ],
+        "enlarge_font_changed": true,
+        "other_theme_font_bytes_identical": false,
+        "hardware_tested": false
+      }
+    }
+  },
+  "fixture_note": "Final QA uses all five restored owner-supplied original IPSW archives. Each ZIP CRC, exact stock payload SHA-256, internal payload name and manifest family were verified. No firmware fixtures are distributed.",
+  "hardware_tested": false,
+  "final_original_archives": {
+    "ipod1g2g-1.5": {
+      "filename": "iPod_1.1.5.ipsw",
+      "archive_sha256": "0edbb2d512bc84d333c0749f4d51398890b3a5934476311dd67e2314809e9103",
+      "payload_sha256": "af3950c2253dfd0a9f743440f01634ddb8ce018115c05d9ca0e675912202a3df",
+      "original_archive_crc_verified": true
+    },
+    "ipod3g-2.3": {
+      "filename": "iPod_2.2.3.ipsw",
+      "archive_sha256": "bec081f2bacd4099dcfc533048a6844c8fafb50197c60d9d7ef95075cf2c6e92",
+      "payload_sha256": "73817276159e53cbe3d988a76843c663706a621a19cccc6af4eb957d735f63c3",
+      "original_archive_crc_verified": true
+    },
+    "ipod4g-monochrome-3.1.1": {
+      "filename": "iPod_4.3.1.1.ipsw",
+      "archive_sha256": "576e05def7800e28cfd9a28ec36518964ab7a356f3b035e3fc223b0816be9ed9",
+      "payload_sha256": "5b5ce4e560ce03859a2ec30ca7f36ada01dd68e15ce0ca62b3bf847158378d58",
+      "original_archive_crc_verified": true
+    },
+    "ipodmini1g-1.4.1": {
+      "filename": "iPod_3.1.4.1.ipsw",
+      "archive_sha256": "2fe8d980cb7d7d54adcc53ef715b2753020f24120a6eb7552a9fc1d8ae95abc2",
+      "payload_sha256": "6e092b42101cf4f246cd3cf79972e47d38a4e8a268cf751238a7a515cca65fcc",
+      "original_archive_crc_verified": true
+    },
+    "ipodmini2g-1.4.1": {
+      "filename": "iPod_7.1.4.1.ipsw",
+      "archive_sha256": "8811a6c77cd478c1051c1a3de0aef26b2f341abdd76ae040a046c49d6a949ae9",
+      "payload_sha256": "752118f56366d8993cf5920629763f07b82564456cb91881f0b7ae9a219babcd",
+      "original_archive_crc_verified": true
+    }
+  }
+}

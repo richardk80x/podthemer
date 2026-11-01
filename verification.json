@@ -1,0 +1,7724 @@
+{
+  "version": "0.4.0",
+  "standalone_runtime": true,
+  "clean_environment": true,
+  "relocated_app_test": true,
+  "theme_reports": {
+    "ipod1g2g-1.5": {
+      "clear": {
+        "device": {
+          "id": "ipod1g2g-1.5",
+          "display_name": "iPod 1st / 2nd generation",
+          "firmware_version": "1.5",
+          "payload_name": "Firmware-1.1.5",
+          "payload_sha256": "af3950c2253dfd0a9f743440f01634ddb8ce018115c05d9ca0e675912202a3df",
+          "lcd_width": 160,
+          "lcd_height": 128,
+          "preview_style": "scroll-wheel-1g2g",
+          "identification": "Exact verified firmware payload SHA-256 and manifest family",
+          "supported": true,
+          "resource_map": "profiles/ipod1g2g-1.5.json",
+          "manifest_family_id": 1,
+          "manifest_updater_family_id": 1,
+          "hardware_tested": false,
+          "menu_counts": {
+            "main": 6,
+            "music": 7,
+            "settings": 16
+          }
+        },
+        "theme": {
+          "id": "clear",
+          "name": "Clear",
+          "description": "Clean sans-serif text and airy menus with original iPod icons.",
+          "font": "inter",
+          "weight": 500,
+          "main_size": 12,
+          "secondary_size": 11,
+          "row_height": 24,
+          "inset": 8,
+          "icons": "stock"
+        },
+        "asset_sha256": {
+          "RobotoCondensed.ttf": "dace262afcee68a5276f200d8026c57221735c0118ab5fda8c2c0d3dc409a8d0",
+          "AtkinsonHyperlegible-Regular.ttf": "7fb917c89019896d0b52ee84b7cbb3304c18cb90b19a62f5e32712bd23e97669",
+          "AtkinsonHyperlegible-Bold.ttf": "5a3b0c8cc8ca545155150b4512a1fa248298df121c50d6557e651e61fbdab92f",
+          "Inter.ttf": "29160a80ff49ddcab2c97711247e08b1fab27a484a329ce8b813d820dc559031",
+          "InterTight.ttf": "b81b73dcb64df3c230cabade7df6c5773bf863233f24c9ee51087519f1f88b6f"
+        },
+        "source_payload_sha256": "af3950c2253dfd0a9f743440f01634ddb8ce018115c05d9ca0e675912202a3df",
+        "result_payload_sha256": "5efde9b7a6aa35cd1eb6b0c148a203a834afc1a5d508c7023dfbfe8a01c05018",
+        "changed_bytes": 9763,
+        "fonts": [
+          {
+            "font": "Chicago",
+            "style": 0,
+            "source_font": "Inter.ttf",
+            "requested_pixels": 12,
+            "actual_pixels": 12,
+            "replaced_glyphs": 161,
+            "retained_original_glyphs": 60,
+            "atlas_columns": 1172,
+            "atlas_capacity": 1248
+          },
+          {
+            "font": "Espy Sans",
+            "style": 0,
+            "source_font": "Inter.ttf",
+            "requested_pixels": 11,
+            "actual_pixels": 11,
+            "replaced_glyphs": 181,
+            "retained_original_glyphs": 38,
+            "atlas_columns": 1066,
+            "atlas_capacity": 1120
+          },
+          {
+            "font": "Espy Sans",
+            "style": 1,
+            "source_font": "Inter.ttf",
+            "requested_pixels": 10,
+            "actual_pixels": 10,
+            "replaced_glyphs": 160,
+            "retained_original_glyphs": 57,
+            "atlas_columns": 1020,
+            "atlas_capacity": 1184
+          },
+          {
+            "font": "Espy Sans",
+            "style": 1,
+            "source_font": "Inter.ttf",
+            "requested_pixels": 11,
+            "actual_pixels": 11,
+            "replaced_glyphs": 180,
+            "retained_original_glyphs": 37,
+            "atlas_columns": 1086,
+            "atlas_capacity": 1280
+          }
+        ],
+        "icons": [],
+        "icon_source": "supplied-firmware",
+        "protected_resources": {
+          "uneM": 14,
+          " rtS": 5340,
+          "dmCT": 1,
+          "epyT": 89,
+          "mTDL": 19
+        },
+        "allowed_ranges": [
+          [
+            1969040,
+            1970808
+          ],
+          [
+            1970828,
+            1973324
+          ],
+          [
+            1979136,
+            1980888
+          ],
+          [
+            1980908,
+            1982868
+          ],
+          [
+            1983772,
+            1985508
+          ],
+          [
+            1985528,
+            1987452
+          ],
+          [
+            1974236,
+            1975972
+          ],
+          [
+            1975992,
+            1978232
+          ],
+          [
+            2950316,
+            2950320
+          ],
+          [
+            2952300,
+            2952304
+          ],
+          [
+            2952384,
+            2952388
+          ],
+          [
+            2958772,
+            2958776
+          ],
+          [
+            2959040,
+            2959044
+          ],
+          [
+            2959376,
+            2959380
+          ],
+          [
+            2959460,
+            2959464
+          ],
+          [
+            2959544,
+            2959548
+          ],
+          [
+            2959628,
+            2959632
+          ],
+          [
+            2960080,
+            2960084
+          ],
+          [
+            2960164,
+            2960168
+          ],
+          [
+            2962312,
+            2962316
+          ],
+          [
+            2962892,
+            2962896
+          ],
+          [
+            2962976,
+            2962980
+          ],
+          [
+            2963060,
+            2963064
+          ],
+          [
+            2963144,
+            2963148
+          ],
+          [
+            2963228,
+            2963232
+          ],
+          [
+            2963312,
+            2963316
+          ],
+          [
+            2963396,
+            2963400
+          ],
+          [
+            2963664,
+            2963668
+          ],
+          [
+            2963748,
+            2963752
+          ],
+          [
+            2964112,
+            2964116
+          ],
+          [
+            2965380,
+            2965384
+          ],
+          [
+            2968180,
+            2968184
+          ],
+          [
+            2968884,
+            2968888
+          ],
+          [
+            2971000,
+            2971004
+          ],
+          [
+            2975108,
+            2975112
+          ],
+          [
+            2975760,
+            2975764
+          ],
+          [
+            2975948,
+            2975952
+          ],
+          [
+            2979856,
+            2979860
+          ],
+          [
+            2980384,
+            2980388
+          ],
+          [
+            2980648,
+            2980652
+          ],
+          [
+            16924,
+            16928
+          ]
+        ],
+        "hardware_tested": false,
+        "checks": {
+          "font_raster_round_trip": true,
+          "original_pictures_unchanged": true,
+          "all_changes_within_allowlist": true,
+          "menus_and_commands_unchanged": true,
+          "all_text_resources_unchanged": true,
+          "unicode_maps_and_font_headers_unchanged": true,
+          "firmware_length_unchanged": true,
+          "flash_update_partition_unchanged": true,
+          "os_checksum_valid": true,
+          "zip_integrity": true,
+          "manifest_unchanged": true
+        },
+        "ipsw_sha256": "95cc36d3f99bed83d6c0cc50ff814955e59097649d91aa002ee58f8237d71fb4"
+      },
+      "focus": {
+        "device": {
+          "id": "ipod1g2g-1.5",
+          "display_name": "iPod 1st / 2nd generation",
+          "firmware_version": "1.5",
+          "payload_name": "Firmware-1.1.5",
+          "payload_sha256": "af3950c2253dfd0a9f743440f01634ddb8ce018115c05d9ca0e675912202a3df",
+          "lcd_width": 160,
+          "lcd_height": 128,
+          "preview_style": "scroll-wheel-1g2g",
+          "identification": "Exact verified firmware payload SHA-256 and manifest family",
+          "supported": true,
+          "resource_map": "profiles/ipod1g2g-1.5.json",
+          "manifest_family_id": 1,
+          "manifest_updater_family_id": 1,
+          "hardware_tested": false,
+          "menu_counts": {
+            "main": 6,
+            "music": 7,
+            "settings": 16
+          }
+        },
+        "theme": {
+          "id": "focus",
+          "name": "Focus",
+          "description": "Distinct letterforms and bold text with the most breathing room.",
+          "font": "roboto",
+          "weight": 700,
+          "main_size": 14,
+          "secondary_size": 11,
+          "row_height": 26,
+          "inset": 10,
+          "icons": "stock"
+        },
+        "asset_sha256": {
+          "RobotoCondensed.ttf": "dace262afcee68a5276f200d8026c57221735c0118ab5fda8c2c0d3dc409a8d0",
+          "AtkinsonHyperlegible-Regular.ttf": "7fb917c89019896d0b52ee84b7cbb3304c18cb90b19a62f5e32712bd23e97669",
+          "AtkinsonHyperlegible-Bold.ttf": "5a3b0c8cc8ca545155150b4512a1fa248298df121c50d6557e651e61fbdab92f",
+          "Inter.ttf": "29160a80ff49ddcab2c97711247e08b1fab27a484a329ce8b813d820dc559031",
+          "InterTight.ttf": "b81b73dcb64df3c230cabade7df6c5773bf863233f24c9ee51087519f1f88b6f"
+        },
+        "source_payload_sha256": "af3950c2253dfd0a9f743440f01634ddb8ce018115c05d9ca0e675912202a3df",
+        "result_payload_sha256": "abc9a21c9379e1a792f1060cc83047f81aff53c6929e1e1a6581cfa92c390c8a",
+        "changed_bytes": 9597,
+        "fonts": [
+          {
+            "font": "Chicago",
+            "style": 0,
+            "source_font": "RobotoCondensed.ttf",
+            "requested_pixels": 14,
+            "actual_pixels": 14,
+            "replaced_glyphs": 159,
+            "retained_original_glyphs": 62,
+            "atlas_columns": 1207,
+            "atlas_capacity": 1248
+          },
+          {
+            "font": "Espy Sans",
+            "style": 0,
+            "source_font": "RobotoCondensed.ttf",
+            "requested_pixels": 11,
+            "actual_pixels": 11,
+            "replaced_glyphs": 169,
+            "retained_original_glyphs": 50,
+            "atlas_columns": 1026,
+            "atlas_capacity": 1120
+          },
+          {
+            "font": "Espy Sans",
+            "style": 1,
+            "source_font": "RobotoCondensed.ttf",
+            "requested_pixels": 10,
+            "actual_pixels": 10,
+            "replaced_glyphs": 168,
+            "retained_original_glyphs": 49,
+            "atlas_columns": 970,
+            "atlas_capacity": 1184
+          },
+          {
+            "font": "Espy Sans",
+            "style": 1,
+            "source_font": "RobotoCondensed.ttf",
+            "requested_pixels": 11,
+            "actual_pixels": 11,
+            "replaced_glyphs": 168,
+            "retained_original_glyphs": 49,
+            "atlas_columns": 1055,
+            "atlas_capacity": 1280
+          }
+        ],
+        "icons": [],
+        "icon_source": "supplied-firmware",
+        "protected_resources": {
+          "uneM": 14,
+          " rtS": 5340,
+          "dmCT": 1,
+          "epyT": 89,
+          "mTDL": 19
+        },
+        "allowed_ranges": [
+          [
+            1969040,
+            1970808
+          ],
+          [
+            1970828,
+            1973324
+          ],
+          [
+            1979136,
+            1980888
+          ],
+          [
+            1980908,
+            1982868
+          ],
+          [
+            1983772,
+            1985508
+          ],
+          [
+            1985528,
+            1987452
+          ],
+          [
+            1974236,
+            1975972
+          ],
+          [
+            1975992,
+            1978232
+          ],
+          [
+            2950316,
+            2950320
+          ],
+          [
+            2952300,
+            2952304
+          ],
+          [
+            2952384,
+            2952388
+          ],
+          [
+            2958772,
+            2958776
+          ],
+          [
+            2959040,
+            2959044
+          ],
+          [
+            2959376,
+            2959380
+          ],
+          [
+            2959460,
+            2959464
+          ],
+          [
+            2959544,
+            2959548
+          ],
+          [
+            2959628,
+            2959632
+          ],
+          [
+            2960080,
+            2960084
+          ],
+          [
+            2960164,
+            2960168
+          ],
+          [
+            2962312,
+            2962316
+          ],
+          [
+            2962892,
+            2962896
+          ],
+          [
+            2962976,
+            2962980
+          ],
+          [
+            2963060,
+            2963064
+          ],
+          [
+            2963144,
+            2963148
+          ],
+          [
+            2963228,
+            2963232
+          ],
+          [
+            2963312,
+            2963316
+          ],
+          [
+            2963396,
+            2963400
+          ],
+          [
+            2963664,
+            2963668
+          ],
+          [
+            2963748,
+            2963752
+          ],
+          [
+            2964112,
+            2964116
+          ],
+          [
+            2965380,
+            2965384
+          ],
+          [
+            2968180,
+            2968184
+          ],
+          [
+            2968884,
+            2968888
+          ],
+          [
+            2971000,
+            2971004
+          ],
+          [
+            2975108,
+            2975112
+          ],
+          [
+            2975760,
+            2975764
+          ],
+          [
+            2975948,
+            2975952
+          ],
+          [
+            2979856,
+            2979860
+          ],
+          [
+            2980384,
+            2980388
+          ],
+          [
+            2980648,
+            2980652
+          ],
+          [
+            16924,
+            16928
+          ]
+        ],
+        "hardware_tested": false,
+        "checks": {
+          "font_raster_round_trip": true,
+          "original_pictures_unchanged": true,
+          "all_changes_within_allowlist": true,
+          "menus_and_commands_unchanged": true,
+          "all_text_resources_unchanged": true,
+          "unicode_maps_and_font_headers_unchanged": true,
+          "firmware_length_unchanged": true,
+          "flash_update_partition_unchanged": true,
+          "os_checksum_valid": true,
+          "zip_integrity": true,
+          "manifest_unchanged": true
+        },
+        "ipsw_sha256": "d5d754d7670ab1c869bed1bcbff3c22d7f4d7e05a63ce0d881113ced2550b96e"
+      },
+      "compact": {
+        "device": {
+          "id": "ipod1g2g-1.5",
+          "display_name": "iPod 1st / 2nd generation",
+          "firmware_version": "1.5",
+          "payload_name": "Firmware-1.1.5",
+          "payload_sha256": "af3950c2253dfd0a9f743440f01634ddb8ce018115c05d9ca0e675912202a3df",
+          "lcd_width": 160,
+          "lcd_height": 128,
+          "preview_style": "scroll-wheel-1g2g",
+          "identification": "Exact verified firmware payload SHA-256 and manifest family",
+          "supported": true,
+          "resource_map": "profiles/ipod1g2g-1.5.json",
+          "manifest_family_id": 1,
+          "manifest_updater_family_id": 1,
+          "hardware_tested": false,
+          "menu_counts": {
+            "main": 6,
+            "music": 7,
+            "settings": 16
+          }
+        },
+        "theme": {
+          "id": "compact",
+          "name": "Compact",
+          "description": "Modern lettering with more of your library on screen.",
+          "font": "inter",
+          "weight": 400,
+          "main_size": 12,
+          "secondary_size": 10,
+          "row_height": 20,
+          "inset": 7,
+          "icons": "stock"
+        },
+        "asset_sha256": {
+          "RobotoCondensed.ttf": "dace262afcee68a5276f200d8026c57221735c0118ab5fda8c2c0d3dc409a8d0",
+          "AtkinsonHyperlegible-Regular.ttf": "7fb917c89019896d0b52ee84b7cbb3304c18cb90b19a62f5e32712bd23e97669",
+          "AtkinsonHyperlegible-Bold.ttf": "5a3b0c8cc8ca545155150b4512a1fa248298df121c50d6557e651e61fbdab92f",
+          "Inter.ttf": "29160a80ff49ddcab2c97711247e08b1fab27a484a329ce8b813d820dc559031",
+          "InterTight.ttf": "b81b73dcb64df3c230cabade7df6c5773bf863233f24c9ee51087519f1f88b6f"
+        },
+        "source_payload_sha256": "af3950c2253dfd0a9f743440f01634ddb8ce018115c05d9ca0e675912202a3df",
+        "result_payload_sha256": "5e4ff19d2b7b017d59055655bd4029cfbb29b9fded1fcfa973d8a83dc7857d6f",
+        "changed_bytes": 9642,
+        "fonts": [
+          {
+            "font": "Chicago",
+            "style": 0,
+            "source_font": "Inter.ttf",
+            "requested_pixels": 12,
+            "actual_pixels": 12,
+            "replaced_glyphs": 160,
+            "retained_original_glyphs": 61,
+            "atlas_columns": 1148,
+            "atlas_capacity": 1248
+          },
+          {
+            "font": "Espy Sans",
+            "style": 0,
+            "source_font": "Inter.ttf",
+            "requested_pixels": 10,
+            "actual_pixels": 10,
+            "replaced_glyphs": 177,
+            "retained_original_glyphs": 42,
+            "atlas_columns": 995,
+            "atlas_capacity": 1120
+          },
+          {
+            "font": "Espy Sans",
+            "style": 1,
+            "source_font": "Inter.ttf",
+            "requested_pixels": 9,
+            "actual_pixels": 9,
+            "replaced_glyphs": 182,
+            "retained_original_glyphs": 35,
+            "atlas_columns": 898,
+            "atlas_capacity": 1184
+          },
+          {
+            "font": "Espy Sans",
+            "style": 1,
+            "source_font": "Inter.ttf",
+            "requested_pixels": 10,
+            "actual_pixels": 10,
+            "replaced_glyphs": 176,
+            "retained_original_glyphs": 41,
+            "atlas_columns": 1020,
+            "atlas_capacity": 1280
+          }
+        ],
+        "icons": [],
+        "icon_source": "supplied-firmware",
+        "protected_resources": {
+          "uneM": 14,
+          " rtS": 5340,
+          "dmCT": 1,
+          "epyT": 89,
+          "mTDL": 19
+        },
+        "allowed_ranges": [
+          [
+            1969040,
+            1970808
+          ],
+          [
+            1970828,
+            1973324
+          ],
+          [
+            1979136,
+            1980888
+          ],
+          [
+            1980908,
+            1982868
+          ],
+          [
+            1983772,
+            1985508
+          ],
+          [
+            1985528,
+            1987452
+          ],
+          [
+            1974236,
+            1975972
+          ],
+          [
+            1975992,
+            1978232
+          ],
+          [
+            2950316,
+            2950320
+          ],
+          [
+            2952300,
+            2952304
+          ],
+          [
+            2952384,
+            2952388
+          ],
+          [
+            2958772,
+            2958776
+          ],
+          [
+            2959040,
+            2959044
+          ],
+          [
+            2959376,
+            2959380
+          ],
+          [
+            2959460,
+            2959464
+          ],
+          [
+            2959544,
+            2959548
+          ],
+          [
+            2959628,
+            2959632
+          ],
+          [
+            2960080,
+            2960084
+          ],
+          [
+            2960164,
+            2960168
+          ],
+          [
+            2962312,
+            2962316
+          ],
+          [
+            2962892,
+            2962896
+          ],
+          [
+            2962976,
+            2962980
+          ],
+          [
+            2963060,
+            2963064
+          ],
+          [
+            2963144,
+            2963148
+          ],
+          [
+            2963228,
+            2963232
+          ],
+          [
+            2963312,
+            2963316
+          ],
+          [
+            2963396,
+            2963400
+          ],
+          [
+            2963664,
+            2963668
+          ],
+          [
+            2963748,
+            2963752
+          ],
+          [
+            2964112,
+            2964116
+          ],
+          [
+            2965380,
+            2965384
+          ],
+          [
+            2968180,
+            2968184
+          ],
+          [
+            2968884,
+            2968888
+          ],
+          [
+            2971000,
+            2971004
+          ],
+          [
+            2975108,
+            2975112
+          ],
+          [
+            2975760,
+            2975764
+          ],
+          [
+            2975948,
+            2975952
+          ],
+          [
+            2979856,
+            2979860
+          ],
+          [
+            2980384,
+            2980388
+          ],
+          [
+            2980648,
+            2980652
+          ],
+          [
+            16924,
+            16928
+          ]
+        ],
+        "hardware_tested": false,
+        "checks": {
+          "font_raster_round_trip": true,
+          "original_pictures_unchanged": true,
+          "all_changes_within_allowlist": true,
+          "menus_and_commands_unchanged": true,
+          "all_text_resources_unchanged": true,
+          "unicode_maps_and_font_headers_unchanged": true,
+          "firmware_length_unchanged": true,
+          "flash_update_partition_unchanged": true,
+          "os_checksum_valid": true,
+          "zip_integrity": true,
+          "manifest_unchanged": true
+        },
+        "ipsw_sha256": "5a4e7ce86d2aa873909e418d00fb02a2cafc8e81841c63a521c9fe5cf357c983"
+      },
+      "enlarge": {
+        "device": {
+          "id": "ipod1g2g-1.5",
+          "display_name": "iPod 1st / 2nd generation",
+          "firmware_version": "1.5",
+          "payload_name": "Firmware-1.1.5",
+          "payload_sha256": "af3950c2253dfd0a9f743440f01634ddb8ce018115c05d9ca0e675912202a3df",
+          "lcd_width": 160,
+          "lcd_height": 128,
+          "preview_style": "scroll-wheel-1g2g",
+          "identification": "Exact verified firmware payload SHA-256 and manifest family",
+          "supported": true,
+          "resource_map": "profiles/ipod1g2g-1.5.json",
+          "manifest_family_id": 1,
+          "manifest_updater_family_id": 1,
+          "hardware_tested": false,
+          "menu_counts": {
+            "main": 6,
+            "music": 7,
+            "settings": 16
+          }
+        },
+        "theme": {
+          "id": "enlarge",
+          "name": "Enlarge",
+          "description": "Larger 13px semibold lettering and roomy menus with original iPod icons.",
+          "font": "inter-tight",
+          "weight": 600,
+          "main_size": 13,
+          "secondary_size": 11,
+          "row_height": 24,
+          "inset": 8,
+          "icons": "stock"
+        },
+        "asset_sha256": {
+          "RobotoCondensed.ttf": "dace262afcee68a5276f200d8026c57221735c0118ab5fda8c2c0d3dc409a8d0",
+          "AtkinsonHyperlegible-Regular.ttf": "7fb917c89019896d0b52ee84b7cbb3304c18cb90b19a62f5e32712bd23e97669",
+          "AtkinsonHyperlegible-Bold.ttf": "5a3b0c8cc8ca545155150b4512a1fa248298df121c50d6557e651e61fbdab92f",
+          "Inter.ttf": "29160a80ff49ddcab2c97711247e08b1fab27a484a329ce8b813d820dc559031",
+          "InterTight.ttf": "b81b73dcb64df3c230cabade7df6c5773bf863233f24c9ee51087519f1f88b6f"
+        },
+        "source_payload_sha256": "af3950c2253dfd0a9f743440f01634ddb8ce018115c05d9ca0e675912202a3df",
+        "result_payload_sha256": "9d7e93bbfb65b23a3ff4ca8f808fab7b6068a4b2a8d64e95e874e7b682740461",
+        "changed_bytes": 9375,
+        "fonts": [
+          {
+            "font": "Chicago",
+            "style": 0,
+            "source_font": "InterTight.ttf",
+            "requested_pixels": 13,
+            "actual_pixels": 13,
+            "replaced_glyphs": 161,
+            "retained_original_glyphs": 60,
+            "atlas_columns": 1236,
+            "atlas_capacity": 1248
+          },
+          {
+            "font": "Espy Sans",
+            "style": 0,
+            "source_font": "InterTight.ttf",
+            "requested_pixels": 11,
+            "actual_pixels": 11,
+            "replaced_glyphs": 179,
+            "retained_original_glyphs": 40,
+            "atlas_columns": 1022,
+            "atlas_capacity": 1120
+          },
+          {
+            "font": "Espy Sans",
+            "style": 1,
+            "source_font": "InterTight.ttf",
+            "requested_pixels": 10,
+            "actual_pixels": 10,
+            "replaced_glyphs": 160,
+            "retained_original_glyphs": 57,
+            "atlas_columns": 965,
+            "atlas_capacity": 1184
+          },
+          {
+            "font": "Espy Sans",
+            "style": 1,
+            "source_font": "InterTight.ttf",
+            "requested_pixels": 11,
+            "actual_pixels": 11,
+            "replaced_glyphs": 178,
+            "retained_original_glyphs": 39,
+            "atlas_columns": 1044,
+            "atlas_capacity": 1280
+          }
+        ],
+        "icons": [],
+        "icon_source": "supplied-firmware",
+        "protected_resources": {
+          "uneM": 14,
+          " rtS": 5340,
+          "dmCT": 1,
+          "epyT": 89,
+          "mTDL": 19
+        },
+        "allowed_ranges": [
+          [
+            1969040,
+            1970808
+          ],
+          [
+            1970828,
+            1973324
+          ],
+          [
+            1979136,
+            1980888
+          ],
+          [
+            1980908,
+            1982868
+          ],
+          [
+            1983772,
+            1985508
+          ],
+          [
+            1985528,
+            1987452
+          ],
+          [
+            1974236,
+            1975972
+          ],
+          [
+            1975992,
+            1978232
+          ],
+          [
+            2950316,
+            2950320
+          ],
+          [
+            2952300,
+            2952304
+          ],
+          [
+            2952384,
+            2952388
+          ],
+          [
+            2958772,
+            2958776
+          ],
+          [
+            2959040,
+            2959044
+          ],
+          [
+            2959376,
+            2959380
+          ],
+          [
+            2959460,
+            2959464
+          ],
+          [
+            2959544,
+            2959548
+          ],
+          [
+            2959628,
+            2959632
+          ],
+          [
+            2960080,
+            2960084
+          ],
+          [
+            2960164,
+            2960168
+          ],
+          [
+            2962312,
+            2962316
+          ],
+          [
+            2962892,
+            2962896
+          ],
+          [
+            2962976,
+            2962980
+          ],
+          [
+            2963060,
+            2963064
+          ],
+          [
+            2963144,
+            2963148
+          ],
+          [
+            2963228,
+            2963232
+          ],
+          [
+            2963312,
+            2963316
+          ],
+          [
+            2963396,
+            2963400
+          ],
+          [
+            2963664,
+            2963668
+          ],
+          [
+            2963748,
+            2963752
+          ],
+          [
+            2964112,
+            2964116
+          ],
+          [
+            2965380,
+            2965384
+          ],
+          [
+            2968180,
+            2968184
+          ],
+          [
+            2968884,
+            2968888
+          ],
+          [
+            2971000,
+            2971004
+          ],
+          [
+            2975108,
+            2975112
+          ],
+          [
+            2975760,
+            2975764
+          ],
+          [
+            2975948,
+            2975952
+          ],
+          [
+            2979856,
+            2979860
+          ],
+          [
+            2980384,
+            2980388
+          ],
+          [
+            2980648,
+            2980652
+          ],
+          [
+            16924,
+            16928
+          ]
+        ],
+        "hardware_tested": false,
+        "checks": {
+          "font_raster_round_trip": true,
+          "original_pictures_unchanged": true,
+          "all_changes_within_allowlist": true,
+          "menus_and_commands_unchanged": true,
+          "all_text_resources_unchanged": true,
+          "unicode_maps_and_font_headers_unchanged": true,
+          "firmware_length_unchanged": true,
+          "flash_update_partition_unchanged": true,
+          "os_checksum_valid": true,
+          "zip_integrity": true,
+          "manifest_unchanged": true
+        },
+        "ipsw_sha256": "3584fde9847b0930d11cb5254a3284b197562c14501e24d55560f22ed3d56342"
+      }
+    },
+    "ipod3g-2.3": {
+      "clear": {
+        "device": {
+          "id": "ipod3g-2.3",
+          "display_name": "iPod 3rd generation",
+          "firmware_version": "2.3",
+          "payload_name": "Firmware-2.2.3",
+          "payload_sha256": "73817276159e53cbe3d988a76843c663706a621a19cccc6af4eb957d735f63c3",
+          "lcd_width": 160,
+          "lcd_height": 128,
+          "preview_style": "touch-wheel-3g",
+          "identification": "Exact verified firmware payload SHA-256 and manifest family",
+          "supported": true,
+          "resource_map": "profiles/ipod3g-2.3.json",
+          "manifest_family_id": 2,
+          "manifest_updater_family_id": 2,
+          "hardware_tested": false,
+          "menu_counts": {
+            "main": 6,
+            "music": 7,
+            "settings": 14
+          }
+        },
+        "theme": {
+          "id": "clear",
+          "name": "Clear",
+          "description": "Clean sans-serif text and airy menus with original iPod icons.",
+          "font": "inter",
+          "weight": 500,
+          "main_size": 12,
+          "secondary_size": 11,
+          "row_height": 24,
+          "inset": 8,
+          "icons": "stock"
+        },
+        "asset_sha256": {
+          "RobotoCondensed.ttf": "dace262afcee68a5276f200d8026c57221735c0118ab5fda8c2c0d3dc409a8d0",
+          "AtkinsonHyperlegible-Regular.ttf": "7fb917c89019896d0b52ee84b7cbb3304c18cb90b19a62f5e32712bd23e97669",
+          "AtkinsonHyperlegible-Bold.ttf": "5a3b0c8cc8ca545155150b4512a1fa248298df121c50d6557e651e61fbdab92f",
+          "Inter.ttf": "29160a80ff49ddcab2c97711247e08b1fab27a484a329ce8b813d820dc559031",
+          "InterTight.ttf": "b81b73dcb64df3c230cabade7df6c5773bf863233f24c9ee51087519f1f88b6f"
+        },
+        "source_payload_sha256": "73817276159e53cbe3d988a76843c663706a621a19cccc6af4eb957d735f63c3",
+        "result_payload_sha256": "b9175f5a5ff3f2bd8943d2c8741459010f54d4de7fb4c6ad6c3136ecd1295c28",
+        "changed_bytes": 9790,
+        "fonts": [
+          {
+            "font": "Chicago",
+            "style": 0,
+            "source_font": "Inter.ttf",
+            "requested_pixels": 12,
+            "actual_pixels": 12,
+            "replaced_glyphs": 161,
+            "retained_original_glyphs": 60,
+            "atlas_columns": 1172,
+            "atlas_capacity": 1248
+          },
+          {
+            "font": "Espy Sans",
+            "style": 0,
+            "source_font": "Inter.ttf",
+            "requested_pixels": 11,
+            "actual_pixels": 11,
+            "replaced_glyphs": 181,
+            "retained_original_glyphs": 38,
+            "atlas_columns": 1066,
+            "atlas_capacity": 1120
+          },
+          {
+            "font": "Espy Sans",
+            "style": 1,
+            "source_font": "Inter.ttf",
+            "requested_pixels": 10,
+            "actual_pixels": 10,
+            "replaced_glyphs": 160,
+            "retained_original_glyphs": 57,
+            "atlas_columns": 1020,
+            "atlas_capacity": 1184
+          },
+          {
+            "font": "Espy Sans",
+            "style": 1,
+            "source_font": "Inter.ttf",
+            "requested_pixels": 11,
+            "actual_pixels": 11,
+            "replaced_glyphs": 180,
+            "retained_original_glyphs": 37,
+            "atlas_columns": 1086,
+            "atlas_capacity": 1280
+          }
+        ],
+        "icons": [],
+        "icon_source": "supplied-firmware",
+        "protected_resources": {
+          "uneM": 24,
+          " rtS": 6765,
+          "dmCT": 1,
+          "epyT": 100,
+          "mTDL": 19
+        },
+        "allowed_ranges": [
+          [
+            1867456,
+            1869224
+          ],
+          [
+            1869244,
+            1871740
+          ],
+          [
+            3069948,
+            3071700
+          ],
+          [
+            3071720,
+            3073680
+          ],
+          [
+            3074584,
+            3076320
+          ],
+          [
+            3076340,
+            3078264
+          ],
+          [
+            3079168,
+            3080904
+          ],
+          [
+            3080924,
+            3083164
+          ],
+          [
+            1715768,
+            1715772
+          ],
+          [
+            1717384,
+            1717388
+          ],
+          [
+            1717468,
+            1717472
+          ],
+          [
+            1717552,
+            1717556
+          ],
+          [
+            1717636,
+            1717640
+          ],
+          [
+            1717720,
+            1717724
+          ],
+          [
+            1724552,
+            1724556
+          ],
+          [
+            1724820,
+            1724824
+          ],
+          [
+            1724904,
+            1724908
+          ],
+          [
+            1725172,
+            1725176
+          ],
+          [
+            1725440,
+            1725444
+          ],
+          [
+            1725708,
+            1725712
+          ],
+          [
+            1725976,
+            1725980
+          ],
+          [
+            1726428,
+            1726432
+          ],
+          [
+            1726948,
+            1726952
+          ],
+          [
+            1728844,
+            1728848
+          ],
+          [
+            1729416,
+            1729420
+          ],
+          [
+            1729500,
+            1729504
+          ],
+          [
+            1729584,
+            1729588
+          ],
+          [
+            1729668,
+            1729672
+          ],
+          [
+            1729752,
+            1729756
+          ],
+          [
+            1729836,
+            1729840
+          ],
+          [
+            1729920,
+            1729924
+          ],
+          [
+            1730372,
+            1730376
+          ],
+          [
+            1732544,
+            1732548
+          ],
+          [
+            1732628,
+            1732632
+          ],
+          [
+            1732992,
+            1732996
+          ],
+          [
+            1734260,
+            1734264
+          ],
+          [
+            1737060,
+            1737064
+          ],
+          [
+            1737764,
+            1737768
+          ],
+          [
+            1738400,
+            1738404
+          ],
+          [
+            1740672,
+            1740676
+          ],
+          [
+            1742000,
+            1742004
+          ],
+          [
+            1742084,
+            1742088
+          ],
+          [
+            1742632,
+            1742636
+          ],
+          [
+            1743164,
+            1743168
+          ],
+          [
+            1744572,
+            1744576
+          ],
+          [
+            1745092,
+            1745096
+          ],
+          [
+            1747288,
+            1747292
+          ],
+          [
+            1748248,
+            1748252
+          ],
+          [
+            1748732,
+            1748736
+          ],
+          [
+            1749328,
+            1749332
+          ],
+          [
+            1761192,
+            1761196
+          ],
+          [
+            1751972,
+            1751976
+          ],
+          [
+            1752148,
+            1752152
+          ],
+          [
+            1752728,
+            1752732
+          ],
+          [
+            1752820,
+            1752824
+          ],
+          [
+            1752912,
+            1752916
+          ],
+          [
+            1753444,
+            1753448
+          ],
+          [
+            1753536,
+            1753540
+          ],
+          [
+            1755576,
+            1755580
+          ],
+          [
+            1761736,
+            1761740
+          ],
+          [
+            1761924,
+            1761928
+          ],
+          [
+            1766440,
+            1766444
+          ],
+          [
+            1767668,
+            1767672
+          ],
+          [
+            1767852,
+            1767856
+          ],
+          [
+            1768204,
+            1768208
+          ],
+          [
+            1768468,
+            1768472
+          ],
+          [
+            1768732,
+            1768736
+          ],
+          [
+            16924,
+            16928
+          ]
+        ],
+        "hardware_tested": false,
+        "checks": {
+          "font_raster_round_trip": true,
+          "original_pictures_unchanged": true,
+          "all_changes_within_allowlist": true,
+          "menus_and_commands_unchanged": true,
+          "all_text_resources_unchanged": true,
+          "unicode_maps_and_font_headers_unchanged": true,
+          "firmware_length_unchanged": true,
+          "flash_update_partition_unchanged": true,
+          "os_checksum_valid": true,
+          "zip_integrity": true,
+          "manifest_unchanged": true
+        },
+        "ipsw_sha256": "8cb0ca9854a1c86dba05a778b85d72dd1b28aada2a79383dddee7623763a396a"
+      },
+      "focus": {
+        "device": {
+          "id": "ipod3g-2.3",
+          "display_name": "iPod 3rd generation",
+          "firmware_version": "2.3",
+          "payload_name": "Firmware-2.2.3",
+          "payload_sha256": "73817276159e53cbe3d988a76843c663706a621a19cccc6af4eb957d735f63c3",
+          "lcd_width": 160,
+          "lcd_height": 128,
+          "preview_style": "touch-wheel-3g",
+          "identification": "Exact verified firmware payload SHA-256 and manifest family",
+          "supported": true,
+          "resource_map": "profiles/ipod3g-2.3.json",
+          "manifest_family_id": 2,
+          "manifest_updater_family_id": 2,
+          "hardware_tested": false,
+          "menu_counts": {
+            "main": 6,
+            "music": 7,
+            "settings": 14
+          }
+        },
+        "theme": {
+          "id": "focus",
+          "name": "Focus",
+          "description": "Distinct letterforms and bold text with the most breathing room.",
+          "font": "roboto",
+          "weight": 700,
+          "main_size": 14,
+          "secondary_size": 11,
+          "row_height": 26,
+          "inset": 10,
+          "icons": "stock"
+        },
+        "asset_sha256": {
+          "RobotoCondensed.ttf": "dace262afcee68a5276f200d8026c57221735c0118ab5fda8c2c0d3dc409a8d0",
+          "AtkinsonHyperlegible-Regular.ttf": "7fb917c89019896d0b52ee84b7cbb3304c18cb90b19a62f5e32712bd23e97669",
+          "AtkinsonHyperlegible-Bold.ttf": "5a3b0c8cc8ca545155150b4512a1fa248298df121c50d6557e651e61fbdab92f",
+          "Inter.ttf": "29160a80ff49ddcab2c97711247e08b1fab27a484a329ce8b813d820dc559031",
+          "InterTight.ttf": "b81b73dcb64df3c230cabade7df6c5773bf863233f24c9ee51087519f1f88b6f"
+        },
+        "source_payload_sha256": "73817276159e53cbe3d988a76843c663706a621a19cccc6af4eb957d735f63c3",
+        "result_payload_sha256": "53fd83e4587d968b6a0c7b3de63f8e1a327342f35e7652e04ef1c2cef292ffd2",
+        "changed_bytes": 9624,
+        "fonts": [
+          {
+            "font": "Chicago",
+            "style": 0,
+            "source_font": "RobotoCondensed.ttf",
+            "requested_pixels": 14,
+            "actual_pixels": 14,
+            "replaced_glyphs": 159,
+            "retained_original_glyphs": 62,
+            "atlas_columns": 1207,
+            "atlas_capacity": 1248
+          },
+          {
+            "font": "Espy Sans",
+            "style": 0,
+            "source_font": "RobotoCondensed.ttf",
+            "requested_pixels": 11,
+            "actual_pixels": 11,
+            "replaced_glyphs": 169,
+            "retained_original_glyphs": 50,
+            "atlas_columns": 1026,
+            "atlas_capacity": 1120
+          },
+          {
+            "font": "Espy Sans",
+            "style": 1,
+            "source_font": "RobotoCondensed.ttf",
+            "requested_pixels": 10,
+            "actual_pixels": 10,
+            "replaced_glyphs": 168,
+            "retained_original_glyphs": 49,
+            "atlas_columns": 970,
+            "atlas_capacity": 1184
+          },
+          {
+            "font": "Espy Sans",
+            "style": 1,
+            "source_font": "RobotoCondensed.ttf",
+            "requested_pixels": 11,
+            "actual_pixels": 11,
+            "replaced_glyphs": 168,
+            "retained_original_glyphs": 49,
+            "atlas_columns": 1055,
+            "atlas_capacity": 1280
+          }
+        ],
+        "icons": [],
+        "icon_source": "supplied-firmware",
+        "protected_resources": {
+          "uneM": 24,
+          " rtS": 6765,
+          "dmCT": 1,
+          "epyT": 100,
+          "mTDL": 19
+        },
+        "allowed_ranges": [
+          [
+            1867456,
+            1869224
+          ],
+          [
+            1869244,
+            1871740
+          ],
+          [
+            3069948,
+            3071700
+          ],
+          [
+            3071720,
+            3073680
+          ],
+          [
+            3074584,
+            3076320
+          ],
+          [
+            3076340,
+            3078264
+          ],
+          [
+            3079168,
+            3080904
+          ],
+          [
+            3080924,
+            3083164
+          ],
+          [
+            1715768,
+            1715772
+          ],
+          [
+            1717384,
+            1717388
+          ],
+          [
+            1717468,
+            1717472
+          ],
+          [
+            1717552,
+            1717556
+          ],
+          [
+            1717636,
+            1717640
+          ],
+          [
+            1717720,
+            1717724
+          ],
+          [
+            1724552,
+            1724556
+          ],
+          [
+            1724820,
+            1724824
+          ],
+          [
+            1724904,
+            1724908
+          ],
+          [
+            1725172,
+            1725176
+          ],
+          [
+            1725440,
+            1725444
+          ],
+          [
+            1725708,
+            1725712
+          ],
+          [
+            1725976,
+            1725980
+          ],
+          [
+            1726428,
+            1726432
+          ],
+          [
+            1726948,
+            1726952
+          ],
+          [
+            1728844,
+            1728848
+          ],
+          [
+            1729416,
+            1729420
+          ],
+          [
+            1729500,
+            1729504
+          ],
+          [
+            1729584,
+            1729588
+          ],
+          [
+            1729668,
+            1729672
+          ],
+          [
+            1729752,
+            1729756
+          ],
+          [
+            1729836,
+            1729840
+          ],
+          [
+            1729920,
+            1729924
+          ],
+          [
+            1730372,
+            1730376
+          ],
+          [
+            1732544,
+            1732548
+          ],
+          [
+            1732628,
+            1732632
+          ],
+          [
+            1732992,
+            1732996
+          ],
+          [
+            1734260,
+            1734264
+          ],
+          [
+            1737060,
+            1737064
+          ],
+          [
+            1737764,
+            1737768
+          ],
+          [
+            1738400,
+            1738404
+          ],
+          [
+            1740672,
+            1740676
+          ],
+          [
+            1742000,
+            1742004
+          ],
+          [
+            1742084,
+            1742088
+          ],
+          [
+            1742632,
+            1742636
+          ],
+          [
+            1743164,
+            1743168
+          ],
+          [
+            1744572,
+            1744576
+          ],
+          [
+            1745092,
+            1745096
+          ],
+          [
+            1747288,
+            1747292
+          ],
+          [
+            1748248,
+            1748252
+          ],
+          [
+            1748732,
+            1748736
+          ],
+          [
+            1749328,
+            1749332
+          ],
+          [
+            1761192,
+            1761196
+          ],
+          [
+            1751972,
+            1751976
+          ],
+          [
+            1752148,
+            1752152
+          ],
+          [
+            1752728,
+            1752732
+          ],
+          [
+            1752820,
+            1752824
+          ],
+          [
+            1752912,
+            1752916
+          ],
+          [
+            1753444,
+            1753448
+          ],
+          [
+            1753536,
+            1753540
+          ],
+          [
+            1755576,
+            1755580
+          ],
+          [
+            1761736,
+            1761740
+          ],
+          [
+            1761924,
+            1761928
+          ],
+          [
+            1766440,
+            1766444
+          ],
+          [
+            1767668,
+            1767672
+          ],
+          [
+            1767852,
+            1767856
+          ],
+          [
+            1768204,
+            1768208
+          ],
+          [
+            1768468,
+            1768472
+          ],
+          [
+            1768732,
+            1768736
+          ],
+          [
+            16924,
+            16928
+          ]
+        ],
+        "hardware_tested": false,
+        "checks": {
+          "font_raster_round_trip": true,
+          "original_pictures_unchanged": true,
+          "all_changes_within_allowlist": true,
+          "menus_and_commands_unchanged": true,
+          "all_text_resources_unchanged": true,
+          "unicode_maps_and_font_headers_unchanged": true,
+          "firmware_length_unchanged": true,
+          "flash_update_partition_unchanged": true,
+          "os_checksum_valid": true,
+          "zip_integrity": true,
+          "manifest_unchanged": true
+        },
+        "ipsw_sha256": "0feda1af052c2ceb4641c7160dbe6c4bcf15ebb9b9bc3e320cd8ddb2407235e2"
+      },
+      "compact": {
+        "device": {
+          "id": "ipod3g-2.3",
+          "display_name": "iPod 3rd generation",
+          "firmware_version": "2.3",
+          "payload_name": "Firmware-2.2.3",
+          "payload_sha256": "73817276159e53cbe3d988a76843c663706a621a19cccc6af4eb957d735f63c3",
+          "lcd_width": 160,
+          "lcd_height": 128,
+          "preview_style": "touch-wheel-3g",
+          "identification": "Exact verified firmware payload SHA-256 and manifest family",
+          "supported": true,
+          "resource_map": "profiles/ipod3g-2.3.json",
+          "manifest_family_id": 2,
+          "manifest_updater_family_id": 2,
+          "hardware_tested": false,
+          "menu_counts": {
+            "main": 6,
+            "music": 7,
+            "settings": 14
+          }
+        },
+        "theme": {
+          "id": "compact",
+          "name": "Compact",
+          "description": "Modern lettering with more of your library on screen.",
+          "font": "inter",
+          "weight": 400,
+          "main_size": 12,
+          "secondary_size": 10,
+          "row_height": 20,
+          "inset": 7,
+          "icons": "stock"
+        },
+        "asset_sha256": {
+          "RobotoCondensed.ttf": "dace262afcee68a5276f200d8026c57221735c0118ab5fda8c2c0d3dc409a8d0",
+          "AtkinsonHyperlegible-Regular.ttf": "7fb917c89019896d0b52ee84b7cbb3304c18cb90b19a62f5e32712bd23e97669",
+          "AtkinsonHyperlegible-Bold.ttf": "5a3b0c8cc8ca545155150b4512a1fa248298df121c50d6557e651e61fbdab92f",
+          "Inter.ttf": "29160a80ff49ddcab2c97711247e08b1fab27a484a329ce8b813d820dc559031",
+          "InterTight.ttf": "b81b73dcb64df3c230cabade7df6c5773bf863233f24c9ee51087519f1f88b6f"
+        },
+        "source_payload_sha256": "73817276159e53cbe3d988a76843c663706a621a19cccc6af4eb957d735f63c3",
+        "result_payload_sha256": "926e1a925b7c9f5dc0e0754e763e78251a63799bf94daf75bdee4ffd25515774",
+        "changed_bytes": 9669,
+        "fonts": [
+          {
+            "font": "Chicago",
+            "style": 0,
+            "source_font": "Inter.ttf",
+            "requested_pixels": 12,
+            "actual_pixels": 12,
+            "replaced_glyphs": 160,
+            "retained_original_glyphs": 61,
+            "atlas_columns": 1148,
+            "atlas_capacity": 1248
+          },
+          {
+            "font": "Espy Sans",
+            "style": 0,
+            "source_font": "Inter.ttf",
+            "requested_pixels": 10,
+            "actual_pixels": 10,
+            "replaced_glyphs": 177,
+            "retained_original_glyphs": 42,
+            "atlas_columns": 995,
+            "atlas_capacity": 1120
+          },
+          {
+            "font": "Espy Sans",
+            "style": 1,
+            "source_font": "Inter.ttf",
+            "requested_pixels": 9,
+            "actual_pixels": 9,
+            "replaced_glyphs": 182,
+            "retained_original_glyphs": 35,
+            "atlas_columns": 898,
+            "atlas_capacity": 1184
+          },
+          {
+            "font": "Espy Sans",
+            "style": 1,
+            "source_font": "Inter.ttf",
+            "requested_pixels": 10,
+            "actual_pixels": 10,
+            "replaced_glyphs": 176,
+            "retained_original_glyphs": 41,
+            "atlas_columns": 1020,
+            "atlas_capacity": 1280
+          }
+        ],
+        "icons": [],
+        "icon_source": "supplied-firmware",
+        "protected_resources": {
+          "uneM": 24,
+          " rtS": 6765,
+          "dmCT": 1,
+          "epyT": 100,
+          "mTDL": 19
+        },
+        "allowed_ranges": [
+          [
+            1867456,
+            1869224
+          ],
+          [
+            1869244,
+            1871740
+          ],
+          [
+            3069948,
+            3071700
+          ],
+          [
+            3071720,
+            3073680
+          ],
+          [
+            3074584,
+            3076320
+          ],
+          [
+            3076340,
+            3078264
+          ],
+          [
+            3079168,
+            3080904
+          ],
+          [
+            3080924,
+            3083164
+          ],
+          [
+            1715768,
+            1715772
+          ],
+          [
+            1717384,
+            1717388
+          ],
+          [
+            1717468,
+            1717472
+          ],
+          [
+            1717552,
+            1717556
+          ],
+          [
+            1717636,
+            1717640
+          ],
+          [
+            1717720,
+            1717724
+          ],
+          [
+            1724552,
+            1724556
+          ],
+          [
+            1724820,
+            1724824
+          ],
+          [
+            1724904,
+            1724908
+          ],
+          [
+            1725172,
+            1725176
+          ],
+          [
+            1725440,
+            1725444
+          ],
+          [
+            1725708,
+            1725712
+          ],
+          [
+            1725976,
+            1725980
+          ],
+          [
+            1726428,
+            1726432
+          ],
+          [
+            1726948,
+            1726952
+          ],
+          [
+            1728844,
+            1728848
+          ],
+          [
+            1729416,
+            1729420
+          ],
+          [
+            1729500,
+            1729504
+          ],
+          [
+            1729584,
+            1729588
+          ],
+          [
+            1729668,
+            1729672
+          ],
+          [
+            1729752,
+            1729756
+          ],
+          [
+            1729836,
+            1729840
+          ],
+          [
+            1729920,
+            1729924
+          ],
+          [
+            1730372,
+            1730376
+          ],
+          [
+            1732544,
+            1732548
+          ],
+          [
+            1732628,
+            1732632
+          ],
+          [
+            1732992,
+            1732996
+          ],
+          [
+            1734260,
+            1734264
+          ],
+          [
+            1737060,
+            1737064
+          ],
+          [
+            1737764,
+            1737768
+          ],
+          [
+            1738400,
+            1738404
+          ],
+          [
+            1740672,
+            1740676
+          ],
+          [
+            1742000,
+            1742004
+          ],
+          [
+            1742084,
+            1742088
+          ],
+          [
+            1742632,
+            1742636
+          ],
+          [
+            1743164,
+            1743168
+          ],
+          [
+            1744572,
+            1744576
+          ],
+          [
+            1745092,
+            1745096
+          ],
+          [
+            1747288,
+            1747292
+          ],
+          [
+            1748248,
+            1748252
+          ],
+          [
+            1748732,
+            1748736
+          ],
+          [
+            1749328,
+            1749332
+          ],
+          [
+            1761192,
+            1761196
+          ],
+          [
+            1751972,
+            1751976
+          ],
+          [
+            1752148,
+            1752152
+          ],
+          [
+            1752728,
+            1752732
+          ],
+          [
+            1752820,
+            1752824
+          ],
+          [
+            1752912,
+            1752916
+          ],
+          [
+            1753444,
+            1753448
+          ],
+          [
+            1753536,
+            1753540
+          ],
+          [
+            1755576,
+            1755580
+          ],
+          [
+            1761736,
+            1761740
+          ],
+          [
+            1761924,
+            1761928
+          ],
+          [
+            1766440,
+            1766444
+          ],
+          [
+            1767668,
+            1767672
+          ],
+          [
+            1767852,
+            1767856
+          ],
+          [
+            1768204,
+            1768208
+          ],
+          [
+            1768468,
+            1768472
+          ],
+          [
+            1768732,
+            1768736
+          ],
+          [
+            16924,
+            16928
+          ]
+        ],
+        "hardware_tested": false,
+        "checks": {
+          "font_raster_round_trip": true,
+          "original_pictures_unchanged": true,
+          "all_changes_within_allowlist": true,
+          "menus_and_commands_unchanged": true,
+          "all_text_resources_unchanged": true,
+          "unicode_maps_and_font_headers_unchanged": true,
+          "firmware_length_unchanged": true,
+          "flash_update_partition_unchanged": true,
+          "os_checksum_valid": true,
+          "zip_integrity": true,
+          "manifest_unchanged": true
+        },
+        "ipsw_sha256": "0c22555c55325ba405e6a7b51ba1283fdacd5cb0e9ebe739b60b52a5003da1c4"
+      },
+      "enlarge": {
+        "device": {
+          "id": "ipod3g-2.3",
+          "display_name": "iPod 3rd generation",
+          "firmware_version": "2.3",
+          "payload_name": "Firmware-2.2.3",
+          "payload_sha256": "73817276159e53cbe3d988a76843c663706a621a19cccc6af4eb957d735f63c3",
+          "lcd_width": 160,
+          "lcd_height": 128,
+          "preview_style": "touch-wheel-3g",
+          "identification": "Exact verified firmware payload SHA-256 and manifest family",
+          "supported": true,
+          "resource_map": "profiles/ipod3g-2.3.json",
+          "manifest_family_id": 2,
+          "manifest_updater_family_id": 2,
+          "hardware_tested": false,
+          "menu_counts": {
+            "main": 6,
+            "music": 7,
+            "settings": 14
+          }
+        },
+        "theme": {
+          "id": "enlarge",
+          "name": "Enlarge",
+          "description": "Larger 13px semibold lettering and roomy menus with original iPod icons.",
+          "font": "inter-tight",
+          "weight": 600,
+          "main_size": 13,
+          "secondary_size": 11,
+          "row_height": 24,
+          "inset": 8,
+          "icons": "stock"
+        },
+        "asset_sha256": {
+          "RobotoCondensed.ttf": "dace262afcee68a5276f200d8026c57221735c0118ab5fda8c2c0d3dc409a8d0",
+          "AtkinsonHyperlegible-Regular.ttf": "7fb917c89019896d0b52ee84b7cbb3304c18cb90b19a62f5e32712bd23e97669",
+          "AtkinsonHyperlegible-Bold.ttf": "5a3b0c8cc8ca545155150b4512a1fa248298df121c50d6557e651e61fbdab92f",
+          "Inter.ttf": "29160a80ff49ddcab2c97711247e08b1fab27a484a329ce8b813d820dc559031",
+          "InterTight.ttf": "b81b73dcb64df3c230cabade7df6c5773bf863233f24c9ee51087519f1f88b6f"
+        },
+        "source_payload_sha256": "73817276159e53cbe3d988a76843c663706a621a19cccc6af4eb957d735f63c3",
+        "result_payload_sha256": "b9ea816aa512e05e18e5cf9eb6966878aab5a840fc396299d161dd1fe7bdec07",
+        "changed_bytes": 9402,
+        "fonts": [
+          {
+            "font": "Chicago",
+            "style": 0,
+            "source_font": "InterTight.ttf",
+            "requested_pixels": 13,
+            "actual_pixels": 13,
+            "replaced_glyphs": 161,
+            "retained_original_glyphs": 60,
+            "atlas_columns": 1236,
+            "atlas_capacity": 1248
+          },
+          {
+            "font": "Espy Sans",
+            "style": 0,
+            "source_font": "InterTight.ttf",
+            "requested_pixels": 11,
+            "actual_pixels": 11,
+            "replaced_glyphs": 179,
+            "retained_original_glyphs": 40,
+            "atlas_columns": 1022,
+            "atlas_capacity": 1120
+          },
+          {
+            "font": "Espy Sans",
+            "style": 1,
+            "source_font": "InterTight.ttf",
+            "requested_pixels": 10,
+            "actual_pixels": 10,
+            "replaced_glyphs": 160,
+            "retained_original_glyphs": 57,
+            "atlas_columns": 965,
+            "atlas_capacity": 1184
+          },
+          {
+            "font": "Espy Sans",
+            "style": 1,
+            "source_font": "InterTight.ttf",
+            "requested_pixels": 11,
+            "actual_pixels": 11,
+            "replaced_glyphs": 178,
+            "retained_original_glyphs": 39,
+            "atlas_columns": 1044,
+            "atlas_capacity": 1280
+          }
+        ],
+        "icons": [],
+        "icon_source": "supplied-firmware",
+        "protected_resources": {
+          "uneM": 24,
+          " rtS": 6765,
+          "dmCT": 1,
+          "epyT": 100,
+          "mTDL": 19
+        },
+        "allowed_ranges": [
+          [
+            1867456,
+            1869224
+          ],
+          [
+            1869244,
+            1871740
+          ],
+          [
+            3069948,
+            3071700
+          ],
+          [
+            3071720,
+            3073680
+          ],
+          [
+            3074584,
+            3076320
+          ],
+          [
+            3076340,
+            3078264
+          ],
+          [
+            3079168,
+            3080904
+          ],
+          [
+            3080924,
+            3083164
+          ],
+          [
+            1715768,
+            1715772
+          ],
+          [
+            1717384,
+            1717388
+          ],
+          [
+            1717468,
+            1717472
+          ],
+          [
+            1717552,
+            1717556
+          ],
+          [
+            1717636,
+            1717640
+          ],
+          [
+            1717720,
+            1717724
+          ],
+          [
+            1724552,
+            1724556
+          ],
+          [
+            1724820,
+            1724824
+          ],
+          [
+            1724904,
+            1724908
+          ],
+          [
+            1725172,
+            1725176
+          ],
+          [
+            1725440,
+            1725444
+          ],
+          [
+            1725708,
+            1725712
+          ],
+          [
+            1725976,
+            1725980
+          ],
+          [
+            1726428,
+            1726432
+          ],
+          [
+            1726948,
+            1726952
+          ],
+          [
+            1728844,
+            1728848
+          ],
+          [
+            1729416,
+            1729420
+          ],
+          [
+            1729500,
+            1729504
+          ],
+          [
+            1729584,
+            1729588
+          ],
+          [
+            1729668,
+            1729672
+          ],
+          [
+            1729752,
+            1729756
+          ],
+          [
+            1729836,
+            1729840
+          ],
+          [
+            1729920,
+            1729924
+          ],
+          [
+            1730372,
+            1730376
+          ],
+          [
+            1732544,
+            1732548
+          ],
+          [
+            1732628,
+            1732632
+          ],
+          [
+            1732992,
+            1732996
+          ],
+          [
+            1734260,
+            1734264
+          ],
+          [
+            1737060,
+            1737064
+          ],
+          [
+            1737764,
+            1737768
+          ],
+          [
+            1738400,
+            1738404
+          ],
+          [
+            1740672,
+            1740676
+          ],
+          [
+            1742000,
+            1742004
+          ],
+          [
+            1742084,
+            1742088
+          ],
+          [
+            1742632,
+            1742636
+          ],
+          [
+            1743164,
+            1743168
+          ],
+          [
+            1744572,
+            1744576
+          ],
+          [
+            1745092,
+            1745096
+          ],
+          [
+            1747288,
+            1747292
+          ],
+          [
+            1748248,
+            1748252
+          ],
+          [
+            1748732,
+            1748736
+          ],
+          [
+            1749328,
+            1749332
+          ],
+          [
+            1761192,
+            1761196
+          ],
+          [
+            1751972,
+            1751976
+          ],
+          [
+            1752148,
+            1752152
+          ],
+          [
+            1752728,
+            1752732
+          ],
+          [
+            1752820,
+            1752824
+          ],
+          [
+            1752912,
+            1752916
+          ],
+          [
+            1753444,
+            1753448
+          ],
+          [
+            1753536,
+            1753540
+          ],
+          [
+            1755576,
+            1755580
+          ],
+          [
+            1761736,
+            1761740
+          ],
+          [
+            1761924,
+            1761928
+          ],
+          [
+            1766440,
+            1766444
+          ],
+          [
+            1767668,
+            1767672
+          ],
+          [
+            1767852,
+            1767856
+          ],
+          [
+            1768204,
+            1768208
+          ],
+          [
+            1768468,
+            1768472
+          ],
+          [
+            1768732,
+            1768736
+          ],
+          [
+            16924,
+            16928
+          ]
+        ],
+        "hardware_tested": false,
+        "checks": {
+          "font_raster_round_trip": true,
+          "original_pictures_unchanged": true,
+          "all_changes_within_allowlist": true,
+          "menus_and_commands_unchanged": true,
+          "all_text_resources_unchanged": true,
+          "unicode_maps_and_font_headers_unchanged": true,
+          "firmware_length_unchanged": true,
+          "flash_update_partition_unchanged": true,
+          "os_checksum_valid": true,
+          "zip_integrity": true,
+          "manifest_unchanged": true
+        },
+        "ipsw_sha256": "a58ebc2ac37d0e3cda138c499f095e89676eef7abc825c390a4b904ed2fb47c3"
+      }
+    },
+    "ipod4g-monochrome-3.1.1": {
+      "clear": {
+        "device": {
+          "id": "ipod4g-monochrome-3.1.1",
+          "display_name": "iPod 4th generation \u00b7 monochrome",
+          "model_family": "iPod",
+          "generation": 4,
+          "firmware_version": "3.1.1",
+          "payload_name": "Firmware-4.3.1.1",
+          "payload_sha256": "5b5ce4e560ce03859a2ec30ca7f36ada01dd68e15ce0ca62b3bf847158378d58",
+          "lcd_width": 160,
+          "lcd_height": 128,
+          "preview_style": "click-wheel-4g",
+          "identification": "Exact verified firmware payload SHA-256",
+          "supported": true,
+          "resource_map": "resource-map.json",
+          "manifest_family_id": 4,
+          "manifest_updater_family_id": 4,
+          "hardware_tested": false,
+          "menu_counts": {
+            "main": 6,
+            "music": 8,
+            "settings": 15
+          }
+        },
+        "theme": {
+          "id": "clear",
+          "name": "Clear",
+          "description": "Clean sans-serif text and airy menus with original iPod icons.",
+          "font": "inter",
+          "weight": 500,
+          "main_size": 12,
+          "secondary_size": 11,
+          "row_height": 24,
+          "inset": 8,
+          "icons": "stock"
+        },
+        "asset_sha256": {
+          "RobotoCondensed.ttf": "dace262afcee68a5276f200d8026c57221735c0118ab5fda8c2c0d3dc409a8d0",
+          "AtkinsonHyperlegible-Regular.ttf": "7fb917c89019896d0b52ee84b7cbb3304c18cb90b19a62f5e32712bd23e97669",
+          "AtkinsonHyperlegible-Bold.ttf": "5a3b0c8cc8ca545155150b4512a1fa248298df121c50d6557e651e61fbdab92f",
+          "Inter.ttf": "29160a80ff49ddcab2c97711247e08b1fab27a484a329ce8b813d820dc559031",
+          "InterTight.ttf": "b81b73dcb64df3c230cabade7df6c5773bf863233f24c9ee51087519f1f88b6f"
+        },
+        "source_payload_sha256": "5b5ce4e560ce03859a2ec30ca7f36ada01dd68e15ce0ca62b3bf847158378d58",
+        "result_payload_sha256": "dbe195a3ce819d20600f916cd7e1f3c3e3f185d81c296a2b674bf974b985b07d",
+        "changed_bytes": 16949,
+        "fonts": [
+          {
+            "font": "Chicago",
+            "style": 0,
+            "source_font": "Inter.ttf",
+            "requested_pixels": 12,
+            "actual_pixels": 12,
+            "replaced_glyphs": 474,
+            "retained_original_glyphs": 43,
+            "atlas_columns": 2945,
+            "atlas_capacity": 3136
+          },
+          {
+            "font": "Espy Sans",
+            "style": 0,
+            "source_font": "Inter.ttf",
+            "requested_pixels": 11,
+            "actual_pixels": 11,
+            "replaced_glyphs": 181,
+            "retained_original_glyphs": 41,
+            "atlas_columns": 1070,
+            "atlas_capacity": 1120
+          },
+          {
+            "font": "Espy Sans",
+            "style": 1,
+            "source_font": "Inter.ttf",
+            "requested_pixels": 10,
+            "actual_pixels": 10,
+            "replaced_glyphs": 160,
+            "retained_original_glyphs": 60,
+            "atlas_columns": 1030,
+            "atlas_capacity": 1184
+          },
+          {
+            "font": "Espy Sans",
+            "style": 1,
+            "source_font": "Inter.ttf",
+            "requested_pixels": 11,
+            "actual_pixels": 11,
+            "replaced_glyphs": 395,
+            "retained_original_glyphs": 42,
+            "atlas_columns": 2168,
+            "atlas_capacity": 2624
+          }
+        ],
+        "icons": [],
+        "icon_source": "supplied-firmware",
+        "protected_resources": {
+          "uneM": 25,
+          " rtS": 7019,
+          "dmCT": 1,
+          "epyT": 136,
+          "mTDL": 19
+        },
+        "allowed_ranges": [
+          [
+            2580736,
+            2584872
+          ],
+          [
+            2584892,
+            2591164
+          ],
+          [
+            2592080,
+            2593856
+          ],
+          [
+            2593876,
+            2595836
+          ],
+          [
+            2596752,
+            2598512
+          ],
+          [
+            2598532,
+            2600456
+          ],
+          [
+            2602040,
+            2605536
+          ],
+          [
+            2605556,
+            2609820
+          ],
+          [
+            1865860,
+            1865864
+          ],
+          [
+            1867476,
+            1867480
+          ],
+          [
+            1867560,
+            1867564
+          ],
+          [
+            1867644,
+            1867648
+          ],
+          [
+            1867728,
+            1867732
+          ],
+          [
+            1867812,
+            1867816
+          ],
+          [
+            1874684,
+            1874688
+          ],
+          [
+            1874952,
+            1874956
+          ],
+          [
+            1875036,
+            1875040
+          ],
+          [
+            1875304,
+            1875308
+          ],
+          [
+            1875572,
+            1875576
+          ],
+          [
+            1875840,
+            1875844
+          ],
+          [
+            1876108,
+            1876112
+          ],
+          [
+            1876560,
+            1876564
+          ],
+          [
+            1876828,
+            1876832
+          ],
+          [
+            1877348,
+            1877352
+          ],
+          [
+            1879244,
+            1879248
+          ],
+          [
+            1879816,
+            1879820
+          ],
+          [
+            1879900,
+            1879904
+          ],
+          [
+            1879984,
+            1879988
+          ],
+          [
+            1880068,
+            1880072
+          ],
+          [
+            1880152,
+            1880156
+          ],
+          [
+            1880236,
+            1880240
+          ],
+          [
+            1880316,
+            1880320
+          ],
+          [
+            1880400,
+            1880404
+          ],
+          [
+            1881236,
+            1881240
+          ],
+          [
+            1881316,
+            1881320
+          ],
+          [
+            1881400,
+            1881404
+          ],
+          [
+            1881480,
+            1881484
+          ],
+          [
+            1881932,
+            1881936
+          ],
+          [
+            1884672,
+            1884676
+          ],
+          [
+            1884756,
+            1884760
+          ],
+          [
+            1885120,
+            1885124
+          ],
+          [
+            1886388,
+            1886392
+          ],
+          [
+            1889188,
+            1889192
+          ],
+          [
+            1889892,
+            1889896
+          ],
+          [
+            1890528,
+            1890532
+          ],
+          [
+            1892800,
+            1892804
+          ],
+          [
+            1894128,
+            1894132
+          ],
+          [
+            1894212,
+            1894216
+          ],
+          [
+            1894760,
+            1894764
+          ],
+          [
+            1895292,
+            1895296
+          ],
+          [
+            1896700,
+            1896704
+          ],
+          [
+            1897220,
+            1897224
+          ],
+          [
+            1899416,
+            1899420
+          ],
+          [
+            1900376,
+            1900380
+          ],
+          [
+            1900860,
+            1900864
+          ],
+          [
+            1901456,
+            1901460
+          ],
+          [
+            1913320,
+            1913324
+          ],
+          [
+            1904100,
+            1904104
+          ],
+          [
+            1904276,
+            1904280
+          ],
+          [
+            1904856,
+            1904860
+          ],
+          [
+            1904948,
+            1904952
+          ],
+          [
+            1905040,
+            1905044
+          ],
+          [
+            1905572,
+            1905576
+          ],
+          [
+            1905664,
+            1905668
+          ],
+          [
+            1907704,
+            1907708
+          ],
+          [
+            1914052,
+            1914056
+          ],
+          [
+            1914404,
+            1914408
+          ],
+          [
+            1920376,
+            1920380
+          ],
+          [
+            1921788,
+            1921792
+          ],
+          [
+            1921972,
+            1921976
+          ],
+          [
+            1922324,
+            1922328
+          ],
+          [
+            1922588,
+            1922592
+          ],
+          [
+            1922852,
+            1922856
+          ],
+          [
+            16924,
+            16928
+          ]
+        ],
+        "hardware_tested": false,
+        "checks": {
+          "font_raster_round_trip": true,
+          "original_pictures_unchanged": true,
+          "all_changes_within_allowlist": true,
+          "menus_and_commands_unchanged": true,
+          "all_text_resources_unchanged": true,
+          "unicode_maps_and_font_headers_unchanged": true,
+          "firmware_length_unchanged": true,
+          "flash_update_partition_unchanged": true,
+          "os_checksum_valid": true,
+          "zip_integrity": true,
+          "manifest_unchanged": true
+        },
+        "ipsw_sha256": "4356483c21e3d730aadc29a093c3fb6ec8fd450ad4c6f6fc1f0b955cfc77fc48"
+      },
+      "focus": {
+        "device": {
+          "id": "ipod4g-monochrome-3.1.1",
+          "display_name": "iPod 4th generation \u00b7 monochrome",
+          "model_family": "iPod",
+          "generation": 4,
+          "firmware_version": "3.1.1",
+          "payload_name": "Firmware-4.3.1.1",
+          "payload_sha256": "5b5ce4e560ce03859a2ec30ca7f36ada01dd68e15ce0ca62b3bf847158378d58",
+          "lcd_width": 160,
+          "lcd_height": 128,
+          "preview_style": "click-wheel-4g",
+          "identification": "Exact verified firmware payload SHA-256",
+          "supported": true,
+          "resource_map": "resource-map.json",
+          "manifest_family_id": 4,
+          "manifest_updater_family_id": 4,
+          "hardware_tested": false,
+          "menu_counts": {
+            "main": 6,
+            "music": 8,
+            "settings": 15
+          }
+        },
+        "theme": {
+          "id": "focus",
+          "name": "Focus",
+          "description": "Distinct letterforms and bold text with the most breathing room.",
+          "font": "roboto",
+          "weight": 700,
+          "main_size": 14,
+          "secondary_size": 11,
+          "row_height": 26,
+          "inset": 10,
+          "icons": "stock"
+        },
+        "asset_sha256": {
+          "RobotoCondensed.ttf": "dace262afcee68a5276f200d8026c57221735c0118ab5fda8c2c0d3dc409a8d0",
+          "AtkinsonHyperlegible-Regular.ttf": "7fb917c89019896d0b52ee84b7cbb3304c18cb90b19a62f5e32712bd23e97669",
+          "AtkinsonHyperlegible-Bold.ttf": "5a3b0c8cc8ca545155150b4512a1fa248298df121c50d6557e651e61fbdab92f",
+          "Inter.ttf": "29160a80ff49ddcab2c97711247e08b1fab27a484a329ce8b813d820dc559031",
+          "InterTight.ttf": "b81b73dcb64df3c230cabade7df6c5773bf863233f24c9ee51087519f1f88b6f"
+        },
+        "source_payload_sha256": "5b5ce4e560ce03859a2ec30ca7f36ada01dd68e15ce0ca62b3bf847158378d58",
+        "result_payload_sha256": "9325c11b38c29fb9a780295f07e26f492e71f01ed1783d94324224c170320b47",
+        "changed_bytes": 16918,
+        "fonts": [
+          {
+            "font": "Chicago",
+            "style": 0,
+            "source_font": "RobotoCondensed.ttf",
+            "requested_pixels": 14,
+            "actual_pixels": 14,
+            "replaced_glyphs": 380,
+            "retained_original_glyphs": 137,
+            "atlas_columns": 3020,
+            "atlas_capacity": 3136
+          },
+          {
+            "font": "Espy Sans",
+            "style": 0,
+            "source_font": "RobotoCondensed.ttf",
+            "requested_pixels": 11,
+            "actual_pixels": 11,
+            "replaced_glyphs": 169,
+            "retained_original_glyphs": 53,
+            "atlas_columns": 1030,
+            "atlas_capacity": 1120
+          },
+          {
+            "font": "Espy Sans",
+            "style": 1,
+            "source_font": "RobotoCondensed.ttf",
+            "requested_pixels": 10,
+            "actual_pixels": 10,
+            "replaced_glyphs": 168,
+            "retained_original_glyphs": 52,
+            "atlas_columns": 980,
+            "atlas_capacity": 1184
+          },
+          {
+            "font": "Espy Sans",
+            "style": 1,
+            "source_font": "RobotoCondensed.ttf",
+            "requested_pixels": 11,
+            "actual_pixels": 11,
+            "replaced_glyphs": 362,
+            "retained_original_glyphs": 75,
+            "atlas_columns": 2127,
+            "atlas_capacity": 2624
+          }
+        ],
+        "icons": [],
+        "icon_source": "supplied-firmware",
+        "protected_resources": {
+          "uneM": 25,
+          " rtS": 7019,
+          "dmCT": 1,
+          "epyT": 136,
+          "mTDL": 19
+        },
+        "allowed_ranges": [
+          [
+            2580736,
+            2584872
+          ],
+          [
+            2584892,
+            2591164
+          ],
+          [
+            2592080,
+            2593856
+          ],
+          [
+            2593876,
+            2595836
+          ],
+          [
+            2596752,
+            2598512
+          ],
+          [
+            2598532,
+            2600456
+          ],
+          [
+            2602040,
+            2605536
+          ],
+          [
+            2605556,
+            2609820
+          ],
+          [
+            1865860,
+            1865864
+          ],
+          [
+            1867476,
+            1867480
+          ],
+          [
+            1867560,
+            1867564
+          ],
+          [
+            1867644,
+            1867648
+          ],
+          [
+            1867728,
+            1867732
+          ],
+          [
+            1867812,
+            1867816
+          ],
+          [
+            1874684,
+            1874688
+          ],
+          [
+            1874952,
+            1874956
+          ],
+          [
+            1875036,
+            1875040
+          ],
+          [
+            1875304,
+            1875308
+          ],
+          [
+            1875572,
+            1875576
+          ],
+          [
+            1875840,
+            1875844
+          ],
+          [
+            1876108,
+            1876112
+          ],
+          [
+            1876560,
+            1876564
+          ],
+          [
+            1876828,
+            1876832
+          ],
+          [
+            1877348,
+            1877352
+          ],
+          [
+            1879244,
+            1879248
+          ],
+          [
+            1879816,
+            1879820
+          ],
+          [
+            1879900,
+            1879904
+          ],
+          [
+            1879984,
+            1879988
+          ],
+          [
+            1880068,
+            1880072
+          ],
+          [
+            1880152,
+            1880156
+          ],
+          [
+            1880236,
+            1880240
+          ],
+          [
+            1880316,
+            1880320
+          ],
+          [
+            1880400,
+            1880404
+          ],
+          [
+            1881236,
+            1881240
+          ],
+          [
+            1881316,
+            1881320
+          ],
+          [
+            1881400,
+            1881404
+          ],
+          [
+            1881480,
+            1881484
+          ],
+          [
+            1881932,
+            1881936
+          ],
+          [
+            1884672,
+            1884676
+          ],
+          [
+            1884756,
+            1884760
+          ],
+          [
+            1885120,
+            1885124
+          ],
+          [
+            1886388,
+            1886392
+          ],
+          [
+            1889188,
+            1889192
+          ],
+          [
+            1889892,
+            1889896
+          ],
+          [
+            1890528,
+            1890532
+          ],
+          [
+            1892800,
+            1892804
+          ],
+          [
+            1894128,
+            1894132
+          ],
+          [
+            1894212,
+            1894216
+          ],
+          [
+            1894760,
+            1894764
+          ],
+          [
+            1895292,
+            1895296
+          ],
+          [
+            1896700,
+            1896704
+          ],
+          [
+            1897220,
+            1897224
+          ],
+          [
+            1899416,
+            1899420
+          ],
+          [
+            1900376,
+            1900380
+          ],
+          [
+            1900860,
+            1900864
+          ],
+          [
+            1901456,
+            1901460
+          ],
+          [
+            1913320,
+            1913324
+          ],
+          [
+            1904100,
+            1904104
+          ],
+          [
+            1904276,
+            1904280
+          ],
+          [
+            1904856,
+            1904860
+          ],
+          [
+            1904948,
+            1904952
+          ],
+          [
+            1905040,
+            1905044
+          ],
+          [
+            1905572,
+            1905576
+          ],
+          [
+            1905664,
+            1905668
+          ],
+          [
+            1907704,
+            1907708
+          ],
+          [
+            1914052,
+            1914056
+          ],
+          [
+            1914404,
+            1914408
+          ],
+          [
+            1920376,
+            1920380
+          ],
+          [
+            1921788,
+            1921792
+          ],
+          [
+            1921972,
+            1921976
+          ],
+          [
+            1922324,
+            1922328
+          ],
+          [
+            1922588,
+            1922592
+          ],
+          [
+            1922852,
+            1922856
+          ],
+          [
+            16924,
+            16928
+          ]
+        ],
+        "hardware_tested": false,
+        "checks": {
+          "font_raster_round_trip": true,
+          "original_pictures_unchanged": true,
+          "all_changes_within_allowlist": true,
+          "menus_and_commands_unchanged": true,
+          "all_text_resources_unchanged": true,
+          "unicode_maps_and_font_headers_unchanged": true,
+          "firmware_length_unchanged": true,
+          "flash_update_partition_unchanged": true,
+          "os_checksum_valid": true,
+          "zip_integrity": true,
+          "manifest_unchanged": true
+        },
+        "ipsw_sha256": "c4d62c615f8f57ca8ed36b834c80c3d3ab67e6ffd89a83a512d5db14bbf566f0"
+      },
+      "compact": {
+        "device": {
+          "id": "ipod4g-monochrome-3.1.1",
+          "display_name": "iPod 4th generation \u00b7 monochrome",
+          "model_family": "iPod",
+          "generation": 4,
+          "firmware_version": "3.1.1",
+          "payload_name": "Firmware-4.3.1.1",
+          "payload_sha256": "5b5ce4e560ce03859a2ec30ca7f36ada01dd68e15ce0ca62b3bf847158378d58",
+          "lcd_width": 160,
+          "lcd_height": 128,
+          "preview_style": "click-wheel-4g",
+          "identification": "Exact verified firmware payload SHA-256",
+          "supported": true,
+          "resource_map": "resource-map.json",
+          "manifest_family_id": 4,
+          "manifest_updater_family_id": 4,
+          "hardware_tested": false,
+          "menu_counts": {
+            "main": 6,
+            "music": 8,
+            "settings": 15
+          }
+        },
+        "theme": {
+          "id": "compact",
+          "name": "Compact",
+          "description": "Modern lettering with more of your library on screen.",
+          "font": "inter",
+          "weight": 400,
+          "main_size": 12,
+          "secondary_size": 10,
+          "row_height": 20,
+          "inset": 7,
+          "icons": "stock"
+        },
+        "asset_sha256": {
+          "RobotoCondensed.ttf": "dace262afcee68a5276f200d8026c57221735c0118ab5fda8c2c0d3dc409a8d0",
+          "AtkinsonHyperlegible-Regular.ttf": "7fb917c89019896d0b52ee84b7cbb3304c18cb90b19a62f5e32712bd23e97669",
+          "AtkinsonHyperlegible-Bold.ttf": "5a3b0c8cc8ca545155150b4512a1fa248298df121c50d6557e651e61fbdab92f",
+          "Inter.ttf": "29160a80ff49ddcab2c97711247e08b1fab27a484a329ce8b813d820dc559031",
+          "InterTight.ttf": "b81b73dcb64df3c230cabade7df6c5773bf863233f24c9ee51087519f1f88b6f"
+        },
+        "source_payload_sha256": "5b5ce4e560ce03859a2ec30ca7f36ada01dd68e15ce0ca62b3bf847158378d58",
+        "result_payload_sha256": "cc5c053e6ce596ade35ec5b61462d3f15b06ea07062cdba62a1529b08f1bfde1",
+        "changed_bytes": 16722,
+        "fonts": [
+          {
+            "font": "Chicago",
+            "style": 0,
+            "source_font": "Inter.ttf",
+            "requested_pixels": 12,
+            "actual_pixels": 12,
+            "replaced_glyphs": 474,
+            "retained_original_glyphs": 43,
+            "atlas_columns": 2879,
+            "atlas_capacity": 3136
+          },
+          {
+            "font": "Espy Sans",
+            "style": 0,
+            "source_font": "Inter.ttf",
+            "requested_pixels": 10,
+            "actual_pixels": 10,
+            "replaced_glyphs": 177,
+            "retained_original_glyphs": 45,
+            "atlas_columns": 999,
+            "atlas_capacity": 1120
+          },
+          {
+            "font": "Espy Sans",
+            "style": 1,
+            "source_font": "Inter.ttf",
+            "requested_pixels": 9,
+            "actual_pixels": 9,
+            "replaced_glyphs": 183,
+            "retained_original_glyphs": 37,
+            "atlas_columns": 903,
+            "atlas_capacity": 1184
+          },
+          {
+            "font": "Espy Sans",
+            "style": 1,
+            "source_font": "Inter.ttf",
+            "requested_pixels": 10,
+            "actual_pixels": 10,
+            "replaced_glyphs": 391,
+            "retained_original_glyphs": 46,
+            "atlas_columns": 2012,
+            "atlas_capacity": 2624
+          }
+        ],
+        "icons": [],
+        "icon_source": "supplied-firmware",
+        "protected_resources": {
+          "uneM": 25,
+          " rtS": 7019,
+          "dmCT": 1,
+          "epyT": 136,
+          "mTDL": 19
+        },
+        "allowed_ranges": [
+          [
+            2580736,
+            2584872
+          ],
+          [
+            2584892,
+            2591164
+          ],
+          [
+            2592080,
+            2593856
+          ],
+          [
+            2593876,
+            2595836
+          ],
+          [
+            2596752,
+            2598512
+          ],
+          [
+            2598532,
+            2600456
+          ],
+          [
+            2602040,
+            2605536
+          ],
+          [
+            2605556,
+            2609820
+          ],
+          [
+            1865860,
+            1865864
+          ],
+          [
+            1867476,
+            1867480
+          ],
+          [
+            1867560,
+            1867564
+          ],
+          [
+            1867644,
+            1867648
+          ],
+          [
+            1867728,
+            1867732
+          ],
+          [
+            1867812,
+            1867816
+          ],
+          [
+            1874684,
+            1874688
+          ],
+          [
+            1874952,
+            1874956
+          ],
+          [
+            1875036,
+            1875040
+          ],
+          [
+            1875304,
+            1875308
+          ],
+          [
+            1875572,
+            1875576
+          ],
+          [
+            1875840,
+            1875844
+          ],
+          [
+            1876108,
+            1876112
+          ],
+          [
+            1876560,
+            1876564
+          ],
+          [
+            1876828,
+            1876832
+          ],
+          [
+            1877348,
+            1877352
+          ],
+          [
+            1879244,
+            1879248
+          ],
+          [
+            1879816,
+            1879820
+          ],
+          [
+            1879900,
+            1879904
+          ],
+          [
+            1879984,
+            1879988
+          ],
+          [
+            1880068,
+            1880072
+          ],
+          [
+            1880152,
+            1880156
+          ],
+          [
+            1880236,
+            1880240
+          ],
+          [
+            1880316,
+            1880320
+          ],
+          [
+            1880400,
+            1880404
+          ],
+          [
+            1881236,
+            1881240
+          ],
+          [
+            1881316,
+            1881320
+          ],
+          [
+            1881400,
+            1881404
+          ],
+          [
+            1881480,
+            1881484
+          ],
+          [
+            1881932,
+            1881936
+          ],
+          [
+            1884672,
+            1884676
+          ],
+          [
+            1884756,
+            1884760
+          ],
+          [
+            1885120,
+            1885124
+          ],
+          [
+            1886388,
+            1886392
+          ],
+          [
+            1889188,
+            1889192
+          ],
+          [
+            1889892,
+            1889896
+          ],
+          [
+            1890528,
+            1890532
+          ],
+          [
+            1892800,
+            1892804
+          ],
+          [
+            1894128,
+            1894132
+          ],
+          [
+            1894212,
+            1894216
+          ],
+          [
+            1894760,
+            1894764
+          ],
+          [
+            1895292,
+            1895296
+          ],
+          [
+            1896700,
+            1896704
+          ],
+          [
+            1897220,
+            1897224
+          ],
+          [
+            1899416,
+            1899420
+          ],
+          [
+            1900376,
+            1900380
+          ],
+          [
+            1900860,
+            1900864
+          ],
+          [
+            1901456,
+            1901460
+          ],
+          [
+            1913320,
+            1913324
+          ],
+          [
+            1904100,
+            1904104
+          ],
+          [
+            1904276,
+            1904280
+          ],
+          [
+            1904856,
+            1904860
+          ],
+          [
+            1904948,
+            1904952
+          ],
+          [
+            1905040,
+            1905044
+          ],
+          [
+            1905572,
+            1905576
+          ],
+          [
+            1905664,
+            1905668
+          ],
+          [
+            1907704,
+            1907708
+          ],
+          [
+            1914052,
+            1914056
+          ],
+          [
+            1914404,
+            1914408
+          ],
+          [
+            1920376,
+            1920380
+          ],
+          [
+            1921788,
+            1921792
+          ],
+          [
+            1921972,
+            1921976
+          ],
+          [
+            1922324,
+            1922328
+          ],
+          [
+            1922588,
+            1922592
+          ],
+          [
+            1922852,
+            1922856
+          ],
+          [
+            16924,
+            16928
+          ]
+        ],
+        "hardware_tested": false,
+        "checks": {
+          "font_raster_round_trip": true,
+          "original_pictures_unchanged": true,
+          "all_changes_within_allowlist": true,
+          "menus_and_commands_unchanged": true,
+          "all_text_resources_unchanged": true,
+          "unicode_maps_and_font_headers_unchanged": true,
+          "firmware_length_unchanged": true,
+          "flash_update_partition_unchanged": true,
+          "os_checksum_valid": true,
+          "zip_integrity": true,
+          "manifest_unchanged": true
+        },
+        "ipsw_sha256": "afd4fa4459b96c6f64ccd96a737cc8d756878567fe19ec2e45db8b33f4673155"
+      },
+      "enlarge": {
+        "device": {
+          "id": "ipod4g-monochrome-3.1.1",
+          "display_name": "iPod 4th generation \u00b7 monochrome",
+          "model_family": "iPod",
+          "generation": 4,
+          "firmware_version": "3.1.1",
+          "payload_name": "Firmware-4.3.1.1",
+          "payload_sha256": "5b5ce4e560ce03859a2ec30ca7f36ada01dd68e15ce0ca62b3bf847158378d58",
+          "lcd_width": 160,
+          "lcd_height": 128,
+          "preview_style": "click-wheel-4g",
+          "identification": "Exact verified firmware payload SHA-256",
+          "supported": true,
+          "resource_map": "resource-map.json",
+          "manifest_family_id": 4,
+          "manifest_updater_family_id": 4,
+          "hardware_tested": false,
+          "menu_counts": {
+            "main": 6,
+            "music": 8,
+            "settings": 15
+          }
+        },
+        "theme": {
+          "id": "enlarge",
+          "name": "Enlarge",
+          "description": "Larger 13px semibold lettering and roomy menus with original iPod icons.",
+          "font": "inter-tight",
+          "weight": 600,
+          "main_size": 13,
+          "secondary_size": 11,
+          "row_height": 24,
+          "inset": 8,
+          "icons": "stock"
+        },
+        "asset_sha256": {
+          "RobotoCondensed.ttf": "dace262afcee68a5276f200d8026c57221735c0118ab5fda8c2c0d3dc409a8d0",
+          "AtkinsonHyperlegible-Regular.ttf": "7fb917c89019896d0b52ee84b7cbb3304c18cb90b19a62f5e32712bd23e97669",
+          "AtkinsonHyperlegible-Bold.ttf": "5a3b0c8cc8ca545155150b4512a1fa248298df121c50d6557e651e61fbdab92f",
+          "Inter.ttf": "29160a80ff49ddcab2c97711247e08b1fab27a484a329ce8b813d820dc559031",
+          "InterTight.ttf": "b81b73dcb64df3c230cabade7df6c5773bf863233f24c9ee51087519f1f88b6f"
+        },
+        "source_payload_sha256": "5b5ce4e560ce03859a2ec30ca7f36ada01dd68e15ce0ca62b3bf847158378d58",
+        "result_payload_sha256": "1dd9db928b0ba16a2ec19adbb40e2dd1c9ae7a4527640725ed88b0bd3ed6c0ab",
+        "changed_bytes": 16369,
+        "fonts": [
+          {
+            "font": "Chicago",
+            "style": 0,
+            "source_font": "InterTight.ttf",
+            "requested_pixels": 13,
+            "actual_pixels": 13,
+            "replaced_glyphs": 474,
+            "retained_original_glyphs": 43,
+            "atlas_columns": 3077,
+            "atlas_capacity": 3136
+          },
+          {
+            "font": "Espy Sans",
+            "style": 0,
+            "source_font": "InterTight.ttf",
+            "requested_pixels": 11,
+            "actual_pixels": 11,
+            "replaced_glyphs": 179,
+            "retained_original_glyphs": 43,
+            "atlas_columns": 1021,
+            "atlas_capacity": 1120
+          },
+          {
+            "font": "Espy Sans",
+            "style": 1,
+            "source_font": "InterTight.ttf",
+            "requested_pixels": 10,
+            "actual_pixels": 10,
+            "replaced_glyphs": 160,
+            "retained_original_glyphs": 60,
+            "atlas_columns": 975,
+            "atlas_capacity": 1184
+          },
+          {
+            "font": "Espy Sans",
+            "style": 1,
+            "source_font": "InterTight.ttf",
+            "requested_pixels": 11,
+            "actual_pixels": 11,
+            "replaced_glyphs": 384,
+            "retained_original_glyphs": 53,
+            "atlas_columns": 2074,
+            "atlas_capacity": 2624
+          }
+        ],
+        "icons": [],
+        "icon_source": "supplied-firmware",
+        "protected_resources": {
+          "uneM": 25,
+          " rtS": 7019,
+          "dmCT": 1,
+          "epyT": 136,
+          "mTDL": 19
+        },
+        "allowed_ranges": [
+          [
+            2580736,
+            2584872
+          ],
+          [
+            2584892,
+            2591164
+          ],
+          [
+            2592080,
+            2593856
+          ],
+          [
+            2593876,
+            2595836
+          ],
+          [
+            2596752,
+            2598512
+          ],
+          [
+            2598532,
+            2600456
+          ],
+          [
+            2602040,
+            2605536
+          ],
+          [
+            2605556,
+            2609820
+          ],
+          [
+            1865860,
+            1865864
+          ],
+          [
+            1867476,
+            1867480
+          ],
+          [
+            1867560,
+            1867564
+          ],
+          [
+            1867644,
+            1867648
+          ],
+          [
+            1867728,
+            1867732
+          ],
+          [
+            1867812,
+            1867816
+          ],
+          [
+            1874684,
+            1874688
+          ],
+          [
+            1874952,
+            1874956
+          ],
+          [
+            1875036,
+            1875040
+          ],
+          [
+            1875304,
+            1875308
+          ],
+          [
+            1875572,
+            1875576
+          ],
+          [
+            1875840,
+            1875844
+          ],
+          [
+            1876108,
+            1876112
+          ],
+          [
+            1876560,
+            1876564
+          ],
+          [
+            1876828,
+            1876832
+          ],
+          [
+            1877348,
+            1877352
+          ],
+          [
+            1879244,
+            1879248
+          ],
+          [
+            1879816,
+            1879820
+          ],
+          [
+            1879900,
+            1879904
+          ],
+          [
+            1879984,
+            1879988
+          ],
+          [
+            1880068,
+            1880072
+          ],
+          [
+            1880152,
+            1880156
+          ],
+          [
+            1880236,
+            1880240
+          ],
+          [
+            1880316,
+            1880320
+          ],
+          [
+            1880400,
+            1880404
+          ],
+          [
+            1881236,
+            1881240
+          ],
+          [
+            1881316,
+            1881320
+          ],
+          [
+            1881400,
+            1881404
+          ],
+          [
+            1881480,
+            1881484
+          ],
+          [
+            1881932,
+            1881936
+          ],
+          [
+            1884672,
+            1884676
+          ],
+          [
+            1884756,
+            1884760
+          ],
+          [
+            1885120,
+            1885124
+          ],
+          [
+            1886388,
+            1886392
+          ],
+          [
+            1889188,
+            1889192
+          ],
+          [
+            1889892,
+            1889896
+          ],
+          [
+            1890528,
+            1890532
+          ],
+          [
+            1892800,
+            1892804
+          ],
+          [
+            1894128,
+            1894132
+          ],
+          [
+            1894212,
+            1894216
+          ],
+          [
+            1894760,
+            1894764
+          ],
+          [
+            1895292,
+            1895296
+          ],
+          [
+            1896700,
+            1896704
+          ],
+          [
+            1897220,
+            1897224
+          ],
+          [
+            1899416,
+            1899420
+          ],
+          [
+            1900376,
+            1900380
+          ],
+          [
+            1900860,
+            1900864
+          ],
+          [
+            1901456,
+            1901460
+          ],
+          [
+            1913320,
+            1913324
+          ],
+          [
+            1904100,
+            1904104
+          ],
+          [
+            1904276,
+            1904280
+          ],
+          [
+            1904856,
+            1904860
+          ],
+          [
+            1904948,
+            1904952
+          ],
+          [
+            1905040,
+            1905044
+          ],
+          [
+            1905572,
+            1905576
+          ],
+          [
+            1905664,
+            1905668
+          ],
+          [
+            1907704,
+            1907708
+          ],
+          [
+            1914052,
+            1914056
+          ],
+          [
+            1914404,
+            1914408
+          ],
+          [
+            1920376,
+            1920380
+          ],
+          [
+            1921788,
+            1921792
+          ],
+          [
+            1921972,
+            1921976
+          ],
+          [
+            1922324,
+            1922328
+          ],
+          [
+            1922588,
+            1922592
+          ],
+          [
+            1922852,
+            1922856
+          ],
+          [
+            16924,
+            16928
+          ]
+        ],
+        "hardware_tested": false,
+        "checks": {
+          "font_raster_round_trip": true,
+          "original_pictures_unchanged": true,
+          "all_changes_within_allowlist": true,
+          "menus_and_commands_unchanged": true,
+          "all_text_resources_unchanged": true,
+          "unicode_maps_and_font_headers_unchanged": true,
+          "firmware_length_unchanged": true,
+          "flash_update_partition_unchanged": true,
+          "os_checksum_valid": true,
+          "zip_integrity": true,
+          "manifest_unchanged": true
+        },
+        "ipsw_sha256": "a72b389a7fe952f3dc4373b73b1264a9366afb0a9640c03071979a450ba65929"
+      }
+    },
+    "ipodmini1g-1.4.1": {
+      "clear": {
+        "device": {
+          "id": "ipodmini1g-1.4.1",
+          "display_name": "iPod mini 1st generation",
+          "firmware_version": "1.4.1",
+          "payload_name": "Firmware-3.2.6.1",
+          "payload_sha256": "6e092b42101cf4f246cd3cf79972e47d38a4e8a268cf751238a7a515cca65fcc",
+          "lcd_width": 138,
+          "lcd_height": 110,
+          "preview_style": "click-wheel-mini",
+          "identification": "Exact verified firmware payload SHA-256 and manifest family",
+          "supported": true,
+          "resource_map": "profiles/ipodmini1g-1.4.1.json",
+          "manifest_family_id": 3,
+          "manifest_updater_family_id": 3,
+          "hardware_tested": false,
+          "menu_counts": {
+            "main": 6,
+            "music": 8,
+            "settings": 15
+          }
+        },
+        "theme": {
+          "id": "clear",
+          "name": "Clear",
+          "description": "Clean sans-serif text and airy menus with original iPod icons.",
+          "font": "inter",
+          "weight": 500,
+          "main_size": 12,
+          "secondary_size": 11,
+          "row_height": 24,
+          "inset": 8,
+          "icons": "stock"
+        },
+        "asset_sha256": {
+          "RobotoCondensed.ttf": "dace262afcee68a5276f200d8026c57221735c0118ab5fda8c2c0d3dc409a8d0",
+          "AtkinsonHyperlegible-Regular.ttf": "7fb917c89019896d0b52ee84b7cbb3304c18cb90b19a62f5e32712bd23e97669",
+          "AtkinsonHyperlegible-Bold.ttf": "5a3b0c8cc8ca545155150b4512a1fa248298df121c50d6557e651e61fbdab92f",
+          "Inter.ttf": "29160a80ff49ddcab2c97711247e08b1fab27a484a329ce8b813d820dc559031",
+          "InterTight.ttf": "b81b73dcb64df3c230cabade7df6c5773bf863233f24c9ee51087519f1f88b6f"
+        },
+        "source_payload_sha256": "6e092b42101cf4f246cd3cf79972e47d38a4e8a268cf751238a7a515cca65fcc",
+        "result_payload_sha256": "77b4d0ce2d3f6c82721854d4780c1d852f140a674cf5b1e0f4da7ae69476ef8d",
+        "changed_bytes": 16937,
+        "fonts": [
+          {
+            "font": "Chicago",
+            "style": 0,
+            "source_font": "Inter.ttf",
+            "requested_pixels": 12,
+            "actual_pixels": 12,
+            "replaced_glyphs": 474,
+            "retained_original_glyphs": 43,
+            "atlas_columns": 2945,
+            "atlas_capacity": 3136
+          },
+          {
+            "font": "Espy Sans",
+            "style": 0,
+            "source_font": "Inter.ttf",
+            "requested_pixels": 11,
+            "actual_pixels": 11,
+            "replaced_glyphs": 181,
+            "retained_original_glyphs": 41,
+            "atlas_columns": 1070,
+            "atlas_capacity": 1120
+          },
+          {
+            "font": "Espy Sans",
+            "style": 1,
+            "source_font": "Inter.ttf",
+            "requested_pixels": 10,
+            "actual_pixels": 10,
+            "replaced_glyphs": 160,
+            "retained_original_glyphs": 60,
+            "atlas_columns": 1030,
+            "atlas_capacity": 1184
+          },
+          {
+            "font": "Espy Sans",
+            "style": 1,
+            "source_font": "Inter.ttf",
+            "requested_pixels": 11,
+            "actual_pixels": 11,
+            "replaced_glyphs": 395,
+            "retained_original_glyphs": 42,
+            "atlas_columns": 2168,
+            "atlas_capacity": 2624
+          }
+        ],
+        "icons": [],
+        "icon_source": "supplied-firmware",
+        "protected_resources": {
+          "uneM": 20,
+          " rtS": 5955,
+          "dmCT": 1,
+          "epyT": 132,
+          "mTDL": 19
+        },
+        "allowed_ranges": [
+          [
+            2482096,
+            2486232
+          ],
+          [
+            2486252,
+            2492524
+          ],
+          [
+            2493440,
+            2495216
+          ],
+          [
+            2495236,
+            2497196
+          ],
+          [
+            2498112,
+            2499872
+          ],
+          [
+            2499892,
+            2501816
+          ],
+          [
+            2503400,
+            2506896
+          ],
+          [
+            2506916,
+            2511180
+          ],
+          [
+            1775644,
+            1775648
+          ],
+          [
+            1777260,
+            1777264
+          ],
+          [
+            1777344,
+            1777348
+          ],
+          [
+            1777428,
+            1777432
+          ],
+          [
+            1777512,
+            1777516
+          ],
+          [
+            1777596,
+            1777600
+          ],
+          [
+            1784468,
+            1784472
+          ],
+          [
+            1784736,
+            1784740
+          ],
+          [
+            1784820,
+            1784824
+          ],
+          [
+            1785088,
+            1785092
+          ],
+          [
+            1785356,
+            1785360
+          ],
+          [
+            1785624,
+            1785628
+          ],
+          [
+            1785892,
+            1785896
+          ],
+          [
+            1786344,
+            1786348
+          ],
+          [
+            1786612,
+            1786616
+          ],
+          [
+            1787132,
+            1787136
+          ],
+          [
+            1789028,
+            1789032
+          ],
+          [
+            1789600,
+            1789604
+          ],
+          [
+            1789684,
+            1789688
+          ],
+          [
+            1789768,
+            1789772
+          ],
+          [
+            1789852,
+            1789856
+          ],
+          [
+            1789936,
+            1789940
+          ],
+          [
+            1790020,
+            1790024
+          ],
+          [
+            1790100,
+            1790104
+          ],
+          [
+            1790184,
+            1790188
+          ],
+          [
+            1791020,
+            1791024
+          ],
+          [
+            1791100,
+            1791104
+          ],
+          [
+            1791184,
+            1791188
+          ],
+          [
+            1791264,
+            1791268
+          ],
+          [
+            1791716,
+            1791720
+          ],
+          [
+            1794280,
+            1794284
+          ],
+          [
+            1794364,
+            1794368
+          ],
+          [
+            1794728,
+            1794732
+          ],
+          [
+            1795996,
+            1796000
+          ],
+          [
+            1798796,
+            1798800
+          ],
+          [
+            1799500,
+            1799504
+          ],
+          [
+            1800136,
+            1800140
+          ],
+          [
+            1802364,
+            1802368
+          ],
+          [
+            1802896,
+            1802900
+          ],
+          [
+            1804704,
+            1804708
+          ],
+          [
+            1805300,
+            1805304
+          ],
+          [
+            1815496,
+            1815500
+          ],
+          [
+            1807856,
+            1807860
+          ],
+          [
+            1808032,
+            1808036
+          ],
+          [
+            1809880,
+            1809884
+          ],
+          [
+            1816228,
+            1816232
+          ],
+          [
+            1816580,
+            1816584
+          ],
+          [
+            1822552,
+            1822556
+          ],
+          [
+            1823964,
+            1823968
+          ],
+          [
+            1824148,
+            1824152
+          ],
+          [
+            1824500,
+            1824504
+          ],
+          [
+            1824764,
+            1824768
+          ],
+          [
+            1825028,
+            1825032
+          ],
+          [
+            16924,
+            16928
+          ]
+        ],
+        "hardware_tested": false,
+        "checks": {
+          "font_raster_round_trip": true,
+          "original_pictures_unchanged": true,
+          "all_changes_within_allowlist": true,
+          "menus_and_commands_unchanged": true,
+          "all_text_resources_unchanged": true,
+          "unicode_maps_and_font_headers_unchanged": true,
+          "firmware_length_unchanged": true,
+          "flash_update_partition_unchanged": true,
+          "os_checksum_valid": true,
+          "zip_integrity": true,
+          "manifest_unchanged": true
+        },
+        "ipsw_sha256": "c962841234ad56528bfbc3cb8499da483f2249f2f21ca32af2ea7eb195abe376"
+      },
+      "focus": {
+        "device": {
+          "id": "ipodmini1g-1.4.1",
+          "display_name": "iPod mini 1st generation",
+          "firmware_version": "1.4.1",
+          "payload_name": "Firmware-3.2.6.1",
+          "payload_sha256": "6e092b42101cf4f246cd3cf79972e47d38a4e8a268cf751238a7a515cca65fcc",
+          "lcd_width": 138,
+          "lcd_height": 110,
+          "preview_style": "click-wheel-mini",
+          "identification": "Exact verified firmware payload SHA-256 and manifest family",
+          "supported": true,
+          "resource_map": "profiles/ipodmini1g-1.4.1.json",
+          "manifest_family_id": 3,
+          "manifest_updater_family_id": 3,
+          "hardware_tested": false,
+          "menu_counts": {
+            "main": 6,
+            "music": 8,
+            "settings": 15
+          }
+        },
+        "theme": {
+          "id": "focus",
+          "name": "Focus",
+          "description": "Distinct letterforms and bold text with the most breathing room.",
+          "font": "roboto",
+          "weight": 700,
+          "main_size": 14,
+          "secondary_size": 11,
+          "row_height": 26,
+          "inset": 10,
+          "icons": "stock"
+        },
+        "asset_sha256": {
+          "RobotoCondensed.ttf": "dace262afcee68a5276f200d8026c57221735c0118ab5fda8c2c0d3dc409a8d0",
+          "AtkinsonHyperlegible-Regular.ttf": "7fb917c89019896d0b52ee84b7cbb3304c18cb90b19a62f5e32712bd23e97669",
+          "AtkinsonHyperlegible-Bold.ttf": "5a3b0c8cc8ca545155150b4512a1fa248298df121c50d6557e651e61fbdab92f",
+          "Inter.ttf": "29160a80ff49ddcab2c97711247e08b1fab27a484a329ce8b813d820dc559031",
+          "InterTight.ttf": "b81b73dcb64df3c230cabade7df6c5773bf863233f24c9ee51087519f1f88b6f"
+        },
+        "source_payload_sha256": "6e092b42101cf4f246cd3cf79972e47d38a4e8a268cf751238a7a515cca65fcc",
+        "result_payload_sha256": "b69ca601d7a448a2fc41371a4b3a37ed4f2279738b2da42d77b97ca2ec8fec0d",
+        "changed_bytes": 16905,
+        "fonts": [
+          {
+            "font": "Chicago",
+            "style": 0,
+            "source_font": "RobotoCondensed.ttf",
+            "requested_pixels": 14,
+            "actual_pixels": 14,
+            "replaced_glyphs": 380,
+            "retained_original_glyphs": 137,
+            "atlas_columns": 3020,
+            "atlas_capacity": 3136
+          },
+          {
+            "font": "Espy Sans",
+            "style": 0,
+            "source_font": "RobotoCondensed.ttf",
+            "requested_pixels": 11,
+            "actual_pixels": 11,
+            "replaced_glyphs": 169,
+            "retained_original_glyphs": 53,
+            "atlas_columns": 1030,
+            "atlas_capacity": 1120
+          },
+          {
+            "font": "Espy Sans",
+            "style": 1,
+            "source_font": "RobotoCondensed.ttf",
+            "requested_pixels": 10,
+            "actual_pixels": 10,
+            "replaced_glyphs": 168,
+            "retained_original_glyphs": 52,
+            "atlas_columns": 980,
+            "atlas_capacity": 1184
+          },
+          {
+            "font": "Espy Sans",
+            "style": 1,
+            "source_font": "RobotoCondensed.ttf",
+            "requested_pixels": 11,
+            "actual_pixels": 11,
+            "replaced_glyphs": 362,
+            "retained_original_glyphs": 75,
+            "atlas_columns": 2127,
+            "atlas_capacity": 2624
+          }
+        ],
+        "icons": [],
+        "icon_source": "supplied-firmware",
+        "protected_resources": {
+          "uneM": 20,
+          " rtS": 5955,
+          "dmCT": 1,
+          "epyT": 132,
+          "mTDL": 19
+        },
+        "allowed_ranges": [
+          [
+            2482096,
+            2486232
+          ],
+          [
+            2486252,
+            2492524
+          ],
+          [
+            2493440,
+            2495216
+          ],
+          [
+            2495236,
+            2497196
+          ],
+          [
+            2498112,
+            2499872
+          ],
+          [
+            2499892,
+            2501816
+          ],
+          [
+            2503400,
+            2506896
+          ],
+          [
+            2506916,
+            2511180
+          ],
+          [
+            1775644,
+            1775648
+          ],
+          [
+            1777260,
+            1777264
+          ],
+          [
+            1777344,
+            1777348
+          ],
+          [
+            1777428,
+            1777432
+          ],
+          [
+            1777512,
+            1777516
+          ],
+          [
+            1777596,
+            1777600
+          ],
+          [
+            1784468,
+            1784472
+          ],
+          [
+            1784736,
+            1784740
+          ],
+          [
+            1784820,
+            1784824
+          ],
+          [
+            1785088,
+            1785092
+          ],
+          [
+            1785356,
+            1785360
+          ],
+          [
+            1785624,
+            1785628
+          ],
+          [
+            1785892,
+            1785896
+          ],
+          [
+            1786344,
+            1786348
+          ],
+          [
+            1786612,
+            1786616
+          ],
+          [
+            1787132,
+            1787136
+          ],
+          [
+            1789028,
+            1789032
+          ],
+          [
+            1789600,
+            1789604
+          ],
+          [
+            1789684,
+            1789688
+          ],
+          [
+            1789768,
+            1789772
+          ],
+          [
+            1789852,
+            1789856
+          ],
+          [
+            1789936,
+            1789940
+          ],
+          [
+            1790020,
+            1790024
+          ],
+          [
+            1790100,
+            1790104
+          ],
+          [
+            1790184,
+            1790188
+          ],
+          [
+            1791020,
+            1791024
+          ],
+          [
+            1791100,
+            1791104
+          ],
+          [
+            1791184,
+            1791188
+          ],
+          [
+            1791264,
+            1791268
+          ],
+          [
+            1791716,
+            1791720
+          ],
+          [
+            1794280,
+            1794284
+          ],
+          [
+            1794364,
+            1794368
+          ],
+          [
+            1794728,
+            1794732
+          ],
+          [
+            1795996,
+            1796000
+          ],
+          [
+            1798796,
+            1798800
+          ],
+          [
+            1799500,
+            1799504
+          ],
+          [
+            1800136,
+            1800140
+          ],
+          [
+            1802364,
+            1802368
+          ],
+          [
+            1802896,
+            1802900
+          ],
+          [
+            1804704,
+            1804708
+          ],
+          [
+            1805300,
+            1805304
+          ],
+          [
+            1815496,
+            1815500
+          ],
+          [
+            1807856,
+            1807860
+          ],
+          [
+            1808032,
+            1808036
+          ],
+          [
+            1809880,
+            1809884
+          ],
+          [
+            1816228,
+            1816232
+          ],
+          [
+            1816580,
+            1816584
+          ],
+          [
+            1822552,
+            1822556
+          ],
+          [
+            1823964,
+            1823968
+          ],
+          [
+            1824148,
+            1824152
+          ],
+          [
+            1824500,
+            1824504
+          ],
+          [
+            1824764,
+            1824768
+          ],
+          [
+            1825028,
+            1825032
+          ],
+          [
+            16924,
+            16928
+          ]
+        ],
+        "hardware_tested": false,
+        "checks": {
+          "font_raster_round_trip": true,
+          "original_pictures_unchanged": true,
+          "all_changes_within_allowlist": true,
+          "menus_and_commands_unchanged": true,
+          "all_text_resources_unchanged": true,
+          "unicode_maps_and_font_headers_unchanged": true,
+          "firmware_length_unchanged": true,
+          "flash_update_partition_unchanged": true,
+          "os_checksum_valid": true,
+          "zip_integrity": true,
+          "manifest_unchanged": true
+        },
+        "ipsw_sha256": "ad23f5d08346e8bfef81ad121b7adff1018e6e3c5262d91cec27bd92a37f604c"
+      },
+      "compact": {
+        "device": {
+          "id": "ipodmini1g-1.4.1",
+          "display_name": "iPod mini 1st generation",
+          "firmware_version": "1.4.1",
+          "payload_name": "Firmware-3.2.6.1",
+          "payload_sha256": "6e092b42101cf4f246cd3cf79972e47d38a4e8a268cf751238a7a515cca65fcc",
+          "lcd_width": 138,
+          "lcd_height": 110,
+          "preview_style": "click-wheel-mini",
+          "identification": "Exact verified firmware payload SHA-256 and manifest family",
+          "supported": true,
+          "resource_map": "profiles/ipodmini1g-1.4.1.json",
+          "manifest_family_id": 3,
+          "manifest_updater_family_id": 3,
+          "hardware_tested": false,
+          "menu_counts": {
+            "main": 6,
+            "music": 8,
+            "settings": 15
+          }
+        },
+        "theme": {
+          "id": "compact",
+          "name": "Compact",
+          "description": "Modern lettering with more of your library on screen.",
+          "font": "inter",
+          "weight": 400,
+          "main_size": 12,
+          "secondary_size": 10,
+          "row_height": 20,
+          "inset": 7,
+          "icons": "stock"
+        },
+        "asset_sha256": {
+          "RobotoCondensed.ttf": "dace262afcee68a5276f200d8026c57221735c0118ab5fda8c2c0d3dc409a8d0",
+          "AtkinsonHyperlegible-Regular.ttf": "7fb917c89019896d0b52ee84b7cbb3304c18cb90b19a62f5e32712bd23e97669",
+          "AtkinsonHyperlegible-Bold.ttf": "5a3b0c8cc8ca545155150b4512a1fa248298df121c50d6557e651e61fbdab92f",
+          "Inter.ttf": "29160a80ff49ddcab2c97711247e08b1fab27a484a329ce8b813d820dc559031",
+          "InterTight.ttf": "b81b73dcb64df3c230cabade7df6c5773bf863233f24c9ee51087519f1f88b6f"
+        },
+        "source_payload_sha256": "6e092b42101cf4f246cd3cf79972e47d38a4e8a268cf751238a7a515cca65fcc",
+        "result_payload_sha256": "cfe1eb24866c59a7bbecf3e578da49dd30f977a72d6e795f84b8bd713f9c2538",
+        "changed_bytes": 16710,
+        "fonts": [
+          {
+            "font": "Chicago",
+            "style": 0,
+            "source_font": "Inter.ttf",
+            "requested_pixels": 12,
+            "actual_pixels": 12,
+            "replaced_glyphs": 474,
+            "retained_original_glyphs": 43,
+            "atlas_columns": 2879,
+            "atlas_capacity": 3136
+          },
+          {
+            "font": "Espy Sans",
+            "style": 0,
+            "source_font": "Inter.ttf",
+            "requested_pixels": 10,
+            "actual_pixels": 10,
+            "replaced_glyphs": 177,
+            "retained_original_glyphs": 45,
+            "atlas_columns": 999,
+            "atlas_capacity": 1120
+          },
+          {
+            "font": "Espy Sans",
+            "style": 1,
+            "source_font": "Inter.ttf",
+            "requested_pixels": 9,
+            "actual_pixels": 9,
+            "replaced_glyphs": 183,
+            "retained_original_glyphs": 37,
+            "atlas_columns": 903,
+            "atlas_capacity": 1184
+          },
+          {
+            "font": "Espy Sans",
+            "style": 1,
+            "source_font": "Inter.ttf",
+            "requested_pixels": 10,
+            "actual_pixels": 10,
+            "replaced_glyphs": 391,
+            "retained_original_glyphs": 46,
+            "atlas_columns": 2012,
+            "atlas_capacity": 2624
+          }
+        ],
+        "icons": [],
+        "icon_source": "supplied-firmware",
+        "protected_resources": {
+          "uneM": 20,
+          " rtS": 5955,
+          "dmCT": 1,
+          "epyT": 132,
+          "mTDL": 19
+        },
+        "allowed_ranges": [
+          [
+            2482096,
+            2486232
+          ],
+          [
+            2486252,
+            2492524
+          ],
+          [
+            2493440,
+            2495216
+          ],
+          [
+            2495236,
+            2497196
+          ],
+          [
+            2498112,
+            2499872
+          ],
+          [
+            2499892,
+            2501816
+          ],
+          [
+            2503400,
+            2506896
+          ],
+          [
+            2506916,
+            2511180
+          ],
+          [
+            1775644,
+            1775648
+          ],
+          [
+            1777260,
+            1777264
+          ],
+          [
+            1777344,
+            1777348
+          ],
+          [
+            1777428,
+            1777432
+          ],
+          [
+            1777512,
+            1777516
+          ],
+          [
+            1777596,
+            1777600
+          ],
+          [
+            1784468,
+            1784472
+          ],
+          [
+            1784736,
+            1784740
+          ],
+          [
+            1784820,
+            1784824
+          ],
+          [
+            1785088,
+            1785092
+          ],
+          [
+            1785356,
+            1785360
+          ],
+          [
+            1785624,
+            1785628
+          ],
+          [
+            1785892,
+            1785896
+          ],
+          [
+            1786344,
+            1786348
+          ],
+          [
+            1786612,
+            1786616
+          ],
+          [
+            1787132,
+            1787136
+          ],
+          [
+            1789028,
+            1789032
+          ],
+          [
+            1789600,
+            1789604
+          ],
+          [
+            1789684,
+            1789688
+          ],
+          [
+            1789768,
+            1789772
+          ],
+          [
+            1789852,
+            1789856
+          ],
+          [
+            1789936,
+            1789940
+          ],
+          [
+            1790020,
+            1790024
+          ],
+          [
+            1790100,
+            1790104
+          ],
+          [
+            1790184,
+            1790188
+          ],
+          [
+            1791020,
+            1791024
+          ],
+          [
+            1791100,
+            1791104
+          ],
+          [
+            1791184,
+            1791188
+          ],
+          [
+            1791264,
+            1791268
+          ],
+          [
+            1791716,
+            1791720
+          ],
+          [
+            1794280,
+            1794284
+          ],
+          [
+            1794364,
+            1794368
+          ],
+          [
+            1794728,
+            1794732
+          ],
+          [
+            1795996,
+            1796000
+          ],
+          [
+            1798796,
+            1798800
+          ],
+          [
+            1799500,
+            1799504
+          ],
+          [
+            1800136,
+            1800140
+          ],
+          [
+            1802364,
+            1802368
+          ],
+          [
+            1802896,
+            1802900
+          ],
+          [
+            1804704,
+            1804708
+          ],
+          [
+            1805300,
+            1805304
+          ],
+          [
+            1815496,
+            1815500
+          ],
+          [
+            1807856,
+            1807860
+          ],
+          [
+            1808032,
+            1808036
+          ],
+          [
+            1809880,
+            1809884
+          ],
+          [
+            1816228,
+            1816232
+          ],
+          [
+            1816580,
+            1816584
+          ],
+          [
+            1822552,
+            1822556
+          ],
+          [
+            1823964,
+            1823968
+          ],
+          [
+            1824148,
+            1824152
+          ],
+          [
+            1824500,
+            1824504
+          ],
+          [
+            1824764,
+            1824768
+          ],
+          [
+            1825028,
+            1825032
+          ],
+          [
+            16924,
+            16928
+          ]
+        ],
+        "hardware_tested": false,
+        "checks": {
+          "font_raster_round_trip": true,
+          "original_pictures_unchanged": true,
+          "all_changes_within_allowlist": true,
+          "menus_and_commands_unchanged": true,
+          "all_text_resources_unchanged": true,
+          "unicode_maps_and_font_headers_unchanged": true,
+          "firmware_length_unchanged": true,
+          "flash_update_partition_unchanged": true,
+          "os_checksum_valid": true,
+          "zip_integrity": true,
+          "manifest_unchanged": true
+        },
+        "ipsw_sha256": "32cdf3a4e7fa67b107be010fab143ad072a1c66be2e4fee5b7f973fde0f1c504"
+      },
+      "enlarge": {
+        "device": {
+          "id": "ipodmini1g-1.4.1",
+          "display_name": "iPod mini 1st generation",
+          "firmware_version": "1.4.1",
+          "payload_name": "Firmware-3.2.6.1",
+          "payload_sha256": "6e092b42101cf4f246cd3cf79972e47d38a4e8a268cf751238a7a515cca65fcc",
+          "lcd_width": 138,
+          "lcd_height": 110,
+          "preview_style": "click-wheel-mini",
+          "identification": "Exact verified firmware payload SHA-256 and manifest family",
+          "supported": true,
+          "resource_map": "profiles/ipodmini1g-1.4.1.json",
+          "manifest_family_id": 3,
+          "manifest_updater_family_id": 3,
+          "hardware_tested": false,
+          "menu_counts": {
+            "main": 6,
+            "music": 8,
+            "settings": 15
+          }
+        },
+        "theme": {
+          "id": "enlarge",
+          "name": "Enlarge",
+          "description": "Larger 13px semibold lettering and roomy menus with original iPod icons.",
+          "font": "inter-tight",
+          "weight": 600,
+          "main_size": 13,
+          "secondary_size": 11,
+          "row_height": 24,
+          "inset": 8,
+          "icons": "stock"
+        },
+        "asset_sha256": {
+          "RobotoCondensed.ttf": "dace262afcee68a5276f200d8026c57221735c0118ab5fda8c2c0d3dc409a8d0",
+          "AtkinsonHyperlegible-Regular.ttf": "7fb917c89019896d0b52ee84b7cbb3304c18cb90b19a62f5e32712bd23e97669",
+          "AtkinsonHyperlegible-Bold.ttf": "5a3b0c8cc8ca545155150b4512a1fa248298df121c50d6557e651e61fbdab92f",
+          "Inter.ttf": "29160a80ff49ddcab2c97711247e08b1fab27a484a329ce8b813d820dc559031",
+          "InterTight.ttf": "b81b73dcb64df3c230cabade7df6c5773bf863233f24c9ee51087519f1f88b6f"
+        },
+        "source_payload_sha256": "6e092b42101cf4f246cd3cf79972e47d38a4e8a268cf751238a7a515cca65fcc",
+        "result_payload_sha256": "b574100d0c881207446123593bc44b9236820ac894b506cca2329f0238735e61",
+        "changed_bytes": 16357,
+        "fonts": [
+          {
+            "font": "Chicago",
+            "style": 0,
+            "source_font": "InterTight.ttf",
+            "requested_pixels": 13,
+            "actual_pixels": 13,
+            "replaced_glyphs": 474,
+            "retained_original_glyphs": 43,
+            "atlas_columns": 3077,
+            "atlas_capacity": 3136
+          },
+          {
+            "font": "Espy Sans",
+            "style": 0,
+            "source_font": "InterTight.ttf",
+            "requested_pixels": 11,
+            "actual_pixels": 11,
+            "replaced_glyphs": 179,
+            "retained_original_glyphs": 43,
+            "atlas_columns": 1021,
+            "atlas_capacity": 1120
+          },
+          {
+            "font": "Espy Sans",
+            "style": 1,
+            "source_font": "InterTight.ttf",
+            "requested_pixels": 10,
+            "actual_pixels": 10,
+            "replaced_glyphs": 160,
+            "retained_original_glyphs": 60,
+            "atlas_columns": 975,
+            "atlas_capacity": 1184
+          },
+          {
+            "font": "Espy Sans",
+            "style": 1,
+            "source_font": "InterTight.ttf",
+            "requested_pixels": 11,
+            "actual_pixels": 11,
+            "replaced_glyphs": 384,
+            "retained_original_glyphs": 53,
+            "atlas_columns": 2074,
+            "atlas_capacity": 2624
+          }
+        ],
+        "icons": [],
+        "icon_source": "supplied-firmware",
+        "protected_resources": {
+          "uneM": 20,
+          " rtS": 5955,
+          "dmCT": 1,
+          "epyT": 132,
+          "mTDL": 19
+        },
+        "allowed_ranges": [
+          [
+            2482096,
+            2486232
+          ],
+          [
+            2486252,
+            2492524
+          ],
+          [
+            2493440,
+            2495216
+          ],
+          [
+            2495236,
+            2497196
+          ],
+          [
+            2498112,
+            2499872
+          ],
+          [
+            2499892,
+            2501816
+          ],
+          [
+            2503400,
+            2506896
+          ],
+          [
+            2506916,
+            2511180
+          ],
+          [
+            1775644,
+            1775648
+          ],
+          [
+            1777260,
+            1777264
+          ],
+          [
+            1777344,
+            1777348
+          ],
+          [
+            1777428,
+            1777432
+          ],
+          [
+            1777512,
+            1777516
+          ],
+          [
+            1777596,
+            1777600
+          ],
+          [
+            1784468,
+            1784472
+          ],
+          [
+            1784736,
+            1784740
+          ],
+          [
+            1784820,
+            1784824
+          ],
+          [
+            1785088,
+            1785092
+          ],
+          [
+            1785356,
+            1785360
+          ],
+          [
+            1785624,
+            1785628
+          ],
+          [
+            1785892,
+            1785896
+          ],
+          [
+            1786344,
+            1786348
+          ],
+          [
+            1786612,
+            1786616
+          ],
+          [
+            1787132,
+            1787136
+          ],
+          [
+            1789028,
+            1789032
+          ],
+          [
+            1789600,
+            1789604
+          ],
+          [
+            1789684,
+            1789688
+          ],
+          [
+            1789768,
+            1789772
+          ],
+          [
+            1789852,
+            1789856
+          ],
+          [
+            1789936,
+            1789940
+          ],
+          [
+            1790020,
+            1790024
+          ],
+          [
+            1790100,
+            1790104
+          ],
+          [
+            1790184,
+            1790188
+          ],
+          [
+            1791020,
+            1791024
+          ],
+          [
+            1791100,
+            1791104
+          ],
+          [
+            1791184,
+            1791188
+          ],
+          [
+            1791264,
+            1791268
+          ],
+          [
+            1791716,
+            1791720
+          ],
+          [
+            1794280,
+            1794284
+          ],
+          [
+            1794364,
+            1794368
+          ],
+          [
+            1794728,
+            1794732
+          ],
+          [
+            1795996,
+            1796000
+          ],
+          [
+            1798796,
+            1798800
+          ],
+          [
+            1799500,
+            1799504
+          ],
+          [
+            1800136,
+            1800140
+          ],
+          [
+            1802364,
+            1802368
+          ],
+          [
+            1802896,
+            1802900
+          ],
+          [
+            1804704,
+            1804708
+          ],
+          [
+            1805300,
+            1805304
+          ],
+          [
+            1815496,
+            1815500
+          ],
+          [
+            1807856,
+            1807860
+          ],
+          [
+            1808032,
+            1808036
+          ],
+          [
+            1809880,
+            1809884
+          ],
+          [
+            1816228,
+            1816232
+          ],
+          [
+            1816580,
+            1816584
+          ],
+          [
+            1822552,
+            1822556
+          ],
+          [
+            1823964,
+            1823968
+          ],
+          [
+            1824148,
+            1824152
+          ],
+          [
+            1824500,
+            1824504
+          ],
+          [
+            1824764,
+            1824768
+          ],
+          [
+            1825028,
+            1825032
+          ],
+          [
+            16924,
+            16928
+          ]
+        ],
+        "hardware_tested": false,
+        "checks": {
+          "font_raster_round_trip": true,
+          "original_pictures_unchanged": true,
+          "all_changes_within_allowlist": true,
+          "menus_and_commands_unchanged": true,
+          "all_text_resources_unchanged": true,
+          "unicode_maps_and_font_headers_unchanged": true,
+          "firmware_length_unchanged": true,
+          "flash_update_partition_unchanged": true,
+          "os_checksum_valid": true,
+          "zip_integrity": true,
+          "manifest_unchanged": true
+        },
+        "ipsw_sha256": "25b68f037ad654958bcd9e5e2ccc7241ca83b39e9031e53d71ad9d90d7cad21a"
+      }
+    },
+    "ipodmini2g-1.4.1": {
+      "clear": {
+        "device": {
+          "id": "ipodmini2g-1.4.1",
+          "display_name": "iPod mini 2nd generation",
+          "firmware_version": "1.4.1",
+          "payload_name": "Firmware-7.2.6.1",
+          "payload_sha256": "752118f56366d8993cf5920629763f07b82564456cb91881f0b7ae9a219babcd",
+          "lcd_width": 138,
+          "lcd_height": 110,
+          "preview_style": "click-wheel-mini",
+          "identification": "Exact verified firmware payload SHA-256 and manifest family",
+          "supported": true,
+          "resource_map": "profiles/ipodmini2g-1.4.1.json",
+          "manifest_family_id": 3,
+          "manifest_updater_family_id": 7,
+          "hardware_tested": false,
+          "menu_counts": {
+            "main": 6,
+            "music": 8,
+            "settings": 15
+          }
+        },
+        "theme": {
+          "id": "clear",
+          "name": "Clear",
+          "description": "Clean sans-serif text and airy menus with original iPod icons.",
+          "font": "inter",
+          "weight": 500,
+          "main_size": 12,
+          "secondary_size": 11,
+          "row_height": 24,
+          "inset": 8,
+          "icons": "stock"
+        },
+        "asset_sha256": {
+          "RobotoCondensed.ttf": "dace262afcee68a5276f200d8026c57221735c0118ab5fda8c2c0d3dc409a8d0",
+          "AtkinsonHyperlegible-Regular.ttf": "7fb917c89019896d0b52ee84b7cbb3304c18cb90b19a62f5e32712bd23e97669",
+          "AtkinsonHyperlegible-Bold.ttf": "5a3b0c8cc8ca545155150b4512a1fa248298df121c50d6557e651e61fbdab92f",
+          "Inter.ttf": "29160a80ff49ddcab2c97711247e08b1fab27a484a329ce8b813d820dc559031",
+          "InterTight.ttf": "b81b73dcb64df3c230cabade7df6c5773bf863233f24c9ee51087519f1f88b6f"
+        },
+        "source_payload_sha256": "752118f56366d8993cf5920629763f07b82564456cb91881f0b7ae9a219babcd",
+        "result_payload_sha256": "ce9502900b427910ad0e55a24d3560335a7712588b1547bd47e91090da0ba0c8",
+        "changed_bytes": 16937,
+        "fonts": [
+          {
+            "font": "Chicago",
+            "style": 0,
+            "source_font": "Inter.ttf",
+            "requested_pixels": 12,
+            "actual_pixels": 12,
+            "replaced_glyphs": 474,
+            "retained_original_glyphs": 43,
+            "atlas_columns": 2945,
+            "atlas_capacity": 3136
+          },
+          {
+            "font": "Espy Sans",
+            "style": 0,
+            "source_font": "Inter.ttf",
+            "requested_pixels": 11,
+            "actual_pixels": 11,
+            "replaced_glyphs": 181,
+            "retained_original_glyphs": 41,
+            "atlas_columns": 1070,
+            "atlas_capacity": 1120
+          },
+          {
+            "font": "Espy Sans",
+            "style": 1,
+            "source_font": "Inter.ttf",
+            "requested_pixels": 10,
+            "actual_pixels": 10,
+            "replaced_glyphs": 160,
+            "retained_original_glyphs": 60,
+            "atlas_columns": 1030,
+            "atlas_capacity": 1184
+          },
+          {
+            "font": "Espy Sans",
+            "style": 1,
+            "source_font": "Inter.ttf",
+            "requested_pixels": 11,
+            "actual_pixels": 11,
+            "replaced_glyphs": 395,
+            "retained_original_glyphs": 42,
+            "atlas_columns": 2168,
+            "atlas_capacity": 2624
+          }
+        ],
+        "icons": [],
+        "icon_source": "supplied-firmware",
+        "protected_resources": {
+          "uneM": 20,
+          " rtS": 5955,
+          "dmCT": 1,
+          "epyT": 132,
+          "mTDL": 19
+        },
+        "allowed_ranges": [
+          [
+            2481260,
+            2485396
+          ],
+          [
+            2485416,
+            2491688
+          ],
+          [
+            2492604,
+            2494380
+          ],
+          [
+            2494400,
+            2496360
+          ],
+          [
+            2497276,
+            2499036
+          ],
+          [
+            2499056,
+            2500980
+          ],
+          [
+            2502564,
+            2506060
+          ],
+          [
+            2506080,
+            2510344
+          ],
+          [
+            1774804,
+            1774808
+          ],
+          [
+            1776420,
+            1776424
+          ],
+          [
+            1776504,
+            1776508
+          ],
+          [
+            1776588,
+            1776592
+          ],
+          [
+            1776672,
+            1776676
+          ],
+          [
+            1776756,
+            1776760
+          ],
+          [
+            1783628,
+            1783632
+          ],
+          [
+            1783896,
+            1783900
+          ],
+          [
+            1783980,
+            1783984
+          ],
+          [
+            1784248,
+            1784252
+          ],
+          [
+            1784516,
+            1784520
+          ],
+          [
+            1784784,
+            1784788
+          ],
+          [
+            1785052,
+            1785056
+          ],
+          [
+            1785504,
+            1785508
+          ],
+          [
+            1785772,
+            1785776
+          ],
+          [
+            1786292,
+            1786296
+          ],
+          [
+            1788188,
+            1788192
+          ],
+          [
+            1788760,
+            1788764
+          ],
+          [
+            1788844,
+            1788848
+          ],
+          [
+            1788928,
+            1788932
+          ],
+          [
+            1789012,
+            1789016
+          ],
+          [
+            1789096,
+            1789100
+          ],
+          [
+            1789180,
+            1789184
+          ],
+          [
+            1789260,
+            1789264
+          ],
+          [
+            1789344,
+            1789348
+          ],
+          [
+            1790180,
+            1790184
+          ],
+          [
+            1790260,
+            1790264
+          ],
+          [
+            1790344,
+            1790348
+          ],
+          [
+            1790424,
+            1790428
+          ],
+          [
+            1790876,
+            1790880
+          ],
+          [
+            1793440,
+            1793444
+          ],
+          [
+            1793524,
+            1793528
+          ],
+          [
+            1793888,
+            1793892
+          ],
+          [
+            1795156,
+            1795160
+          ],
+          [
+            1797956,
+            1797960
+          ],
+          [
+            1798660,
+            1798664
+          ],
+          [
+            1799296,
+            1799300
+          ],
+          [
+            1801524,
+            1801528
+          ],
+          [
+            1802056,
+            1802060
+          ],
+          [
+            1803864,
+            1803868
+          ],
+          [
+            1804460,
+            1804464
+          ],
+          [
+            1814656,
+            1814660
+          ],
+          [
+            1807016,
+            1807020
+          ],
+          [
+            1807192,
+            1807196
+          ],
+          [
+            1809040,
+            1809044
+          ],
+          [
+            1815388,
+            1815392
+          ],
+          [
+            1815740,
+            1815744
+          ],
+          [
+            1821712,
+            1821716
+          ],
+          [
+            1823124,
+            1823128
+          ],
+          [
+            1823308,
+            1823312
+          ],
+          [
+            1823660,
+            1823664
+          ],
+          [
+            1823924,
+            1823928
+          ],
+          [
+            1824188,
+            1824192
+          ],
+          [
+            16924,
+            16928
+          ]
+        ],
+        "hardware_tested": false,
+        "checks": {
+          "font_raster_round_trip": true,
+          "original_pictures_unchanged": true,
+          "all_changes_within_allowlist": true,
+          "menus_and_commands_unchanged": true,
+          "all_text_resources_unchanged": true,
+          "unicode_maps_and_font_headers_unchanged": true,
+          "firmware_length_unchanged": true,
+          "flash_update_partition_unchanged": true,
+          "os_checksum_valid": true,
+          "zip_integrity": true,
+          "manifest_unchanged": true
+        },
+        "ipsw_sha256": "0ab90806e48dbe1bda475ed3a83205790f8d62501377be1ecd27be02a03dc744"
+      },
+      "focus": {
+        "device": {
+          "id": "ipodmini2g-1.4.1",
+          "display_name": "iPod mini 2nd generation",
+          "firmware_version": "1.4.1",
+          "payload_name": "Firmware-7.2.6.1",
+          "payload_sha256": "752118f56366d8993cf5920629763f07b82564456cb91881f0b7ae9a219babcd",
+          "lcd_width": 138,
+          "lcd_height": 110,
+          "preview_style": "click-wheel-mini",
+          "identification": "Exact verified firmware payload SHA-256 and manifest family",
+          "supported": true,
+          "resource_map": "profiles/ipodmini2g-1.4.1.json",
+          "manifest_family_id": 3,
+          "manifest_updater_family_id": 7,
+          "hardware_tested": false,
+          "menu_counts": {
+            "main": 6,
+            "music": 8,
+            "settings": 15
+          }
+        },
+        "theme": {
+          "id": "focus",
+          "name": "Focus",
+          "description": "Distinct letterforms and bold text with the most breathing room.",
+          "font": "roboto",
+          "weight": 700,
+          "main_size": 14,
+          "secondary_size": 11,
+          "row_height": 26,
+          "inset": 10,
+          "icons": "stock"
+        },
+        "asset_sha256": {
+          "RobotoCondensed.ttf": "dace262afcee68a5276f200d8026c57221735c0118ab5fda8c2c0d3dc409a8d0",
+          "AtkinsonHyperlegible-Regular.ttf": "7fb917c89019896d0b52ee84b7cbb3304c18cb90b19a62f5e32712bd23e97669",
+          "AtkinsonHyperlegible-Bold.ttf": "5a3b0c8cc8ca545155150b4512a1fa248298df121c50d6557e651e61fbdab92f",
+          "Inter.ttf": "29160a80ff49ddcab2c97711247e08b1fab27a484a329ce8b813d820dc559031",
+          "InterTight.ttf": "b81b73dcb64df3c230cabade7df6c5773bf863233f24c9ee51087519f1f88b6f"
+        },
+        "source_payload_sha256": "752118f56366d8993cf5920629763f07b82564456cb91881f0b7ae9a219babcd",
+        "result_payload_sha256": "d44e4a217c5cabe31aba9d069b69c49e40f3d21603773327c09da5dbd85aeb89",
+        "changed_bytes": 16905,
+        "fonts": [
+          {
+            "font": "Chicago",
+            "style": 0,
+            "source_font": "RobotoCondensed.ttf",
+            "requested_pixels": 14,
+            "actual_pixels": 14,
+            "replaced_glyphs": 380,
+            "retained_original_glyphs": 137,
+            "atlas_columns": 3020,
+            "atlas_capacity": 3136
+          },
+          {
+            "font": "Espy Sans",
+            "style": 0,
+            "source_font": "RobotoCondensed.ttf",
+            "requested_pixels": 11,
+            "actual_pixels": 11,
+            "replaced_glyphs": 169,
+            "retained_original_glyphs": 53,
+            "atlas_columns": 1030,
+            "atlas_capacity": 1120
+          },
+          {
+            "font": "Espy Sans",
+            "style": 1,
+            "source_font": "RobotoCondensed.ttf",
+            "requested_pixels": 10,
+            "actual_pixels": 10,
+            "replaced_glyphs": 168,
+            "retained_original_glyphs": 52,
+            "atlas_columns": 980,
+            "atlas_capacity": 1184
+          },
+          {
+            "font": "Espy Sans",
+            "style": 1,
+            "source_font": "RobotoCondensed.ttf",
+            "requested_pixels": 11,
+            "actual_pixels": 11,
+            "replaced_glyphs": 362,
+            "retained_original_glyphs": 75,
+            "atlas_columns": 2127,
+            "atlas_capacity": 2624
+          }
+        ],
+        "icons": [],
+        "icon_source": "supplied-firmware",
+        "protected_resources": {
+          "uneM": 20,
+          " rtS": 5955,
+          "dmCT": 1,
+          "epyT": 132,
+          "mTDL": 19
+        },
+        "allowed_ranges": [
+          [
+            2481260,
+            2485396
+          ],
+          [
+            2485416,
+            2491688
+          ],
+          [
+            2492604,
+            2494380
+          ],
+          [
+            2494400,
+            2496360
+          ],
+          [
+            2497276,
+            2499036
+          ],
+          [
+            2499056,
+            2500980
+          ],
+          [
+            2502564,
+            2506060
+          ],
+          [
+            2506080,
+            2510344
+          ],
+          [
+            1774804,
+            1774808
+          ],
+          [
+            1776420,
+            1776424
+          ],
+          [
+            1776504,
+            1776508
+          ],
+          [
+            1776588,
+            1776592
+          ],
+          [
+            1776672,
+            1776676
+          ],
+          [
+            1776756,
+            1776760
+          ],
+          [
+            1783628,
+            1783632
+          ],
+          [
+            1783896,
+            1783900
+          ],
+          [
+            1783980,
+            1783984
+          ],
+          [
+            1784248,
+            1784252
+          ],
+          [
+            1784516,
+            1784520
+          ],
+          [
+            1784784,
+            1784788
+          ],
+          [
+            1785052,
+            1785056
+          ],
+          [
+            1785504,
+            1785508
+          ],
+          [
+            1785772,
+            1785776
+          ],
+          [
+            1786292,
+            1786296
+          ],
+          [
+            1788188,
+            1788192
+          ],
+          [
+            1788760,
+            1788764
+          ],
+          [
+            1788844,
+            1788848
+          ],
+          [
+            1788928,
+            1788932
+          ],
+          [
+            1789012,
+            1789016
+          ],
+          [
+            1789096,
+            1789100
+          ],
+          [
+            1789180,
+            1789184
+          ],
+          [
+            1789260,
+            1789264
+          ],
+          [
+            1789344,
+            1789348
+          ],
+          [
+            1790180,
+            1790184
+          ],
+          [
+            1790260,
+            1790264
+          ],
+          [
+            1790344,
+            1790348
+          ],
+          [
+            1790424,
+            1790428
+          ],
+          [
+            1790876,
+            1790880
+          ],
+          [
+            1793440,
+            1793444
+          ],
+          [
+            1793524,
+            1793528
+          ],
+          [
+            1793888,
+            1793892
+          ],
+          [
+            1795156,
+            1795160
+          ],
+          [
+            1797956,
+            1797960
+          ],
+          [
+            1798660,
+            1798664
+          ],
+          [
+            1799296,
+            1799300
+          ],
+          [
+            1801524,
+            1801528
+          ],
+          [
+            1802056,
+            1802060
+          ],
+          [
+            1803864,
+            1803868
+          ],
+          [
+            1804460,
+            1804464
+          ],
+          [
+            1814656,
+            1814660
+          ],
+          [
+            1807016,
+            1807020
+          ],
+          [
+            1807192,
+            1807196
+          ],
+          [
+            1809040,
+            1809044
+          ],
+          [
+            1815388,
+            1815392
+          ],
+          [
+            1815740,
+            1815744
+          ],
+          [
+            1821712,
+            1821716
+          ],
+          [
+            1823124,
+            1823128
+          ],
+          [
+            1823308,
+            1823312
+          ],
+          [
+            1823660,
+            1823664
+          ],
+          [
+            1823924,
+            1823928
+          ],
+          [
+            1824188,
+            1824192
+          ],
+          [
+            16924,
+            16928
+          ]
+        ],
+        "hardware_tested": false,
+        "checks": {
+          "font_raster_round_trip": true,
+          "original_pictures_unchanged": true,
+          "all_changes_within_allowlist": true,
+          "menus_and_commands_unchanged": true,
+          "all_text_resources_unchanged": true,
+          "unicode_maps_and_font_headers_unchanged": true,
+          "firmware_length_unchanged": true,
+          "flash_update_partition_unchanged": true,
+          "os_checksum_valid": true,
+          "zip_integrity": true,
+          "manifest_unchanged": true
+        },
+        "ipsw_sha256": "86a5a2b90d7080f551a095096b106f4b0a19a6664f67b67d078c14679bb7ef21"
+      },
+      "compact": {
+        "device": {
+          "id": "ipodmini2g-1.4.1",
+          "display_name": "iPod mini 2nd generation",
+          "firmware_version": "1.4.1",
+          "payload_name": "Firmware-7.2.6.1",
+          "payload_sha256": "752118f56366d8993cf5920629763f07b82564456cb91881f0b7ae9a219babcd",
+          "lcd_width": 138,
+          "lcd_height": 110,
+          "preview_style": "click-wheel-mini",
+          "identification": "Exact verified firmware payload SHA-256 and manifest family",
+          "supported": true,
+          "resource_map": "profiles/ipodmini2g-1.4.1.json",
+          "manifest_family_id": 3,
+          "manifest_updater_family_id": 7,
+          "hardware_tested": false,
+          "menu_counts": {
+            "main": 6,
+            "music": 8,
+            "settings": 15
+          }
+        },
+        "theme": {
+          "id": "compact",
+          "name": "Compact",
+          "description": "Modern lettering with more of your library on screen.",
+          "font": "inter",
+          "weight": 400,
+          "main_size": 12,
+          "secondary_size": 10,
+          "row_height": 20,
+          "inset": 7,
+          "icons": "stock"
+        },
+        "asset_sha256": {
+          "RobotoCondensed.ttf": "dace262afcee68a5276f200d8026c57221735c0118ab5fda8c2c0d3dc409a8d0",
+          "AtkinsonHyperlegible-Regular.ttf": "7fb917c89019896d0b52ee84b7cbb3304c18cb90b19a62f5e32712bd23e97669",
+          "AtkinsonHyperlegible-Bold.ttf": "5a3b0c8cc8ca545155150b4512a1fa248298df121c50d6557e651e61fbdab92f",
+          "Inter.ttf": "29160a80ff49ddcab2c97711247e08b1fab27a484a329ce8b813d820dc559031",
+          "InterTight.ttf": "b81b73dcb64df3c230cabade7df6c5773bf863233f24c9ee51087519f1f88b6f"
+        },
+        "source_payload_sha256": "752118f56366d8993cf5920629763f07b82564456cb91881f0b7ae9a219babcd",
+        "result_payload_sha256": "301b897f89f8102180665f39a4b53391f0b599521ffbd03abaad651841f4e4c7",
+        "changed_bytes": 16710,
+        "fonts": [
+          {
+            "font": "Chicago",
+            "style": 0,
+            "source_font": "Inter.ttf",
+            "requested_pixels": 12,
+            "actual_pixels": 12,
+            "replaced_glyphs": 474,
+            "retained_original_glyphs": 43,
+            "atlas_columns": 2879,
+            "atlas_capacity": 3136
+          },
+          {
+            "font": "Espy Sans",
+            "style": 0,
+            "source_font": "Inter.ttf",
+            "requested_pixels": 10,
+            "actual_pixels": 10,
+            "replaced_glyphs": 177,
+            "retained_original_glyphs": 45,
+            "atlas_columns": 999,
+            "atlas_capacity": 1120
+          },
+          {
+            "font": "Espy Sans",
+            "style": 1,
+            "source_font": "Inter.ttf",
+            "requested_pixels": 9,
+            "actual_pixels": 9,
+            "replaced_glyphs": 183,
+            "retained_original_glyphs": 37,
+            "atlas_columns": 903,
+            "atlas_capacity": 1184
+          },
+          {
+            "font": "Espy Sans",
+            "style": 1,
+            "source_font": "Inter.ttf",
+            "requested_pixels": 10,
+            "actual_pixels": 10,
+            "replaced_glyphs": 391,
+            "retained_original_glyphs": 46,
+            "atlas_columns": 2012,
+            "atlas_capacity": 2624
+          }
+        ],
+        "icons": [],
+        "icon_source": "supplied-firmware",
+        "protected_resources": {
+          "uneM": 20,
+          " rtS": 5955,
+          "dmCT": 1,
+          "epyT": 132,
+          "mTDL": 19
+        },
+        "allowed_ranges": [
+          [
+            2481260,
+            2485396
+          ],
+          [
+            2485416,
+            2491688
+          ],
+          [
+            2492604,
+            2494380
+          ],
+          [
+            2494400,
+            2496360
+          ],
+          [
+            2497276,
+            2499036
+          ],
+          [
+            2499056,
+            2500980
+          ],
+          [
+            2502564,
+            2506060
+          ],
+          [
+            2506080,
+            2510344
+          ],
+          [
+            1774804,
+            1774808
+          ],
+          [
+            1776420,
+            1776424
+          ],
+          [
+            1776504,
+            1776508
+          ],
+          [
+            1776588,
+            1776592
+          ],
+          [
+            1776672,
+            1776676
+          ],
+          [
+            1776756,
+            1776760
+          ],
+          [
+            1783628,
+            1783632
+          ],
+          [
+            1783896,
+            1783900
+          ],
+          [
+            1783980,
+            1783984
+          ],
+          [
+            1784248,
+            1784252
+          ],
+          [
+            1784516,
+            1784520
+          ],
+          [
+            1784784,
+            1784788
+          ],
+          [
+            1785052,
+            1785056
+          ],
+          [
+            1785504,
+            1785508
+          ],
+          [
+            1785772,
+            1785776
+          ],
+          [
+            1786292,
+            1786296
+          ],
+          [
+            1788188,
+            1788192
+          ],
+          [
+            1788760,
+            1788764
+          ],
+          [
+            1788844,
+            1788848
+          ],
+          [
+            1788928,
+            1788932
+          ],
+          [
+            1789012,
+            1789016
+          ],
+          [
+            1789096,
+            1789100
+          ],
+          [
+            1789180,
+            1789184
+          ],
+          [
+            1789260,
+            1789264
+          ],
+          [
+            1789344,
+            1789348
+          ],
+          [
+            1790180,
+            1790184
+          ],
+          [
+            1790260,
+            1790264
+          ],
+          [
+            1790344,
+            1790348
+          ],
+          [
+            1790424,
+            1790428
+          ],
+          [
+            1790876,
+            1790880
+          ],
+          [
+            1793440,
+            1793444
+          ],
+          [
+            1793524,
+            1793528
+          ],
+          [
+            1793888,
+            1793892
+          ],
+          [
+            1795156,
+            1795160
+          ],
+          [
+            1797956,
+            1797960
+          ],
+          [
+            1798660,
+            1798664
+          ],
+          [
+            1799296,
+            1799300
+          ],
+          [
+            1801524,
+            1801528
+          ],
+          [
+            1802056,
+            1802060
+          ],
+          [
+            1803864,
+            1803868
+          ],
+          [
+            1804460,
+            1804464
+          ],
+          [
+            1814656,
+            1814660
+          ],
+          [
+            1807016,
+            1807020
+          ],
+          [
+            1807192,
+            1807196
+          ],
+          [
+            1809040,
+            1809044
+          ],
+          [
+            1815388,
+            1815392
+          ],
+          [
+            1815740,
+            1815744
+          ],
+          [
+            1821712,
+            1821716
+          ],
+          [
+            1823124,
+            1823128
+          ],
+          [
+            1823308,
+            1823312
+          ],
+          [
+            1823660,
+            1823664
+          ],
+          [
+            1823924,
+            1823928
+          ],
+          [
+            1824188,
+            1824192
+          ],
+          [
+            16924,
+            16928
+          ]
+        ],
+        "hardware_tested": false,
+        "checks": {
+          "font_raster_round_trip": true,
+          "original_pictures_unchanged": true,
+          "all_changes_within_allowlist": true,
+          "menus_and_commands_unchanged": true,
+          "all_text_resources_unchanged": true,
+          "unicode_maps_and_font_headers_unchanged": true,
+          "firmware_length_unchanged": true,
+          "flash_update_partition_unchanged": true,
+          "os_checksum_valid": true,
+          "zip_integrity": true,
+          "manifest_unchanged": true
+        },
+        "ipsw_sha256": "e85cc75bcb5e8805ef4e75c76c64e5d8682b5f4e7cc9183dc27a427c4301962a"
+      },
+      "enlarge": {
+        "device": {
+          "id": "ipodmini2g-1.4.1",
+          "display_name": "iPod mini 2nd generation",
+          "firmware_version": "1.4.1",
+          "payload_name": "Firmware-7.2.6.1",
+          "payload_sha256": "752118f56366d8993cf5920629763f07b82564456cb91881f0b7ae9a219babcd",
+          "lcd_width": 138,
+          "lcd_height": 110,
+          "preview_style": "click-wheel-mini",
+          "identification": "Exact verified firmware payload SHA-256 and manifest family",
+          "supported": true,
+          "resource_map": "profiles/ipodmini2g-1.4.1.json",
+          "manifest_family_id": 3,
+          "manifest_updater_family_id": 7,
+          "hardware_tested": false,
+          "menu_counts": {
+            "main": 6,
+            "music": 8,
+            "settings": 15
+          }
+        },
+        "theme": {
+          "id": "enlarge",
+          "name": "Enlarge",
+          "description": "Larger 13px semibold lettering and roomy menus with original iPod icons.",
+          "font": "inter-tight",
+          "weight": 600,
+          "main_size": 13,
+          "secondary_size": 11,
+          "row_height": 24,
+          "inset": 8,
+          "icons": "stock"
+        },
+        "asset_sha256": {
+          "RobotoCondensed.ttf": "dace262afcee68a5276f200d8026c57221735c0118ab5fda8c2c0d3dc409a8d0",
+          "AtkinsonHyperlegible-Regular.ttf": "7fb917c89019896d0b52ee84b7cbb3304c18cb90b19a62f5e32712bd23e97669",
+          "AtkinsonHyperlegible-Bold.ttf": "5a3b0c8cc8ca545155150b4512a1fa248298df121c50d6557e651e61fbdab92f",
+          "Inter.ttf": "29160a80ff49ddcab2c97711247e08b1fab27a484a329ce8b813d820dc559031",
+          "InterTight.ttf": "b81b73dcb64df3c230cabade7df6c5773bf863233f24c9ee51087519f1f88b6f"
+        },
+        "source_payload_sha256": "752118f56366d8993cf5920629763f07b82564456cb91881f0b7ae9a219babcd",
+        "result_payload_sha256": "6ae679b2c2e933dc899d73319f88896382d23871356af9aef75de7456e3be72d",
+        "changed_bytes": 16357,
+        "fonts": [
+          {
+            "font": "Chicago",
+            "style": 0,
+            "source_font": "InterTight.ttf",
+            "requested_pixels": 13,
+            "actual_pixels": 13,
+            "replaced_glyphs": 474,
+            "retained_original_glyphs": 43,
+            "atlas_columns": 3077,
+            "atlas_capacity": 3136
+          },
+          {
+            "font": "Espy Sans",
+            "style": 0,
+            "source_font": "InterTight.ttf",
+            "requested_pixels": 11,
+            "actual_pixels": 11,
+            "replaced_glyphs": 179,
+            "retained_original_glyphs": 43,
+            "atlas_columns": 1021,
+            "atlas_capacity": 1120
+          },
+          {
+            "font": "Espy Sans",
+            "style": 1,
+            "source_font": "InterTight.ttf",
+            "requested_pixels": 10,
+            "actual_pixels": 10,
+            "replaced_glyphs": 160,
+            "retained_original_glyphs": 60,
+            "atlas_columns": 975,
+            "atlas_capacity": 1184
+          },
+          {
+            "font": "Espy Sans",
+            "style": 1,
+            "source_font": "InterTight.ttf",
+            "requested_pixels": 11,
+            "actual_pixels": 11,
+            "replaced_glyphs": 384,
+            "retained_original_glyphs": 53,
+            "atlas_columns": 2074,
+            "atlas_capacity": 2624
+          }
+        ],
+        "icons": [],
+        "icon_source": "supplied-firmware",
+        "protected_resources": {
+          "uneM": 20,
+          " rtS": 5955,
+          "dmCT": 1,
+          "epyT": 132,
+          "mTDL": 19
+        },
+        "allowed_ranges": [
+          [
+            2481260,
+            2485396
+          ],
+          [
+            2485416,
+            2491688
+          ],
+          [
+            2492604,
+            2494380
+          ],
+          [
+            2494400,
+            2496360
+          ],
+          [
+            2497276,
+            2499036
+          ],
+          [
+            2499056,
+            2500980
+          ],
+          [
+            2502564,
+            2506060
+          ],
+          [
+            2506080,
+            2510344
+          ],
+          [
+            1774804,
+            1774808
+          ],
+          [
+            1776420,
+            1776424
+          ],
+          [
+            1776504,
+            1776508
+          ],
+          [
+            1776588,
+            1776592
+          ],
+          [
+            1776672,
+            1776676
+          ],
+          [
+            1776756,
+            1776760
+          ],
+          [
+            1783628,
+            1783632
+          ],
+          [
+            1783896,
+            1783900
+          ],
+          [
+            1783980,
+            1783984
+          ],
+          [
+            1784248,
+            1784252
+          ],
+          [
+            1784516,
+            1784520
+          ],
+          [
+            1784784,
+            1784788
+          ],
+          [
+            1785052,
+            1785056
+          ],
+          [
+            1785504,
+            1785508
+          ],
+          [
+            1785772,
+            1785776
+          ],
+          [
+            1786292,
+            1786296
+          ],
+          [
+            1788188,
+            1788192
+          ],
+          [
+            1788760,
+            1788764
+          ],
+          [
+            1788844,
+            1788848
+          ],
+          [
+            1788928,
+            1788932
+          ],
+          [
+            1789012,
+            1789016
+          ],
+          [
+            1789096,
+            1789100
+          ],
+          [
+            1789180,
+            1789184
+          ],
+          [
+            1789260,
+            1789264
+          ],
+          [
+            1789344,
+            1789348
+          ],
+          [
+            1790180,
+            1790184
+          ],
+          [
+            1790260,
+            1790264
+          ],
+          [
+            1790344,
+            1790348
+          ],
+          [
+            1790424,
+            1790428
+          ],
+          [
+            1790876,
+            1790880
+          ],
+          [
+            1793440,
+            1793444
+          ],
+          [
+            1793524,
+            1793528
+          ],
+          [
+            1793888,
+            1793892
+          ],
+          [
+            1795156,
+            1795160
+          ],
+          [
+            1797956,
+            1797960
+          ],
+          [
+            1798660,
+            1798664
+          ],
+          [
+            1799296,
+            1799300
+          ],
+          [
+            1801524,
+            1801528
+          ],
+          [
+            1802056,
+            1802060
+          ],
+          [
+            1803864,
+            1803868
+          ],
+          [
+            1804460,
+            1804464
+          ],
+          [
+            1814656,
+            1814660
+          ],
+          [
+            1807016,
+            1807020
+          ],
+          [
+            1807192,
+            1807196
+          ],
+          [
+            1809040,
+            1809044
+          ],
+          [
+            1815388,
+            1815392
+          ],
+          [
+            1815740,
+            1815744
+          ],
+          [
+            1821712,
+            1821716
+          ],
+          [
+            1823124,
+            1823128
+          ],
+          [
+            1823308,
+            1823312
+          ],
+          [
+            1823660,
+            1823664
+          ],
+          [
+            1823924,
+            1823928
+          ],
+          [
+            1824188,
+            1824192
+          ],
+          [
+            16924,
+            16928
+          ]
+        ],
+        "hardware_tested": false,
+        "checks": {
+          "font_raster_round_trip": true,
+          "original_pictures_unchanged": true,
+          "all_changes_within_allowlist": true,
+          "menus_and_commands_unchanged": true,
+          "all_text_resources_unchanged": true,
+          "unicode_maps_and_font_headers_unchanged": true,
+          "firmware_length_unchanged": true,
+          "flash_update_partition_unchanged": true,
+          "os_checksum_valid": true,
+          "zip_integrity": true,
+          "manifest_unchanged": true
+        },
+        "ipsw_sha256": "b6b5831cc0c1792344eb0500640070f278af9cd028147d2acb8b37490d829250"
+      }
+    }
+  },
+  "native_binaries": [
+    {
+      "path": "Contents/MacOS/PodThemer",
+      "minimum_macos": [
+        "14.0"
+      ]
+    },
+    {
+      "path": "Contents/Helpers/PodThemerEngine.app/Contents/MacOS/PodThemerEngine",
+      "minimum_macos": [
+        "11.0"
+      ]
+    },
+    {
+      "path": "Contents/Helpers/PodThemerEngine.app/Contents/Frameworks/libssl.3.dylib",
+      "minimum_macos": [
+        "11.0"
+      ]
+    },
+    {
+      "path": "Contents/Helpers/PodThemerEngine.app/Contents/Frameworks/libcrypto.3.dylib",
+      "minimum_macos": [
+        "11.0"
+      ]
+    },
+    {
+      "path": "Contents/Helpers/PodThemerEngine.app/Contents/Frameworks/libzstd.1.dylib",
+      "minimum_macos": [
+        "11.0"
+      ]
+    },
+    {
+      "path": "Contents/Helpers/PodThemerEngine.app/Contents/Frameworks/PIL/_imagingft.cpython-314-darwin.so",
+      "minimum_macos": [
+        "11.0"
+      ]
+    },
+    {
+      "path": "Contents/Helpers/PodThemerEngine.app/Contents/Frameworks/PIL/_imagingcms.cpython-314-darwin.so",
+      "minimum_macos": [
+        "11.0"
+      ]
+    },
+    {
+      "path": "Contents/Helpers/PodThemerEngine.app/Contents/Frameworks/PIL/_webp.cpython-314-darwin.so",
+      "minimum_macos": [
+        "11.0"
+      ]
+    },
+    {
+      "path": "Contents/Helpers/PodThemerEngine.app/Contents/Frameworks/PIL/_imagingmath.cpython-314-darwin.so",
+      "minimum_macos": [
+        "11.0"
+      ]
+    },
+    {
+      "path": "Contents/Helpers/PodThemerEngine.app/Contents/Frameworks/PIL/_imaging.cpython-314-darwin.so",
+      "minimum_macos": [
+        "11.0"
+      ]
+    },
+    {
+      "path": "Contents/Helpers/PodThemerEngine.app/Contents/Frameworks/PIL/_avif.cpython-314-darwin.so",
+      "minimum_macos": [
+        "11.0"
+      ]
+    },
+    {
+      "path": "Contents/Helpers/PodThemerEngine.app/Contents/Frameworks/Python.framework/Versions/3.14/Python",
+      "minimum_macos": [
+        "11.0"
+      ]
+    },
+    {
+      "path": "Contents/Helpers/PodThemerEngine.app/Contents/Frameworks/PIL/__dot__dylibs/libbrotlicommon.1.2.0.dylib",
+      "minimum_macos": [
+        "11.0"
+      ]
+    },
+    {
+      "path": "Contents/Helpers/PodThemerEngine.app/Contents/Frameworks/PIL/__dot__dylibs/libbrotlidec.1.2.0.dylib",
+      "minimum_macos": [
+        "11.0"
+      ]
+    },
+    {
+      "path": "Contents/Helpers/PodThemerEngine.app/Contents/Frameworks/PIL/__dot__dylibs/liblcms2.2.dylib",
+      "minimum_macos": [
+        "11.0"
+      ]
+    },
+    {
+      "path": "Contents/Helpers/PodThemerEngine.app/Contents/Frameworks/PIL/__dot__dylibs/libpng16.16.dylib",
+      "minimum_macos": [
+        "11.0"
+      ]
+    },
+    {
+      "path": "Contents/Helpers/PodThemerEngine.app/Contents/Frameworks/PIL/__dot__dylibs/libxcb.1.1.0.dylib",
+      "minimum_macos": [
+        "11.0"
+      ]
+    },
+    {
+      "path": "Contents/Helpers/PodThemerEngine.app/Contents/Frameworks/PIL/__dot__dylibs/libjpeg.62.4.0.dylib",
+      "minimum_macos": [
+        "11.0"
+      ]
+    },
+    {
+      "path": "Contents/Helpers/PodThemerEngine.app/Contents/Frameworks/PIL/__dot__dylibs/libfreetype.6.dylib",
+      "minimum_macos": [
+        "11.0"
+      ]
+    },
+    {
+      "path": "Contents/Helpers/PodThemerEngine.app/Contents/Frameworks/PIL/__dot__dylibs/libharfbuzz.0.dylib",
+      "minimum_macos": [
+        "11.0"
+      ]
+    },
+    {
+      "path": "Contents/Helpers/PodThemerEngine.app/Contents/Frameworks/PIL/__dot__dylibs/libsharpyuv.0.dylib",
+      "minimum_macos": [
+        "11.0"
+      ]
+    },
+    {
+      "path": "Contents/Helpers/PodThemerEngine.app/Contents/Frameworks/PIL/__dot__dylibs/libopenjp2.2.5.4.dylib",
+      "minimum_macos": [
+        "11.0"
+      ]
+    },
+    {
+      "path": "Contents/Helpers/PodThemerEngine.app/Contents/Frameworks/PIL/__dot__dylibs/libavif.16.4.2.dylib",
+      "minimum_macos": [
+        "11.0"
+      ]
+    },
+    {
+      "path": "Contents/Helpers/PodThemerEngine.app/Contents/Frameworks/PIL/__dot__dylibs/libz.1.3.1.zlib-ng.dylib",
+      "minimum_macos": [
+        "11.0"
+      ]
+    },
+    {
+      "path": "Contents/Helpers/PodThemerEngine.app/Contents/Frameworks/PIL/__dot__dylibs/libwebp.7.dylib",
+      "minimum_macos": [
+        "11.0"
+      ]
+    },
+    {
+      "path": "Contents/Helpers/PodThemerEngine.app/Contents/Frameworks/PIL/__dot__dylibs/libXau.6.dylib",
+      "minimum_macos": [
+        "11.0"
+      ]
+    },
+    {
+      "path": "Contents/Helpers/PodThemerEngine.app/Contents/Frameworks/PIL/__dot__dylibs/libwebpmux.3.dylib",
+      "minimum_macos": [
+        "11.0"
+      ]
+    },
+    {
+      "path": "Contents/Helpers/PodThemerEngine.app/Contents/Frameworks/PIL/__dot__dylibs/libwebpdemux.2.dylib",
+      "minimum_macos": [
+        "11.0"
+      ]
+    },
+    {
+      "path": "Contents/Helpers/PodThemerEngine.app/Contents/Frameworks/PIL/__dot__dylibs/liblzma.5.dylib",
+      "minimum_macos": [
+        "11.0"
+      ]
+    },
+    {
+      "path": "Contents/Helpers/PodThemerEngine.app/Contents/Frameworks/PIL/__dot__dylibs/libtiff.6.dylib",
+      "minimum_macos": [
+        "11.0"
+      ]
+    },
+    {
+      "path": "Contents/Helpers/PodThemerEngine.app/Contents/Frameworks/python3__dot__14/lib-dynload/_socket.cpython-314-darwin.so",
+      "minimum_macos": [
+        "11.0"
+      ]
+    },
+    {
+      "path": "Contents/Helpers/PodThemerEngine.app/Contents/Frameworks/python3__dot__14/lib-dynload/_decimal.cpython-314-darwin.so",
+      "minimum_macos": [
+        "11.0"
+      ]
+    },
+    {
+      "path": "Contents/Helpers/PodThemerEngine.app/Contents/Frameworks/python3__dot__14/lib-dynload/_hashlib.cpython-314-darwin.so",
+      "minimum_macos": [
+        "11.0"
+      ]
+    },
+    {
+      "path": "Contents/Helpers/PodThemerEngine.app/Contents/Frameworks/python3__dot__14/lib-dynload/grp.cpython-314-darwin.so",
+      "minimum_macos": [
+        "11.0"
+      ]
+    },
+    {
+      "path": "Contents/Helpers/PodThemerEngine.app/Contents/Frameworks/python3__dot__14/lib-dynload/_sha3.cpython-314-darwin.so",
+      "minimum_macos": [
+        "11.0"
+      ]
+    },
+    {
+      "path": "Contents/Helpers/PodThemerEngine.app/Contents/Frameworks/python3__dot__14/lib-dynload/fcntl.cpython-314-darwin.so",
+      "minimum_macos": [
+        "11.0"
+      ]
+    },
+    {
+      "path": "Contents/Helpers/PodThemerEngine.app/Contents/Frameworks/python3__dot__14/lib-dynload/_ssl.cpython-314-darwin.so",
+      "minimum_macos": [
+        "11.0"
+      ]
+    },
+    {
+      "path": "Contents/Helpers/PodThemerEngine.app/Contents/Frameworks/python3__dot__14/lib-dynload/_statistics.cpython-314-darwin.so",
+      "minimum_macos": [
+        "11.0"
+      ]
+    },
+    {
+      "path": "Contents/Helpers/PodThemerEngine.app/Contents/Frameworks/python3__dot__14/lib-dynload/_csv.cpython-314-darwin.so",
+      "minimum_macos": [
+        "11.0"
+      ]
+    },
+    {
+      "path": "Contents/Helpers/PodThemerEngine.app/Contents/Frameworks/python3__dot__14/lib-dynload/_blake2.cpython-314-darwin.so",
+      "minimum_macos": [
+        "11.0"
+      ]
+    },
+    {
+      "path": "Contents/Helpers/PodThemerEngine.app/Contents/Frameworks/python3__dot__14/lib-dynload/_zstd.cpython-314-darwin.so",
+      "minimum_macos": [
+        "11.0"
+      ]
+    },
+    {
+      "path": "Contents/Helpers/PodThemerEngine.app/Contents/Frameworks/python3__dot__14/lib-dynload/_struct.cpython-314-darwin.so",
+      "minimum_macos": [
+        "11.0"
+      ]
+    },
+    {
+      "path": "Contents/Helpers/PodThemerEngine.app/Contents/Frameworks/python3__dot__14/lib-dynload/array.cpython-314-darwin.so",
+      "minimum_macos": [
+        "11.0"
+      ]
+    },
+    {
+      "path": "Contents/Helpers/PodThemerEngine.app/Contents/Frameworks/python3__dot__14/lib-dynload/_sha1.cpython-314-darwin.so",
+      "minimum_macos": [
+        "11.0"
+      ]
+    },
+    {
+      "path": "Contents/Helpers/PodThemerEngine.app/Contents/Frameworks/python3__dot__14/lib-dynload/_posixsubprocess.cpython-314-darwin.so",
+      "minimum_macos": [
+        "11.0"
+      ]
+    },
+    {
+      "path": "Contents/Helpers/PodThemerEngine.app/Contents/Frameworks/python3__dot__14/lib-dynload/_pickle.cpython-314-darwin.so",
+      "minimum_macos": [
+        "11.0"
+      ]
+    },
+    {
+      "path": "Contents/Helpers/PodThemerEngine.app/Contents/Frameworks/python3__dot__14/lib-dynload/select.cpython-314-darwin.so",
+      "minimum_macos": [
+        "11.0"
+      ]
+    },
+    {
+      "path": "Contents/Helpers/PodThemerEngine.app/Contents/Frameworks/python3__dot__14/lib-dynload/_lzma.cpython-314-darwin.so",
+      "minimum_macos": [
+        "11.0"
+      ]
+    },
+    {
+      "path": "Contents/Helpers/PodThemerEngine.app/Contents/Frameworks/python3__dot__14/lib-dynload/pyexpat.cpython-314-darwin.so",
+      "minimum_macos": [
+        "11.0"
+      ]
+    },
+    {
+      "path": "Contents/Helpers/PodThemerEngine.app/Contents/Frameworks/python3__dot__14/lib-dynload/unicodedata.cpython-314-darwin.so",
+      "minimum_macos": [
+        "11.0"
+      ]
+    },
+    {
+      "path": "Contents/Helpers/PodThemerEngine.app/Contents/Frameworks/python3__dot__14/lib-dynload/zlib.cpython-314-darwin.so",
+      "minimum_macos": [
+        "11.0"
+      ]
+    },
+    {
+      "path": "Contents/Helpers/PodThemerEngine.app/Contents/Frameworks/python3__dot__14/lib-dynload/_codecs_cn.cpython-314-darwin.so",
+      "minimum_macos": [
+        "11.0"
+      ]
+    },
+    {
+      "path": "Contents/Helpers/PodThemerEngine.app/Contents/Frameworks/python3__dot__14/lib-dynload/_multibytecodec.cpython-314-darwin.so",
+      "minimum_macos": [
+        "11.0"
+      ]
+    },
+    {
+      "path": "Contents/Helpers/PodThemerEngine.app/Contents/Frameworks/python3__dot__14/lib-dynload/_bisect.cpython-314-darwin.so",
+      "minimum_macos": [
+        "11.0"
+      ]
+    },
+    {
+      "path": "Contents/Helpers/PodThemerEngine.app/Contents/Frameworks/python3__dot__14/lib-dynload/math.cpython-314-darwin.so",
+      "minimum_macos": [
+        "11.0"
+      ]
+    },
+    {
+      "path": "Contents/Helpers/PodThemerEngine.app/Contents/Frameworks/python3__dot__14/lib-dynload/_sha2.cpython-314-darwin.so",
+      "minimum_macos": [
+        "11.0"
+      ]
+    },
+    {
+      "path": "Contents/Helpers/PodThemerEngine.app/Contents/Frameworks/python3__dot__14/lib-dynload/_codecs_iso2022.cpython-314-darwin.so",
+      "minimum_macos": [
+        "11.0"
+      ]
+    },
+    {
+      "path": "Contents/Helpers/PodThemerEngine.app/Contents/Frameworks/python3__dot__14/lib-dynload/mmap.cpython-314-darwin.so",
+      "minimum_macos": [
+        "11.0"
+      ]
+    },
+    {
+      "path": "Contents/Helpers/PodThemerEngine.app/Contents/Frameworks/python3__dot__14/lib-dynload/_bz2.cpython-314-darwin.so",
+      "minimum_macos": [
+        "11.0"
+      ]
+    },
+    {
+      "path": "Contents/Helpers/PodThemerEngine.app/Contents/Frameworks/python3__dot__14/lib-dynload/_codecs_jp.cpython-314-darwin.so",
+      "minimum_macos": [
+        "11.0"
+      ]
+    },
+    {
+      "path": "Contents/Helpers/PodThemerEngine.app/Contents/Frameworks/python3__dot__14/lib-dynload/_codecs_hk.cpython-314-darwin.so",
+      "minimum_macos": [
+        "11.0"
+      ]
+    },
+    {
+      "path": "Contents/Helpers/PodThemerEngine.app/Contents/Frameworks/python3__dot__14/lib-dynload/resource.cpython-314-darwin.so",
+      "minimum_macos": [
+        "11.0"
+      ]
+    },
+    {
+      "path": "Contents/Helpers/PodThemerEngine.app/Contents/Frameworks/python3__dot__14/lib-dynload/_random.cpython-314-darwin.so",
+      "minimum_macos": [
+        "11.0"
+      ]
+    },
+    {
+      "path": "Contents/Helpers/PodThemerEngine.app/Contents/Frameworks/python3__dot__14/lib-dynload/_json.cpython-314-darwin.so",
+      "minimum_macos": [
+        "11.0"
+      ]
+    },
+    {
+      "path": "Contents/Helpers/PodThemerEngine.app/Contents/Frameworks/python3__dot__14/lib-dynload/binascii.cpython-314-darwin.so",
+      "minimum_macos": [
+        "11.0"
+      ]
+    },
+    {
+      "path": "Contents/Helpers/PodThemerEngine.app/Contents/Frameworks/python3__dot__14/lib-dynload/_md5.cpython-314-darwin.so",
+      "minimum_macos": [
+        "11.0"
+      ]
+    },
+    {
+      "path": "Contents/Helpers/PodThemerEngine.app/Contents/Frameworks/python3__dot__14/lib-dynload/_scproxy.cpython-314-darwin.so",
+      "minimum_macos": [
+        "11.0"
+      ]
+    },
+    {
+      "path": "Contents/Helpers/PodThemerEngine.app/Contents/Frameworks/python3__dot__14/lib-dynload/_codecs_kr.cpython-314-darwin.so",
+      "minimum_macos": [
+        "11.0"
+      ]
+    },
+    {
+      "path": "Contents/Helpers/PodThemerEngine.app/Contents/Frameworks/python3__dot__14/lib-dynload/_codecs_tw.cpython-314-darwin.so",
+      "minimum_macos": [
+        "11.0"
+      ]
+    },
+    {
+      "path": "Contents/Helpers/PodThemerEngine.app/Contents/Frameworks/python3__dot__14/lib-dynload/_heapq.cpython-314-darwin.so",
+      "minimum_macos": [
+        "11.0"
+      ]
+    },
+    {
+      "path": "Contents/Helpers/PodThemerEngine.app/Contents/Frameworks/python3__dot__14/lib-dynload/_elementtree.cpython-314-darwin.so",
+      "minimum_macos": [
+        "11.0"
+      ]
+    }
+  ],
+  "checks": {
+    "exports": 20,
+    "previews": 80
+  },
+  "original_inputs_unchanged": true,
+  "developer_id_signed": false,
+  "notarized": false,
+  "hardware_tested": false,
+  "fixture_note": "Final QA uses all five restored owner-supplied original IPSW archives. Each ZIP CRC, exact stock payload SHA-256, internal payload name and manifest family were verified. No firmware fixtures are distributed.",
+  "source_tests": 21,
+  "native_ui_checked": [
+    "4G original IPSW loads",
+    "Enlarge Inter Tight Semibold 13px label",
+    "Original icon rendering",
+    "Wheel scrolling and Now Playing action",
+    "Centered Now Playing metadata"
+  ],
+  "no_icon_font_files_or_rasters": true
+}

@@ -1,4 +1,4 @@
-# Pod Themer 0.4.0 — release candidate
+# Pod Themer 0.4.0 - release candidate
 
 A standalone macOS app for giving Apple's original monochrome iPod firmware a choice of four complete themes.
 
